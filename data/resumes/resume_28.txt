@@ -1,0 +1,76 @@
+Sidhant Saswat
+Bangalore, Karnataka
++91 8095436480 | sidhantsaswat19@gmail.com
+LinkedIn: SidhantSaswat | GitHub: sidhantsaswat19
+
+SUMMARY
+Computer Engineering Undergraduate (CGPA 8.60) with expertise
+in Java Systems Programming. Proficient in Java and Python
+leveraging Object-Oriented Programming and Data Structures
+to drive efficient Program Development. Expertise includes
+engineering scalable backends including a binary data
+persistence engine and state-driven simulations. Focused
+on bridging software architecture with cloud infrastructure.
+
+EDUCATION
+CMR University Bengaluru
+B.Tech Computer Engineering | CGPA: 8.60 | Expected 2028
+Class XII Karnataka State Board DPUE | 80% | 2024
+Class X CBSE | 95% | 2022
+
+TECHNICAL SKILLS
+Languages: Java, Python, C
+Core Engineering: DSA, Algorithm Design,
+                  Object Oriented Design, Software Design
+Software Practices: SDLC, Debugging, Maintainability,
+                    File I/O, Monitoring and Observability
+Tools: Git, GitHub, IntelliJ IDEA, VS Code
+
+PROJECTS
+Java Data Persistence Engine
+Java, Binary Serialization
+- Engineered multi-format file handling utility using Java
+  I/O Streams to serialize complex objects and primitives
+  into both text and binary formats.
+- Achieved multi-format data retention by implementing
+  hybrid storage strategies ensuring 100% data integrity
+  for runtime object persistence.
+
+Academic Administration System
+Java, OOP, Serialization
+- Architected modular OOP backend using Repository Pattern
+  to manage complex Faculty-Student data relationships.
+- Implemented custom Persistence Layer via Java Serialization
+  to ensure data durability and system reliability across
+  restarts.
+- Reduced code redundancy by 40% through optimized class
+  hierarchy and ensured maximum data retention via binary
+  storage.
+
+Smart Vending Machine Simulation
+Java, Design Patterns, State Logic
+- Architected state-driven vending system simulating
+  real-world micro-factory environment for customizable
+  coffee products.
+- Implemented persistent Inventory Management System using
+  Java Serialization and Singleton Pattern.
+- Designed fault-tolerant transaction layer that validates
+  resource availability preventing logic errors and ensuring
+  system reliability.
+- Automated inventory tracking reduced out-of-stock errors
+  by 100%.
+
+CERTIFICATIONS
+Oracle Cloud Infrastructure 2025 Certified DevOps Professional
+Oracle | Oct 2025
+Oracle Database AWS Certified Architect Professional
+Oracle | Oct 2025
+Data Structure and Algorithm Design — NPTEL | Oct 2025
+Programming with Java — Amazon | Dec 2025
+Crash Course on Python — Google | Feb 2025
+Introduction to Software Development — Amazon | Jul 2025
+
+ACHIEVEMENTS
+- LeetCode Solved 100+ Problems Rank Top 30%
+- Top 5 Internal SIH Hackathon 2025
+  Alumni Engagement and Networking Platform

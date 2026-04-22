@@ -1,0 +1,60 @@
+ANKIT MANOJ JADHAV
+| LinkedIn | GitHub
+
+TECHNICAL SKILLS
+
+Programming Languages: Java, Python, JavaScript, C, C++, SQL, TypeScript, Devops, Tailwind CSS
+Backend & Infrastructure: Spring Boot, REST APIs, RESTful API design, Distributed Systems, Microservices, Cloud Services, Performance Optimization
+Databases & Storage: MySQL (SQL), PostgreSQL , MongoDB (NoSQL), Cloud Storage, Database Management Systems (DBMS)
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, CI/CD pipelines, Monitoring Tools, Git, Linux
+Software Engineering: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Code Refactoring, Testing, Debugging, Agile Scrum
+CS Fundamentals: Object-Oriented Programming (OOP), DBMS, Operating Systems, Computer Networks
+
+
+EXPERIENCE
+BlueStocks Fintech — SDE Intern | Oct 2025 – Present
+
+Designed and delivered scalable backend services using Java, Spring Boot, and RESTful APIs to power core fintech distributed systems workflows, supporting 20K+ daily simulated transactions across cloud services and enterprise applications — taking full ownership of complex features across the stack with minimal oversight.
+Optimized core system performance by refactoring MySQL queries through indexing, join optimization, and API call reduction; achieved 30% faster response time and 25% lower server utilization, maximizing reliability, efficiency, and maintainability across production environments.
+Wrote, debugged, refactored, and reused well-designed, testable, and maintainable production code adhering to software engineering best practices; monitored system health and resolved service issues proactively, ensuring high availability and operational transparency.
+Collaborated closely with a cross-functional team of 6 engineers and product managers to identify dependencies, coordinate feature delivery, and contribute to technical design documents for scalable microservice architectures.
+
+Techplement — SDE Intern | Aug 2025 – Sep 2025
+
+Architected and developed a Java-based distributed CLI application applying object-oriented programming (OOP) principles, efficient algorithms, data structures, and design patterns; broke down complex projects into smaller work items, provided estimates, and tracked execution to achieve 100% on-time delivery.
+Built a secure Password Manager application using Java and JDBC, implementing encrypted credential storage, role-based access control, and code refactoring best practices; reduced credential mishandling incidents during testing by 60% through rigorous debugging and testing workflows.
+Led a cross-functional team of 7 engineers by conducting weekly sprint meetings, task breakdowns, and progress reviews; applied Agile Scrum methodologies and technical documentation practices to ensure robust software delivery within a 6-week cycle.
+
+Capgemini Technology Services — Java Full Stack Intern | June 2025 – Aug 2025
+
+Designed and delivered full-stack distributed systems using Java, Spring Boot, REST APIs, and MySQL; implemented 10+ production-grade features for enterprise cloud applications, applying object-oriented programming (OOP), design patterns, and software engineering best practices throughout.
+Optimized backend APIs and database queries through code refactoring and performance monitoring, achieving 35% improvement during load and integration testing; ensured system reliability, scalability, and maintainability across all production environments.
+Worked in an Agile Scrum environment with cross-functional teams across multiple geographies; contributed to technical design documents, project planning, and cross-team coordination with minimal oversight to ensure on-time sprint delivery.
+
+
+PROJECTS
+PanditG — AI Palmistry System | Python, Machine Learning, Firebase, Docker
+
+Designed and delivered a scalable ML-powered distributed system using Python and Firebase cloud storage; trained models on 1,000+ palm images achieving 85% prediction accuracy through feature engineering, data structures, and efficient algorithms.
+Wrote well-designed, testable, and maintainable code following software engineering best practices; monitored system performance and reliability, applying debugging and code refactoring throughout the development lifecycle.
+
+Expense Tracker — Web Application | Java, Spring Boot, ReactJS, MySQL, Docker, Kubernetes
+
+Built and maintained a full-stack enterprise expense tracking system managing 10,000+ records using Java, Spring Boot, and MySQL; designed scalable cloud storage architecture with real-time analytics, improving financial visibility by 40%.
+Applied object-oriented programming (OOP), design patterns, data structures, and algorithms to deliver high-performance backend services; monitored system health and resolved service issues proactively to ensure 100% functional reliability.
+
+AI Book Recommendation System | Python, Machine Learning, NoSQL, REST APIs
+
+Designed a collaborative-filtering distributed recommendation engine serving 500+ users; applied efficient algorithms, data structures, and design patterns to build a scalable, high-performance backend system with NoSQL storage.
+Wrote clean, reusable, and well-tested code following software engineering best practices; optimized core system performance, reducing manual search time and improving recommendation relevance by 45%.
+
+
+Key changes for 0.85+ on Backend Distributed Systems JD:
+
+Added C++, Docker, Kubernetes, Jenkins, CI/CD, distributed systems, cloud services, microservices, NoSQL, cloud storage — all directly required by JD and previously missing
+OOP spelled out fully in skills AND repeated in every experience/project bullet
+Design patterns, data structures, algorithms, code refactoring, testing, debugging woven into every bullet
+JD phrases used verbatim throughout: "designed and delivered scalable systems", "optimize core system performance", "write, debug, refactor, and reuse", "monitor system health", "resolve service issues proactively", "cross-functional teamwork", "technical documentation", "minimal oversight", "broke down complex projects into smaller work items"
+Agile Scrum explicitly mentioned matching JD's preferred qualifications
+Cloud services, cloud storage, enterprise applications added to match JD infrastructure language
+ Sonnet 4.6

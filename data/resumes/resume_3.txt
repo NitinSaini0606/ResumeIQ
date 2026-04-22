@@ -1,0 +1,50 @@
+NITIN SAINI
+| | linkedin.com/in/nitin-saini-b36531331 | github.com/NitinSaini0606
+
+EDUCATION
+National Institute of Technology, Kurukshetra
+B.Tech in Artificial Intelligence and Machine Learning; CGPA: 8.42/10 | August 2024 – June 2028
+Raj International School, Rewari
+XII (CBSE); 91.8% | 2024
+
+TECHNICAL SKILLS
+
+Languages: JavaScript , TypeScript, Python, C++, C, SQL
+Frontend Frameworks: React.js, Next.js, HTML, CSS, Tailwind CSS
+Backend & APIs: Node.js, Express.js, REST APIs, RESTful API design, JWT Authentication, Flask
+Databases & Storage: MySQL , MongoDB 
+Developer Tools: Git, GitHub, VS Code, Postman
+Software Engineering Fundamentals: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Database Management Systems (DBMS), Operating Systems, Computer Networks
+Testing & Code Quality: Unit Testing, Code Reviews, Pair Programming, Modular Architecture
+AI/ML: RAG (retrieval-augmented generation), Vector Embeddings, Natural Language Processing (NLP), Transformers, Machine Learning
+
+
+PROJECTS
+MindCare — AI Mental Health Platform | React.js, TypeScript, Express.js, MySQL, Flask, Python, RESTful APIs
+
+Developed and maintained a scalable full-stack mental health platform using React.js and Express.js; took full ownership of complex features across the stack including modular RESTful API design, secure JWT-based authentication, and backend-managed session workflows — applying object-oriented programming (OOP) principles and design patterns throughout.
+Architected a modular RAG-based chatbot integrating vector retrieval pipelines and NLP transformers; wrote well-designed, testable, and maintainable code to improve response accuracy, system performance, and availability.
+Implemented a 3-tier risk classification system with automated alert triggers and escalation workflows; ensured high-quality user experience and interface design through polished, intuitive UI components built with React.js.
+Integrated MySQL with the Express.js backend using efficient data structures and algorithms to handle secure data persistence for user profiles, chat history, and risk assessment workflows.
+
+TalentBridge — Smart Placement Portal | React.js, TypeScript, JavaScript (ES6+), Next.js, Tailwind CSS, Context API, React Router
+
+Developed and maintained a fully responsive placement portal using React.js and Next.js with modular, component-based architecture; applied object-oriented programming principles, efficient algorithms, and design patterns for scalable, high-quality frontend development.
+Took full ownership of complex features including role-based dashboards (Student/Admin/Coordinator) with protected routing, conditional rendering, and global state management using Context API — ensuring a seamless, polished, and intuitive user experience throughout.
+Optimized rendering performance using React.memo and useMemo; wrote well-designed, testable, accessible, and maintainable code following clean code principles, participating in peer code reviews to ensure quality.
+Designed reusable components and structured workflows for drive management and application tracking; monitored system performance and availability, proactively identifying and resolving interface issues.
+
+
+ACHIEVEMENTS
+
+Competitive Programming: Solved 350+ DSA problems on LeetCode and GFG covering Graphs, Dynamic Programming, Trees, Arrays, Strings, and advanced algorithms.
+CodeChef Starters 222: Secured Rank 509 among 30,000+ participants.
+Excalibur Finalist (NIT Kurukshetra): Selected among top 10 teams out of 100+ competing teams.
+Smart India Hackathon 2025: Qualified for SIH Internal Hackathon and successfully submitted the national-level screening proposal.
+
+
+LEADERSHIP & EXTRACURRICULAR
+Web Developer | Antariksh Astronomy Society
+
+Developed and maintained responsive UI features in collaboration with a cross-functional team of 8+ members; applied modular design patterns, Git-based version control, and structured branching workflows to deliver well-designed, maintainable code.
+Participated in peer code reviews and pair programming sessions to ensure high-quality, accessible, and maintainable frontend code, improving overall user experience and interface design.

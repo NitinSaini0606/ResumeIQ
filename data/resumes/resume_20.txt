@@ -1,0 +1,51 @@
+
+ARYAN MEHTA
+aryanmehta@email.com | github.com/aryanmehta | linkedin.com/in/aryanmehta
+
+EDUCATION
+Indian Institute of Technology, Bombay
+B.Tech in Computer Science (AI Specialization); CGPA: 8.92/10 | 2021 – 2025
+Relevant Coursework: Machine Learning, Deep Learning, NLP, Data Structures & Algorithms (DSA), DBMS, Linear Algebra, Probability & Statistics
+
+TECHNICAL SKILLS
+
+Programming Languages: Python, Java, C, SQL, Scala
+ML Frameworks: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib
+AI/ML Techniques: NLP, Transformers, Generative AI, LLM fine-tuning, RAG (Retrieval-Augmented Generation), recommendation systems, ranking models, embeddings, vector search, conversational AI, prompt engineering
+Data Engineering: Apache Spark, Hadoop, Airflow, batch pipelines, real-time streaming pipelines, ETL pipelines, feature engineering
+Databases & Storage: MySQL (SQL), MongoDB (NoSQL), vector databases, knowledge graphs, cloud storage
+Cloud & DevOps: AWS, GCP, Docker, Kubernetes, CI/CD pipelines, Git
+Software Engineering: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Code Refactoring, Testing, Debugging
+
+
+EXPERIENCE
+ML Engineer Intern — DataSphere AI | May 2024 – Aug 2024
+
+Designed and implemented ML/AI models for ranking and recommendation applications using PyTorch and Scikit-learn; built and maintained batch and real-time streaming data pipelines using Apache Spark and Airflow — taking full ownership of feature development and system health to ensure reliability and scalability in production.
+Fine-tuned pre-trained BERT and Transformer models for NLP classification tasks; deployed machine learning models to AWS cloud infrastructure and monitored performance continuously — achieving 87% accuracy improvement through efficient algorithms, data structures, and feature engineering.
+Built and maintained ETL pipelines for batch processing using Hadoop and Airflow; wrote clean, reusable, and well-tested production code — participated in code reviews and mentoring sessions to improve engineering standards and processes.
+Collaborated closely with cross-functional product and engineering teams to deliver new AI-powered features; applied generative AI, LLM fine-tuning, and RAG techniques to build intelligent recommendation systems with measurable business impact.
+
+Research Intern — IITB AI Lab | Dec 2023 – Feb 2024
+
+Designed and implemented NLP models using Transformers and embeddings for text classification and semantic search; applied vector databases and knowledge graphs for retrieval-augmented generation (RAG) solutions — achieving state-of-the-art performance on benchmark datasets.
+Built real-time streaming data pipelines using Apache Spark and Kafka; applied efficient algorithms, data structures, and software engineering best practices to ensure high system reliability, scalability, and availability in production.
+
+
+PROJECTS
+SmartRec — AI Recommendation Engine | Python, PyTorch, TensorFlow, Apache Spark, Airflow, MongoDB, Docker, AWS
+
+Designed and implemented ML/AI models for ranking and recommendation systems; built and maintained batch and real-time data pipelines using Apache Spark and Airflow — applying NLP, Transformers, embeddings, and vector search techniques to deliver intelligent product recommendations with measurable business impact.
+Fine-tuned pre-trained LLM and Transformer models for production use; deployed machine learning models to AWS and monitored performance continuously — wrote clean, reusable, well-tested code following software engineering best practices throughout.
+
+ConvoBot — Conversational AI System | Python, LLMs, RAG, Vector Databases, FastAPI, Docker, GCP
+
+Designed and implemented a conversational AI system using LLM fine-tuning, RAG architecture, and vector databases; built real-time data pipelines for batch and streaming inference — applying generative AI, NLP, and recommendation system techniques to deliver intelligent user experiences.
+Deployed ML models to GCP with Docker and CI/CD pipelines; monitored system performance and availability, proactively resolving service issues — ensuring high reliability and scalability in production.
+
+
+ACHIEVEMENTS
+
+Solved 400+ DSA problems on LeetCode — top 5% globally.
+Published research paper on NLP-based text summarization at IEEE conference.
+Winner — Inter-IIT ML Challenge 2024.

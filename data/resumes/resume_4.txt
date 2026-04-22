@@ -1,0 +1,55 @@
+DIA DALAL
+LinkedIn | GitHub | LeetCode
+
+EDUCATION
+Indira Gandhi Delhi Technical University for Women
+Bachelor of Technology — Computer Science Engineering with AI; CGPA: 9.7 | August 2024 – May 2028
+Relevant Coursework: Data Structures & Algorithms (DSA), Object-Oriented Programming, Design Patterns, DBMS, Computer Networks
+Deen Bandhu Public School — Senior Secondary (CBSE); 91.2% | 2022 – 2024
+
+TECHNICAL SKILLS
+Programming Languages : C, C++, Python
+Frontend Frameworks & Languages: React.js, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS
+Backend & APIs: Node.js, Express.js, REST APIs, RESTful API design, Mongoose,Docker , Kubernetes,Microservices
+Databases & Storage: MongoDB (NoSQL), MySQL (SQL)
+Developer Tools: Git, GitHub, Postman, Clerk, Stream API, JSON, Axios
+Software Engineering Fundamentals: Object-Oriented Programming , Data Structures & Algorithms (DSA), Design Patterns, Database Management Systems (DBMS), Operating Systems, Computer Networks
+Testing & Code Quality: Unit Testing, Code Reviews, Modular Architecture, Pair Programming
+AI & Specialized Skills: Machine Learning, Natural Language Processing (NLP), Phishing Detection, Prompt Engineering, PyTorch, TensorFlow
+
+
+EXPERIENCE
+Indira Gandhi Delhi Technical University for Women — Full-Stack Development Intern | June 2025 – July 2025
+
+Developed and maintained Teamify.ai, a full-stack platform for hackathon participants, collaborating closely with a cross-functional team of 4; took full ownership of complex features across the stack including secure authentication, dynamic dashboards, and resource management — applying object-oriented programming (OOP) principles and design patterns throughout.
+Wrote well-designed, testable, accessible, and maintainable code for production; ensured high-quality user experience and interface design, resulting in a 50% increase in team creation and 30% increase in user engagement.
+Integrated AI-powered features including a Pitch Generator, Chatbot Summarizer, and AI Assistant; monitored system performance and availability, proactively identifying and resolving interface issues to deliver a polished, intuitive application.
+
+BrainovIQ Technology — Software Developer Intern | June 2025 – July 2025
+
+Developed and maintained interactive, responsive web applications with the React team using React.js, JavaScript, and TypeScript; resolved 50+ bugs, ensuring high system reliability, performance, and availability.
+Took full ownership of new application features across the stack; wrote well-designed, reusable, and maintainable code following clean code principles, achieving 100% on-time delivery and a 25% increase in client satisfaction.
+Participated in code reviews and pair programming sessions to ensure high-quality, accessible frontend code; applied modular design patterns and efficient algorithms to enhance user experience and reduce project timelines by 15%.
+
+
+PROJECTS
+PingPal — Next.js, React, TypeScript, JavaScript, CSS, Node.js, Stream API, Clerk
+
+Developed and maintained a full-stack real-time chat web application using Next.js and React; took full ownership of complex features across the stack including authentication via Clerk, real-time messaging via Stream API, and modular state management — applying object-oriented programming (OOP) principles and design patterns throughout.
+Wrote well-designed, testable, accessible, and maintainable frontend code; optimized system performance and availability by implementing efficient algorithms and data structures, achieving 35% faster load time compared to standard React setups.
+Ensured high-quality user experience and interface design, delivering a polished, intuitive application; participated in iterative code reviews to maintain clean, reusable component architecture with Git version control.
+
+Soundify — HTML, CSS, JavaScript, TypeScript
+
+Developed and maintained a responsive Spotify-inspired music player using HTML, CSS, JavaScript, and TypeScript; implemented a JSON-driven, folder-based dynamic playlist and UI rendering system enabling seamless access to 50+ songs with 100% functional reliability — without external libraries.
+Wrote well-designed, testable, and maintainable modular code achieving 95% modularity; applied efficient algorithms, data structures, and design patterns to ensure smooth cross-device performance and a seamless, polished user experience.
+
+
+ACHIEVEMENTS
+
+Department Rank 1, Semester 2: Secured perfect 10 SGPA.
+HPAIR HCONF'26: Selected as a Delegate at the Harvard Project for Asian and International Relations Conference.
+Research Paper — "Phishing Detection Model using Machine Learning": Accepted at the 8th International Conference on Machine Learning and Natural Language Processing (MLNLP 2025); applied NLP, machine learning algorithms, and data structures to build a robust phishing detection pipeline.
+Flipkart Grid 7.0: Advanced to preliminary quarter stage of this national-level engineering competition.
+Adobe India Hackathon 2025: Advanced to preliminary quarter stage after clearing DSA-centric Round 1; contributed to building scalable backend systems and semantic linking using efficient algorithms and design patterns.
+Codess.Cafe Mentee: Selected for a community of empowered women in tech, gaining guidance in technical skills and professional development.

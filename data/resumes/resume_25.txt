@@ -1,0 +1,104 @@
+Shalini Singh
+Siliguri, West Bengal
+sshalini.singh@gmail.com | 
+linkedin.com/in/shalini | github.com/proshali=
+
+SUMMARY
+Final-year B.Tech (CSE-AIML) student with hands-on experience in
+full-stack development using Java, React.js, Node.js and REST APIs.
+Strong foundation in Data Structures, OOP and software engineering
+principles. Experience designing and implementing full-stack solutions
+integrating AI-based features into web applications. Interested in
+scalable backend systems, enterprise software development and building
+highly available production-grade applications.
+
+EDUCATION
+MAKAUT — Bachelor of Technology
+Computer Science and Engineering (AIML) | CGPA: 8.53 | Oct 2022 – May 2026
+Siliguri, West Bengal
+
+EXPERIENCE
+Real Estate Startup — Web Developer Intern Full Stack | Oct 2025 – Present
+Siliguri, West Bengal (Onsite, Live Project)
+- Designed and implemented full-stack web solutions using React.js,
+  JavaScript, HTML, CSS, Node.js and REST APIs for production
+  real estate platform serving real users.
+- Wrote clean, reusable and well-tested code for production
+  environments following software engineering best practices.
+- Designed REST APIs and integrated MongoDB and MySQL databases
+  for real-time property listings and CRM workflows.
+- Monitored system performance, availability and reliability
+  proactively identifying issues and resolving service problems.
+- Managed end-to-end development lifecycle including requirement
+  gathering, implementation, deployment and maintenance.
+- Collaborated with cross-functional teams to align technical
+  implementation with business requirements.
+- Implemented web security standards including authentication
+  and role-based access control for secure data management.
+
+Sasken Technologies Ltd. — Java Developer Intern | Jun 2025 – Jul 2025
+Remote (Frontend + Backend)
+- Developed backend modules for enterprise license tracking and
+  reporting system using Core Java and RESTful APIs.
+- Wrote clean, maintainable and reusable code applying OOP
+  design principles and algorithms throughout development.
+- Implemented dynamic CSV report generation and data processing
+  for departmental analytics and scalability requirements.
+- Conducted functional testing, debugging and code reviews to
+  improve reliability and ensure consistent reporting outputs.
+- Worked in Agile development environment with cross-team
+  coordination and technical documentation.
+- Stayed up-to-date with modern development tools, frameworks
+  and software engineering best practices.
+
+PROJECTS
+WanderLust — Full Stack Property Platform
+JavaScript, HTML, CSS, Node.js, MongoDB | August 2025
+- Designed and implemented full-stack property listing platform
+  with authentication and role-based access control.
+- Wrote clean reusable well-tested code for production environment
+  following scalability and observability best practices.
+- Designed REST APIs for modular backend services and dynamic
+  property management with performance optimization.
+- Integrated Cloudinary for media storage and Mapbox for
+  geolocation features.
+- Monitored system performance and availability proactively
+  resolving service issues throughout development.
+
+LightWeight College Website — Hackathon Winner
+MERN Stack | 2025
+- Designed and implemented full-stack college website with
+  responsive React frontend and optimized backend architecture.
+- Broke down complex work items into smaller tasks providing
+  accurate estimates and tracking execution.
+- Developed admin panel for real-time content updates.
+- Integrated AI-powered chatbot for automated query handling.
+- Deployed and maintained production system ensuring
+  high availability and fault tolerance.
+
+Breast Cancer Prediction App
+Python, Scikit-learn, ML, Streamlit | September 2025
+- Built and deployed machine learning classification model
+  using Logistic Regression for production use.
+- Performed data preprocessing, feature evaluation and
+  model performance analysis.
+- Integrated ML inference into interactive web interface
+  for real-time predictions.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Python, C, C++
+Frontend: React.js, HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js, REST APIs
+Databases: MySQL, MongoDB
+Tools: Git, GitHub, Postman, Docker
+Core CS: DSA, OOP, DBMS, Operating Systems,
+         Cloud concepts, System Design
+AI/ML: Scikit-learn, basic ML deployment,
+       RAG academic exposure
+Practices: Code reviews, debugging, unit testing,
+           Agile, CI/CD, web security, authentication
+
+ACHIEVEMENTS
+- LeetCode 250+ problems solved
+- Hackathon Winner — LightWeight College Website
+- CGPA 8.53 — Final Year B.Tech AIML

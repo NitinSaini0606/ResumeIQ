@@ -1,0 +1,41 @@
+SNEHA KULKARNI
+snehakulkarni@email.com | github.com/snehakulkarni
+
+EDUCATION
+IIT Madras
+B.Tech Computer Science (AI Specialization) | CGPA: 9.1 | 2020 – 2024
+Coursework: Machine Learning, Deep Learning, NLP, Statistics, Linear Algebra
+
+TECHNICAL SKILLS
+Languages: Python, R, SQL, Scala
+ML Frameworks: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLMs, Generative AI, RAG, 
+       Retrieval Augmented Generation, embeddings, vector databases
+Data Engineering: Apache Spark, Hadoop, Airflow, Kafka, ETL pipelines
+Databases: MySQL, MongoDB, PostgreSQL
+Tools: Docker, Git, AWS, GCP, Jupyter, Pandas, NumPy, Matplotlib
+
+EXPERIENCE
+Google — ML Engineer Intern | May 2023 – Aug 2023
+- Designed and implemented NLP models using Transformers and BERT
+  for text classification achieving 91% accuracy on benchmark datasets
+- Built and maintained batch and real-time data pipelines using
+  Apache Spark and Airflow for large scale ML model training
+- Fine-tuned pre-trained LLM models using PyTorch and TensorFlow;
+  deployed machine learning models to GCP with Docker
+
+PROJECTS
+ConvoAI — Conversational AI Chatbot
+Python, LLMs, RAG, Vector Databases, FastAPI, GCP
+- Built conversational AI system using LLM fine-tuning and RAG
+  architecture with vector databases and embeddings
+
+SentimentNet — NLP Sentiment Analysis
+PyTorch, Transformers, BERT, Apache Spark, AWS
+- Designed NLP sentiment analysis pipeline using BERT and Transformers
+  processing 1M+ reviews with Apache Spark
+
+ACHIEVEMENTS
+- Published NLP paper at ACL conference
+- Kaggle Competition Master — top 1% globally
+- Google Women Techmakers Scholar 2023

@@ -1,0 +1,66 @@
+SHUMBUL ARIFA
+linkedin.com/in/shumbul | github.com/shumbul
+
+EDUCATION
+National Institute of Technology, Karnataka
+B.Tech in Computer Science & Engineering | July 2018 – May 2022
+Kendriya Vidyalaya MEG & Centre, Bengaluru
+Higher Secondary School; 94.4% | April 2017 – May 2018
+Relevant Coursework: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, Machine Learning, Computer Networking, Compiler Design, Cryptography, High Performance Computing
+
+TECHNICAL SKILLS
+
+Programming Languages: C++, C, Python, JavaScript, Java, SQL
+Frontend & Mobile: HTML, Node.js, Angular, Android Studio, Kotlin, React.js, Bootstrap
+Backend & APIs: Node.js, Django, Spring Boot, Flask, REST APIs, gRPC APIs, JWT Authentication
+Databases & Storage: MySQL (SQL), MongoDB (NoSQL), cloud storage, Database Management Systems (DBMS)
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, Git, CI/CD pipelines, monitoring tools
+Software Engineering: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Code Refactoring, Testing, Debugging, Agile
+AI & ML: Machine Learning, NLP, OpenCV, Pandas, Face Recognition, Blockchain, Solidity
+Tools: Bokeh, Android Studio, MetaMask, Truffle Suite, Ganache
+
+
+EXPERIENCE
+Interim Engineering Intern — Qualcomm | May 2021 – July 2021
+
+Designed and developed a debugging tool using Python to optimize system performance and enhance cross-functional team efficiency for daily issue triaging; wrote well-designed, testable, and maintainable production code applying object-oriented programming (OOP) principles and software engineering best practices throughout.
+Wrote, debugged, refactored, and reused clean production code using Python, Bokeh, Git, and Jenkins; monitored system health and resolved service issues proactively, improving team performance for daily triage workflows across modern engineering teams.
+Collaborated closely with cross-functional engineering teams to identify dependencies, coordinate feature delivery, and contribute to technical design documents — breaking down complex work items into smaller tasks and tracking execution with minimal oversight.
+
+Back-End Developer — Comunev | June 2020 – September 2020
+
+Designed and implemented full-stack backend services for a social media platform using Node.js, MongoDB, Angular, and REST APIs; applied object-oriented programming (OOP) principles, design patterns, and efficient algorithms to build a scalable matchmaking system and backend database architecture.
+Wrote clean, reusable, and well-tested production code for backend services; monitored system performance, availability, and reliability — proactively identifying and resolving service issues across the platform's distributed backend infrastructure.
+Collaborated with cross-functional stakeholders to gather and define feature requirements; broke down complex work items into smaller tasks, integrated AI/ML-powered features using Python and machine learning algorithms, and ensured high system reliability and maintainability.
+
+
+PROJECTS
+Smart Attendance System | Python, Machine Learning, OpenCV, Pandas, Face Recognition, Docker
+
+Designed and implemented an AI-powered machine learning system for automated face recognition attendance tracking; built and maintained real-time data pipelines using OpenCV and Pandas — applying efficient algorithms, data structures, and design patterns to ensure high system reliability and scalability.
+Deployed the ML model to production and monitored performance; wrote clean, reusable, and well-tested code following software engineering best practices — integrating NLP and AI/ML automation techniques for intelligent, high-quality user experience.
+
+Summary Scape | Python, NLP, Kotlin, Android, REST APIs, Flask
+
+Designed and implemented an AI-powered Android application integrating NLP and machine learning pipelines to process and summarize YouTube video subtitles; applied object-oriented programming (OOP) principles, design patterns, and REST APIs to deliver a scalable full-stack mobile solution.
+Wrote clean, reusable, and well-tested production code; monitored system performance and availability, proactively resolving service issues — demonstrating strong problem-solving mindset and proactive approach to AI/ML integration in full-stack applications.
+
+Match The Tiles | Solidity, JavaScript, Ethereum, Blockchain, MetaMask, Truffle Suite, Ganache
+
+Designed and developed a blockchain-based distributed system using Solidity and Ethereum; applied object-oriented programming (OOP), design patterns, data structures, and algorithms to build a secure, scalable, and maintainable decentralized application.
+Wrote well-designed, testable, and maintainable smart contract code; monitored system health and resolved service issues proactively — applying software engineering best practices for reliability, security, and observability across distributed blockchain infrastructure.
+
+CamSafe Safety Camera | Python, Machine Learning, REST APIs, cloud storage, Docker
+
+Designed and delivered a scalable AI-powered safety monitoring system using Python and machine learning; built backend REST API services for real-time intruder detection and alert pipelines — applying efficient algorithms, data structures, and design patterns to ensure high system performance and availability.
+Wrote clean, reusable, and well-tested production code; monitored system performance and availability, proactively identifying and resolving service issues — ensuring reliability, scalability, and maintainability across production cloud environments.
+
+
+ACHIEVEMENTS
+
+SheHacks IIITA (March 2021): Won category award and cash prize for Best Hack built on Ethereum blockchain.
+JEE Mains (2018): Ranked in top 0.4% out of ~1.2 million students.
+KCET (2018): Among top 0.01% successful candidates.
+Hash Code Google (2021): All India Rank 847, Global Rank 3137.
+Online Hackathon Festival OHF (2020): Ranked 78th out of 6,500+ teams.
+APSCRIPT IEEE APSIT (2020): Finalist for CNN-based model analyzing user sentiment from tweets.

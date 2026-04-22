@@ -1,0 +1,43 @@
+Join a dynamic team working on core messaging and collaboration platforms. Build impactful, user-facing features while contributing to fundamental system performance, memory, and design improvements. Collaborate across international teams to deliver high-quality web applications and enhance user experience.
+
+Responsibilities:
+
+- Develop and maintain web applications using React, JavaScript, and TypeScript.
+
+- Apply object-oriented programming principles and implement efficient algorithms, data structures, and design patterns.
+
+- Collaborate closely with Product, Design, and Engineering teams to build new features.
+
+- Take full ownership of complex features across the stack, including backend enhancements and native code integration.
+
+Identify high-impact opportunities, set technical direction, and contribute to the overall architecture.
+
+Write code that is well-designed, testable, accessible, and maintainable over time.
+
+Participate in code reviews, pair programming, and mentoring for professional growth.
+
+Ensure high-quality user experience and interface design, delivering polished, intuitive apps.
+
+Monitor system performance and availability, responding to issues proactively.
+
+Required Technical Skills:
+
+Frontend frameworks: React, optionally Next.js
+
+Languages: JavaScript, TypeScript
+
+Software engineering fundamentals: Object-Oriented Programming, algorithms, DSA, design patterns
+
+Version control: Git
+
+Testing and code quality: Unit testing, code reviews
+
+Preferred / Soft Skills:
+
+Strong collaboration and communication skills
+
+Ability to work in cross-functional teams across multiple geographies
+
+Problem-solving mindset and proactive approach to improvements
+
+Attention to UX/UI details and creating a seamless user experience

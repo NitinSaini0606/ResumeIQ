@@ -1,0 +1,36 @@
+Frontend Software Engineer
+StartupXYZ | Mumbai
+
+About The Role
+We are looking for a passionate frontend engineer to build
+beautiful, responsive and performant web applications that
+delight our users across web and mobile platforms.
+
+Responsibilities
+- Develop and maintain high quality frontend applications
+  using React and TypeScript with Next.js framework
+- Take full ownership of UI components ensuring they are
+  well designed, accessible, testable and maintainable
+- Implement pixel perfect designs working closely with
+  designers using Tailwind CSS and Bootstrap
+- Write comprehensive unit tests and participate actively
+  in code reviews and pair programming sessions
+- Optimize application performance, bundle size and
+  core web vitals for best user experience
+- Collaborate with backend engineers to integrate REST APIs
+  and GraphQL endpoints into frontend applications
+
+Required Skills
+- Strong expertise in React, TypeScript and Next.js
+- Proficiency in HTML, CSS, Tailwind CSS and Bootstrap
+- Experience with state management using Redux or Zustand
+- Knowledge of unit testing frameworks like Jest and
+  React Testing Library
+- Understanding of Git version control and CI/CD pipelines
+- Solid grasp of JavaScript fundamentals, DSA and OOP
+- Experience with REST APIs and GraphQL integration
+
+Nice To Have
+- Familiarity with React Native for mobile development
+- Knowledge of web accessibility standards
+- Experience with Figma and design systems

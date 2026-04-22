@@ -1,0 +1,76 @@
+Rahul Gupta
+rahulgupta@email.com | github.com/rahulgupta
+Delhi, India
+
+EDUCATION
+Delhi Technological University
+B.Tech Computer Science | CGPA: 8.8 | 2020 – 2024
+Coursework: Machine Learning, NLP,
+Data Engineering, Statistics, DSA,
+Algorithms, Database Management
+
+EXPERIENCE
+ML Engineer Intern — Flipkart
+May 2023 – Aug 2023 | Bangalore
+- Designed and implemented recommendation
+  systems and ranking models for product
+  search deploying to production.
+- Built batch and real-time data pipelines
+  using Apache Spark Airflow and Hadoop.
+- Fine-tuned pre-trained Transformer and BERT
+  models using PyTorch for product NLP tasks.
+- Deployed machine learning models monitoring
+  performance in production environment.
+- Owned feature development ensuring
+  reliability and scalability throughout.
+- Applied strong analytical mindset to measure
+  model performance and improve accuracy.
+
+TECHNICAL SKILLS
+Languages: Python, Java, Scala, C, SQL
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs,
+       conversational AI, agentic systems
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, EMR, Dagster,
+                  batch and streaming pipelines
+Databases: SQL, NoSQL, MongoDB,
+           vector databases, knowledge graphs
+Cloud: AWS, GCP, Docker, CI/CD
+Tools: Git, Jupyter, Pandas, NumPy, spaCy, NLTK
+
+PROJECTS
+ProductRec — E-commerce Recommendation Engine
+Python, PyTorch, XGBoost, Apache Spark,
+Airflow, Hadoop, AWS, Docker
+- Designed and implemented recommendation
+  systems and ranking models for e-commerce
+  product search at production scale.
+- Built batch and real-time data pipelines
+  using Apache Spark Airflow and Hadoop.
+- Deployed ML models to AWS with Docker
+  monitoring performance throughout.
+- Applied analytical mindset to measure
+  model performance proactively.
+
+RAGAssist — LLM Knowledge Assistant
+Python, LLMs, RAG, vector databases,
+LangChain, embeddings, knowledge graphs, GCP
+- Built RAG retrieval augmented generation
+  assistant with vector databases embeddings
+  and knowledge graphs.
+- Fine-tuned LLM Transformer models for
+  conversational AI and agentic systems.
+- Monitored model performance in production
+  ensuring reliability and scalability.
+
+ACHIEVEMENTS
+- Flipkart ML Challenge winner
+- Amazon ML Challenge Top 2% globally
+- Solved 900+ DSA problems LeetCode
+- 8.8 CGPA DTU Computer Science

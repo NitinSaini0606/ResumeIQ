@@ -1,0 +1,42 @@
+Software Development Engineer — Full Stack
+TechCorp Solutions | Bangalore
+
+About The Role
+We are seeking a talented software development engineer to join our
+growing engineering team. You will be responsible for building and
+maintaining scalable web applications serving millions of users globally.
+
+Responsibilities
+- Architect and develop high quality full stack web solutions using
+  modern JavaScript frameworks and backend technologies
+- Take complete accountability for building robust, performant and
+  accessible user interfaces with clean reusable code
+- Design and implement server side APIs and microservices ensuring
+  high availability and fault tolerance across distributed environments
+- Conduct thorough code reviews and collaborate closely with product
+  managers, designers and fellow engineers to ship delightful features
+- Monitor application health, diagnose production issues quickly and
+  drive resolution with a sense of urgency and ownership
+- Mentor junior developers and contribute to engineering culture through
+  documentation, knowledge sharing and technical discussions
+
+Required Skills
+- Strong proficiency in JavaScript and TypeScript for both client 
+  and server side development
+- Hands on experience with React ecosystem including state management
+  libraries and server side rendering frameworks
+- Backend development expertise with Node.js or Python frameworks
+  for building RESTful and GraphQL APIs
+- Solid understanding of relational and non-relational databases
+  including query optimization and data modeling
+- Experience with containerization, cloud deployment and continuous
+  integration and delivery pipelines
+- Strong grasp of computer science fundamentals including data structures,
+  algorithms, object oriented design and software engineering principles
+- Familiarity with Agile methodologies and collaborative development
+  practices including version control and peer code review
+
+Nice To Have
+- Experience with Redis caching and message queuing systems
+- Knowledge of AWS or GCP cloud services
+- Understanding of web security principles and authentication patterns

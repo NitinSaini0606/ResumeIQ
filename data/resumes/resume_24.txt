@@ -1,0 +1,89 @@
+Saksham Chhabra
+ccsaksham2006@gmail.com | +91 82210 22888
+LinkedIn | GitHub | Portfolio
+New Delhi, India
+
+SUMMARY
+Computer Science undergraduate at DTU (CGPA 9.50) with strong
+foundations in Data Structures, Algorithms, and core CS subjects.
+Built and deployed production-grade full-stack systems using React,
+Node.js, and MongoDB. YUVAi Grand Finalist and Smart India Hackathon
+qualifier, with experience presenting scalable AI solutions at national
+forums. Interested in backend engineering and large-scale distributed
+systems.
+
+EDUCATION
+Delhi Technological University (DTU)
+B.Tech Computer Science Engineering | CGPA: 9.50 | 2024 – 2028
+Senior Secondary (CBSE) — 93.8% | 2024
+Secondary (CBSE) — 96.2% | 2022
+
+TECHNICAL SKILLS
+Languages: C++, C, JavaScript, Python, TypeScript
+Frontend: React, HTML, CSS, Tailwind
+Backend & DB: Node.js, Express, MongoDB, MySQL, REST APIs
+Tools: Git, GitHub, Docker, Vercel, CI/CD
+Core CS: DSA, OOP, Computer Networks, Theory of Computation,
+         DBMS, OS, System Design, Scalability
+Practices: Unit testing, code reviews, pair programming,
+           debugging, refactoring, accessible UI
+
+PROJECTS
+Agri Tech Pro — YUVAi Grand Finalist | Smart India Hackathon
+React, Node.js, MongoDB, Flask | Live Website | Demo Video
+- Designed and deployed full-stack agricultural analytics platform
+  using React, Node.js, MongoDB and Flask enabling real-time
+  crop insights and data-driven recommendations.
+- Wrote well-designed, testable, accessible and maintainable code
+  throughout frontend and backend development.
+- Participated in code reviews and pair programming with team
+  members to deliver polished, intuitive application features.
+- Wrote, debugged, refactored and reused code to improve
+  reliability and software quality across the platform.
+- Took full ownership of complex features across frontend
+  and backend with minimal oversight.
+- YUVAi Grand Finalist Top 20 out of 2500+ teams at India
+  AI Impact Summit.
+- Advanced to Smart India Hackathon National Evaluation Round.
+
+CTEL DTU Official Website — Production Web Application
+React, Node.js, MongoDB, CI/CD | Live Website
+- Developed official CTEL DTU website with responsive,
+  accessible and maintainable UI components.
+- Implemented unit testing for frontend components to ensure
+  code quality and reliability.
+- Used CI/CD pipelines for automated deployment and monitoring.
+- Monitored system performance and availability proactively
+  responding to issues as they arose.
+- Deployed and maintained production system used by students
+  and faculty.
+
+Nova Gig Score — Credit Scoring Web Application
+Node.js, REST APIs, MongoDB | Live Website | Demo Video
+- Designed modular RESTful backend services for credit scoring
+  workflows implementing structured data models and API-driven
+  architecture.
+- Applied object-oriented programming principles, design patterns
+  and algorithms throughout development.
+- Delivered polished, intuitive user experience with full
+  ownership of features across the stack.
+- Ranked Top 100 in GrabHack 2025.
+
+LEADERSHIP & POSITIONS OF RESPONSIBILITY
+General Secretary, Neural AI DTU | Aug 2025 – Present
+- Leading AI-focused student organization coordinating technical
+  initiatives and community events.
+
+Vice President, APJ Hostel DTU | Aug 2025 – Present
+- Overseeing operations and student coordination for 300+ residents.
+
+Class Representative, CSE-6 | Aug 2024 – Present
+- Representing 75 students acting as liaison between faculty
+  and batch for academic coordination.
+
+ACHIEVEMENTS
+- JEE Main 2024: 99.82 percentile (AIR 2949)
+- District Topper: IOQM, NSEC, NSEP
+- YUVAi Grand Finalist — Top 20 out of 2500+ teams
+- Smart India Hackathon — National Evaluation Round Qualifier
+- 3x Hackathon Winner

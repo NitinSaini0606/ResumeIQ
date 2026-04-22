@@ -1,0 +1,26 @@
+Frontend Software Engineer
+
+We are looking for a Frontend Software Engineer to join our product development team and help build scalable web applications.
+
+Responsibilities:
+
+• Develop modern web applications using React and TypeScript.
+• Work closely with backend engineers to integrate APIs.
+• Build reusable UI components and optimize performance.
+• Collaborate with product managers and designers to deliver high-quality user experiences.
+• Maintain code quality through testing and code reviews.
+
+Required Skills:
+
+• Strong experience with React and JavaScript
+• Experience with TypeScript
+• Understanding of modern frontend tools and frameworks
+• Experience working with REST APIs
+• Knowledge of Git version control
+• Understanding of web performance optimization
+
+Preferred Skills:
+
+• Experience with Next.js
+• Familiarity with cloud platforms such as AWS
+• Knowledge of testing frameworks

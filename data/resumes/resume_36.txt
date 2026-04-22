@@ -1,0 +1,123 @@
+Pratham Dey
++91-8927536448 | protham.dey@gmail.com
+github.com/ProthamD | linkedin.com/in/pratham-dey-32a356239
+Location: Raiganj, West Bengal 733134
+IIEST Shibpur
+
+EDUCATION
+Indian Institute of Engineering Science and Technology Shibpur
+B.Tech Information Technology | CGPA: 8.17 | 2023 – 2027
+
+EXPERIENCE
+Languify — AI Intelligence with Python Intern
+Jul 2025 – Sep 2025 | languify.in | Remote
+- Implemented TensorFlow-based object detection pipeline
+  extended from single-class to multi-class detection
+  scenarios deploying machine learning models to
+  production and monitoring performance throughout.
+- Built and maintained data pipelines to optimize
+  preprocessing and reduce training overhead improving
+  model performance and efficiency by 10-15%.
+- Enhanced internal flagging mechanism for more reliable
+  decision-making in detection outputs improving
+  efficiency by 10-15%.
+- Collaborated on Vision Transformer ViT based classifier
+  fine-tuning pre-trained Transformer models for
+  production use.
+- Owned feature development and system health ensuring
+  reliability and scalability throughout.
+- Mentored team members reviewed code and improved
+  engineering standards and processes.
+
+TECHNICAL SKILLS
+Languages: C++, Python, Java, JavaScript, HTML5, CSS3
+ML Frameworks: TensorFlow, Scikit-learn, Keras,
+               PyTorch, XGBoost
+AI/ML: Machine Learning, NLP, Transformers,
+       Vision Transformers, Generative AI,
+       recommendation systems, ranking models,
+       embeddings, vector databases, RAG,
+       retrieval augmented generation,
+       LLM fine-tuning, agentic systems
+Data Engineering: Pandas, NumPy, Apache Spark,
+                  Airflow, batch pipelines,
+                  streaming pipelines, Hadoop,
+                  MapReduce, data pipelines
+Frameworks: React.js, Next.js, Node.js, Express.js
+Tools: Git, GitHub, Docker, AWS, GCP, CI/CD
+Databases: MongoDB, SQL, NoSQL,
+           vector databases, knowledge graphs
+Concepts: DSA, REST APIs, OOP, Design Patterns,
+          Scalability, Observability
+
+PROJECTS
+INVENTREE — AI Inventory Automation System
+Python, TensorFlow, Scikit-learn, RAG,
+recommendation systems, Apache Spark,
+vector databases | HackNITR 7.0 | Live Demo
+- Designed and implemented ML/AI models for
+  ranking recommendation and search applications
+  enabling real-time stock analysis and operational
+  decision-making.
+- Implemented agentic workflows and conversational AI
+  that take actions based on analysis to improve
+  inventory efficiency — experience with agentic
+  systems and RAG solutions.
+- Built and maintained batch and real-time data
+  pipelines for demand forecasting and multi-warehouse
+  communication enabling potential waste reduction
+  of 40%.
+- Integrated retrieval augmented generation pipeline
+  with vector databases and embeddings for blog-based
+  system to educate SMEs on inventory best practices.
+- Deployed machine learning models to production
+  monitoring performance and ensuring reliability
+  and scalability throughout.
+
+WasteWise — Smart Waste Reporting and Management
+React.js, Node.js, MongoDB, REST APIs | Live Demo
+- Designed and implemented full-stack waste reporting
+  system with ML-powered citizen verification flow
+  and real-time admin dashboard.
+- Built REST APIs and integrated recommendation systems
+  for leaderboard ranking regions based on verified
+  reports to promote cleaner cities.
+- Deployed to production monitoring system performance
+  and availability proactively resolving service issues.
+- Wrote clean reusable well-tested code for production
+  environment following scalability and observability
+  best practices.
+
+Real-time House Price Prediction (ML)
+Python, Scikit-learn, Random Forest,
+XGBoost, Pandas, NumPy | GitHub | Live Demo
+- Built Random Forest Regressor pipeline with
+  GridSearchCV and engineered features for improved
+  predictive accuracy — deployed machine learning
+  model to production with interactive predictor.
+- Implemented batch data pipelines and applied strong
+  analytical mindset to measure ML model performance
+  in production environment.
+- Fine-tuned model hyperparameters and monitored
+  performance ensuring reliability and scalability.
+
+Custom Code Interpreter
+C++, DSA, Design Patterns | GitHub
+- Designed C++ interpreter featuring lexical analysis
+  parsing and execution phases.
+- Implemented AST with visitor pattern memory
+  management and robust error handling applying
+  OOP design principles and algorithms throughout.
+
+ACHIEVEMENTS
+- UCO Bank FinTech and Cyber-Security Hackathon
+  2025-26 Finalist and award winner
+- Amazon ML Challenge 2025 Top 1% globally
+  among 90,000+ participants SMAPE 46%
+- LeetCode Biweekly 176 Top 1.4% among
+  41,000+ participants rank 591
+
+CERTIFICATIONS
+Stanford Online Certificate 2024
+Supervised Machine Learning: Regression
+Classification Neural Networks — Andrew Ng

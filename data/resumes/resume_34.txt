@@ -1,0 +1,112 @@
+Gulshan Kumar Dewangan
+Gulshankumar@gmail.com | +91 77350560
+GitHub | LeetCode
+
+EDUCATION
+Indian Institute of Information Technology Allahabad
+M.Tech Information Technology (Network Security) | CGPA: 7.33 | 2025 – Present
+Prayagraj, India
+
+Rungta College of Engineering and Technology
+B.Tech Computer Science | CGPA: 9.33 | 2020 – 2024
+Bhilai, India
+
+Gyan Bharti Higher Secondary School
+Senior Secondary Class XII | 79.33% | 2019 – 2020
+
+Public High School
+Secondary Class X | 80.00% | 2018
+
+SKILLS
+Languages: C, C++, Python, JavaScript, TypeScript
+Backend: Node.js, Express.js, REST APIs
+Frontend: HTML, CSS, React.js, Next.js,
+          Tailwind CSS, Bootstrap
+Databases: MongoDB, MySQL, SQL, NoSQL
+Security: Network Security, Cryptography,
+          RSA, AES, SHA-256,
+          Authentication Systems, JWT
+Tools: Git, GitHub, VS Code, Docker, CI/CD
+Core CS: Data Structures and Algorithms,
+         Networking, Operating Systems,
+         DBMS, OOP, Design Patterns,
+         Computer Architecture, Debugging,
+         Code Refactoring, Testing,
+         Unit Testing, Code Reviews
+
+PROJECTS
+Post-Quantum Secure Chat Application | GitHub
+Next.js, Node.js, MongoDB, Socket.IO,
+React.js, TypeScript, Docker, CI/CD
+- Designed and implemented full-stack secure
+  chat application using Next.js frontend and
+  Node.js backend taking full ownership of
+  complex features across the entire stack.
+- Built hybrid cryptographic framework using
+  Kyber-512 post-quantum for secure key exchange
+  and AES-GCM for message encryption protecting
+  communications from future quantum computing threats.
+- Wrote well-designed testable accessible and
+  maintainable code throughout frontend and
+  backend development applying OOP design patterns
+  and algorithms.
+- Integrated liboqs C library into web platform
+  by compiling to WebAssembly via Emscripten
+  enabling high-performance near-native cryptographic
+  operations directly in the browser.
+- Developed real-time end-to-end encrypted messaging
+  using Socket.IO and Node.js with REST APIs ensuring
+  zero-knowledge privacy where message contents remain
+  inaccessible to the server.
+- Architected scalable non-blocking system with Next.js
+  and MongoDB ensuring scalability observability and
+  maintainability throughout.
+- Participated in code reviews and pair programming
+  to ensure code quality and reliability.
+- Monitored system performance and availability
+  proactively resolving service issues.
+- Deployed with Docker and CI/CD pipelines ensuring
+  high availability throughout.
+
+Secure Multithreaded File Transfer
+C++, RSA, SHA-256, Socket Programming
+GitHub
+- Built secure file transfer system using RSA
+  encryption and SHA-256 hashing.
+- Wrote clean reusable well-tested code applying
+  OOP design principles and algorithms throughout.
+- Implemented cryptographic handshake and session
+  key exchange ensuring confidentiality integrity
+  and authenticity.
+- Implemented multithreaded socket programming
+  and protected against MITM and replay attacks.
+- Broke down complex work items into smaller tasks
+  providing accurate estimates and tracking execution.
+
+Healthcare Virtual Assistant using Generative AI
+React.js, Node.js, OpenAI API, MongoDB
+GitHub
+- Designed and implemented full-stack healthcare
+  web application using React.js frontend and
+  Node.js backend delivering polished intuitive
+  user experience.
+- Integrated OpenAI ChatGPT API securely using
+  environment variables and implemented REST APIs
+  for structured responses.
+- Applied web security standards including
+  authentication and input validation throughout.
+- Wrote clean reusable well-tested code following
+  scalability and observability best practices.
+- Delivered polished intuitive user interface
+  with full ownership of features across the stack.
+
+KEY ACHIEVEMENTS
+- GATE 2025 Computer Science AIR 5168
+  among 170,825 candidates
+- Solved 400+ DSA problems across LeetCode
+  HackerRank GeeksforGeeks and NeetCode
+
+AREAS OF INTEREST
+Web Development, Network Security, Artificial
+Intelligence, Problem Solving (DSA),
+Cryptography, Linux, Socket Programming

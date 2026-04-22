@@ -1,0 +1,78 @@
+Meera Pillai
+meerapillai@email.com | github.com/meerapillai
+Hyderabad, India
+
+EDUCATION
+IIIT Hyderabad
+B.Tech Computer Science | CGPA: 8.8 | 2020 – 2024
+Coursework: Machine Learning, Deep Learning,
+NLP, Computer Vision, Statistics, DSA
+
+EXPERIENCE
+AI Research Intern — TechLabs Hyderabad
+May 2023 – Aug 2023 | Remote
+- Designed and implemented NLP models using
+  Transformers and BERT for text classification
+  deploying machine learning models to production
+  and monitoring performance throughout.
+- Built and maintained batch and real-time data
+  pipelines using Apache Spark and Airflow for
+  large scale ML model training.
+- Fine-tuned pre-trained LLM models using PyTorch
+  for domain specific production use.
+- Owned feature development and system health
+  ensuring reliability and scalability.
+- Mentored team members reviewed code and improved
+  engineering standards and processes.
+
+TECHNICAL SKILLS
+Languages: Python, Java, SQL, C, C++
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs,
+       conversational AI, agentic systems,
+       batch pipelines, streaming pipelines
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, Dagster, Luigi,
+                  batch and streaming pipelines
+Databases: SQL, NoSQL, MongoDB, PostgreSQL,
+           vector databases, knowledge graphs
+Cloud: AWS, GCP, Docker, CI/CD
+Tools: Git, Jupyter, Pandas, NumPy
+
+PROJECTS
+SentimentRank — NLP Ranking System
+Python, PyTorch, BERT, Transformers,
+Apache Spark, AWS
+- Designed and implemented NLP models for
+  ranking recommendation and search applications.
+- Built batch and real-time data pipelines using
+  Apache Spark and Hadoop.
+- Deployed machine learning models to production
+  monitoring performance in production environment.
+
+GenAI Assistant — LLM Fine-tuning
+Python, LLMs, RAG, vector databases, GCP
+- Built RAG pipeline with vector databases and
+  embeddings for intelligent knowledge retrieval.
+- Fine-tuned pre-trained LLM models using PyTorch
+  for conversational AI applications.
+- Implemented agentic systems with knowledge
+  graphs and vector search.
+
+ForecastML — Demand Forecasting System
+Python, XGBoost, Scikit-learn, Airflow,
+streaming pipelines, AWS
+- Built ML models for ranking and recommendation
+  with batch and streaming data pipelines.
+- Applied strong analytical mindset to measure
+  ML model performance in production environment.
+
+ACHIEVEMENTS
+- Google Summer of Code 2023 participant
+- Kaggle competitions top 8%
+- 8.8 CGPA IIIT Hyderabad Computer Science

@@ -1,0 +1,57 @@
+AARAV SHARMA
+aaravsharma@email.com
+LinkedIn: linkedin.com/in/| GitHub: github.com/
+
+PROFESSIONAL SUMMARY
+AI & ML engineer with strong foundations in designing and implementing machine learning models, building data pipelines for batch and real-time processing, and developing high-performance backend systems. Experienced in RAG architecture, vector databases, NLP, generative AI solutions, and scalable REST APIs. Passionate about deploying intelligent systems to production, monitoring model performance, and collaborating with cross-functional teams to deliver measurable business impact. Strong analytical mindset with proven ability to apply algorithms, data structures, and software engineering best practices for reliability, scalability, and maintainability.
+
+EDUCATION
+Delhi Technological University
+B.Tech in Computer Science (Artificial Intelligence Specialization); CGPA: 8.65/10 | 2023 – 2027
+Relevant Coursework: Artificial Intelligence, Machine Learning, Data Structures & Algorithms (DSA), DBMS, Operating Systems, Linear Algebra, Probability & Statistics
+
+TECHNICAL SKILLS
+
+Programming Languages: Python, C++, C, SQL, JavaScript
+ML Frameworks: Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, XGBoost
+AI/ML Techniques: NLP, Transformers, Gen AI, LLM fine-tuning, RAG, recommendation systems, ranking models, embeddings, vector search, conversational AI, prompt engineering
+Data Engineering: Batch pipelines, real-time streaming pipelines, ETL pipelines, Apache Spark, Hadoop, Airflow, data preprocessing, feature engineering
+Databases & Storage: MySQL (SQL), MongoDB (NoSQL), vector databases, cloud storage,DBMS
+Backend & APIs: Node.js, Express.js, Flask, REST APIs, RESTful API design, JWT Authentication, microservices
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, CI/CD pipelines, Git, GitHub, Postman, VS Code
+Software Engineering: Object-Oriented Programming (OOP), DSA, Design Patterns, Code Refactoring, Testing, Debugging, Agile Scrum
+
+
+EXPERIENCE
+Software Development Intern — TechNova Solutions | 2 Months
+
+Designed and delivered scalable backend REST APIs using Node.js and Flask; wrote well-designed, testable, and maintainable production code adhering to software engineering best practices — applying object-oriented programming (OOP) principles, design patterns, data structures, and algorithms throughout.
+Optimized core backend system performance through code refactoring, query optimization, and API improvements; monitored system health and resolved service issues proactively to ensure high reliability, efficiency, and maintainability.
+Collaborated closely with cross-functional engineering teams in Agile Scrum sprints using Git workflows; broke down complex work items into smaller tasks, provided accurate estimates, and tracked execution with minimal oversight to ensure on-time delivery.
+
+
+PROJECTS
+AI Mental Health Assistant | Python, PyTorch, NLP, Transformers, RAG, Vector Databases, Flask, REST APIs, Docker
+
+Designed and implemented a RAG-based conversational AI chatbot applying NLP, Transformers, and LLM fine-tuning techniques; integrated vector retrieval pipelines and backend-managed session context to improve response accuracy, system reliability, and scalability in production.
+Built and maintained data pipelines for batch and real-time processing; deployed machine learning models to production and monitored performance continuously — applying efficient algorithms, data structures, and software engineering best practices to ensure high availability and system health.
+Owned feature development end-to-end across the full stack; wrote well-designed, testable, and maintainable code following OOP principles and design patterns, participating in iterative code reviews to improve engineering standards and processes.
+
+Student Performance Prediction System | Python, Scikit-learn, XGBoost, TensorFlow, Keras, Pandas, NumPy, Airflow, SQL
+
+Designed and implemented ML/AI models for ranking and recommendation applications using regression and ensemble methods; applied feature engineering, cross-validation, and efficient algorithms to build a robust batch data pipeline for academic analytics with measurable business impact.
+Fine-tuned pre-trained models and applied generative AI techniques to improve predictive accuracy; monitored ML model performance in production with a strong analytical mindset, identifying high-impact improvement opportunities through structured and unstructured data analysis.
+Built and maintained ETL pipelines for batch processing using Airflow and Pandas; applied data structures, code refactoring, testing, and debugging to ensure pipeline reliability, scalability, and maintainability.
+
+Smart Recruitment Portal | Python, Flask, Node.js, REST APIs, MySQL, MongoDB, Docker, Kubernetes, CI/CD, Git
+
+Designed and delivered a scalable full-stack distributed system using Flask, Node.js, and REST APIs; optimized core database aggregation pipelines and backend performance — applying object-oriented programming (OOP), design patterns, data structures, and algorithms to ensure high reliability and efficiency.
+Wrote, debugged, refactored, and reused well-designed production code following software engineering best practices; monitored system health and resolved service issues proactively, achieving high availability through Docker and Kubernetes deployment with CI/CD pipelines.
+Collaborated with cross-functional stakeholders to identify dependencies, contribute to technical design documents, and coordinate feature delivery with minimal oversight; broke down complex projects into smaller work items, provided estimates, and tracked execution using Agile Scrum methodology.
+
+
+CERTIFICATIONS
+
+Machine Learning Specialization — Coursera (Andrew Ng): Applied NLP, Transformers, recommendation systems, and generative AI techniques to real-world ML pipeline development.
+Python for Data Science — NPTEL: Strengthened data engineering, batch processing, and ML model deployment skills.
+Data Structures & Algorithms — Online Coding Platforms: 300+ DSA problems solved; top 5% performer in national-level coding contest.

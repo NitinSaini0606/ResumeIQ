@@ -1,0 +1,56 @@
+DEVESH SAINI
+|linkedin.com/in/devesh0611 | github.com/devsaini07
+
+TECHNICAL SKILLS
+
+Frontend Frameworks & Languages: React.js, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS, Bootstrap
+Backend & APIs: Node.js, Express.js, REST APIs, RESTful API design, gRPC, JWT Authentication
+Databases & Storage: MongoDB (NoSQL), MySQL (SQL), Mongoose
+Cloud & DevOps: Docker, Git, GitHub, CI/CD pipelines
+Software Engineering Fundamentals: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Database Management Systems (DBMS), Operating Systems, Computer Networks
+Testing & Code Quality: Unit Testing, Code Reviews, Pair Programming, Modular Architecture
+AI & ML: Machine Learning, Natural Language Processing (NLP), AI-powered automation, Python, Pandas, NumPy, Matplotlib
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib
+
+
+EXPERIENCE
+Web Developer — Techspardha (if applicable, otherwise remove)
+
+Developed and maintained responsive web applications using React.js, Next.js, JavaScript, and TypeScript; took full ownership of complex features across the stack applying object-oriented programming (OOP) principles and design patterns throughout.
+Wrote well-designed, testable, accessible, and maintainable production code; participated in code reviews and pair programming sessions, managing version control using Git and GitHub.
+
+
+PROJECTS
+weCure — AI-Powered Doctor Appointment Booking Platform | React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, REST APIs, NLP
+
+Developed and maintained a full-stack AI-powered web application using React.js, Next.js, TypeScript, and Node.js; took full ownership of complex features across the stack including secure JWT-based authentication, appointment booking workflows, and doctor search — applying object-oriented programming (OOP) principles and design patterns throughout.
+Wrote well-designed, testable, accessible, and maintainable production code; engineered RESTful API endpoints with Node.js and Express.js for authentication, appointment management, and user data — implementing efficient algorithms, data structures, and modular architecture for scalable backend operations.
+Integrated an AI-powered ChatGPT assistant and NLP-based symptom-to-disease prediction model; leveraged AI/ML automation and machine learning pipelines to deliver intelligent, high-quality user experiences across the platform.
+Ensured high-quality user experience and interface design delivering a polished, intuitive application; monitored system performance and availability, proactively identifying and resolving interface and service issues throughout development.
+Collaborated closely with cross-functional stakeholders to gather and define feature requirements; broke down complex work items into smaller tasks, provided accurate time estimates, and maintained clean, reusable, well-tested code for production environments.
+
+URL Shortener | Node.js, Express.js, MongoDB, JavaScript, TypeScript, HTML, CSS, REST APIs, Docker
+
+Developed and maintained a full-stack URL shortener application using Node.js, Express.js, and MongoDB; took full ownership of backend REST API design and frontend interface — applying object-oriented programming (OOP) principles, efficient algorithms, and design patterns to ensure scalable, reliable, and maintainable code.
+Wrote well-designed, testable, and maintainable code following software engineering best practices; implemented URL visit tracking and analytics using MongoDB (NoSQL), monitored system performance and availability, and proactively resolved service issues throughout the development lifecycle.
+Ensured high-quality user experience and interface design through a responsive, polished, and intuitive frontend built with HTML, CSS, and JavaScript; participated in iterative code reviews to maintain clean, reusable component architecture with Git version control.
+
+
+CERTIFICATIONS
+
+IBM SkillBuild Training — Agentic AI with CSRBOX: "From Learner to Builder: Becoming an AI Agentic Architect" — applied NLP, AI-powered automation, and machine learning pipeline concepts to real-world agentic AI systems.
+Angular Training — Intershala: Hands-on training in component-based frontend development, reinforcing object-oriented programming (OOP) principles and design patterns.
+
+
+ACHIEVEMENTS
+
+CodeChef — 2★ Coder; highest rating 1410.
+CodeForces — Highest rating 840.
+LeetCode — Solved 230+ problems focusing on Arrays, Trees, Graphs, and Dynamic Programming; strong problem-solving mindset and proactive approach to algorithmic improvements.
+
+
+EDUCATION
+Deenbandhu Chhotu Ram University of Science and Technology
+B.Tech in Computer Science and Technology; CGPA: 8.0 (up to 5th Sem) | Nov 2022 – June 2026, Murthal, Haryana
+Raj International School — CBSE 12th; 94.4% | June 2021, Rewari
+Raj International School — CBSE 10th; 92% | May 2019, Rewari

@@ -1,0 +1,58 @@
+BHAVESH ARORA
+LinkedIn: linkedin.com/in/ | GitHub | Portfolio
+
+SUMMARY
+Machine Learning Engineer and Data Scientist with 3+ years of experience designing, implementing, and deploying machine learning models and AI-powered features that deliver measurable business impact. Expert in NLP, Transformers, Generative AI, LLM fine-tuning, RAG architecture, and building data pipelines for batch and real-time processing. Experienced in deploying ML models to production on AWS, monitoring performance, and collaborating with cross-functional teams. Strong analytical mindset with broad experience applying PyTorch, TensorFlow, Scikit-learn, and LangChain to real-world recommendation systems, ranking models, and conversational AI applications. Passionate about full-stack AI-powered solutions integrating front-end and back-end components with intelligent ML experiences.
+
+EDUCATION
+Indian Institute of Technology, Jodhpur — Jodhpur, India
+Master of Technology; GPA:  | Departmental Rank 2, IIT Jodhpur | 
+Dronacharya College of Engineering, Gurgaon — Gurgaon, India
+Bachelor of Technology; GPA:  | June 2019 – August 2023
+
+TECHNICAL SKILLS
+
+Programming Languages: Python, Java, SQL, JavaScript, C, PHP
+ML Frameworks: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, SciPy
+AI/ML Techniques: NLP, Transformers, Generative AI, LLM fine-tuning, RAG (Retrieval-Augmented Generation), recommendation systems, ranking models, embeddings, vector search, conversational AI, agentic systems, prompt engineering
+Data Engineering: Batch pipelines, real-time streaming pipelines, ETL pipelines, Apache Spark, Hadoop, Airflow, LangGraph, data preprocessing, feature engineering
+Databases & Storage: MySQL, SQLite, MongoDB, vector databases, knowledge graphs, cloud storage
+Full-Stack & APIs: FastAPI, Flask, REST APIs, gRPC APIs, Node.js, ReactJS, Next.js, Tailwind CSS, Bootstrap, JWT Authentication
+Cloud & DevOps: AWS (SageMaker), GCP, Docker, Kubernetes, CI/CD pipelines, Git, GitHub
+Software Engineering: Object-Oriented Programming (OOP), DSA, Design Patterns, Code Refactoring, Testing, Debugging, Agile
+Tools: Power BI, Excel, Tableau, PyCharm, Jupyter Notebook, VS Code, IntelliJ IDE
+
+
+EXPERIENCE
+Data Scientist — Delight Learning | April 2024 – Present
+
+Designed and implemented AI-powered agentic systems for automating business workflows; built and maintained real-time data pipelines using LangChain and LangGraph with LLM fine-tuning and prompt engineering techniques — taking full ownership of feature development and system health to ensure reliability and scalability in production.
+Fine-tuned pre-trained LLMs and Transformer models for conversational AI applications; integrated RAG (Retrieval-Augmented Generation) architecture with in-house APIs and vector databases to build stateful, context-aware pipelines for real-time inference and action chaining — deploying models to production and monitoring performance continuously.
+Collaborated closely with cross-functional product, design, and engineering teams to deliver new AI-powered features; applied NLP, generative AI, recommendation systems, and ranking models to improve product experience and deliver measurable business impact.
+Wrote clean, reusable, and well-tested production code following software engineering best practices; participated in code reviews, mentored team members, and improved engineering standards and processes across Agile sprints.
+
+Data Scientist — American Express | November 2023 – March 2024
+
+Designed and implemented ML/AI models for ranking and recommendation applications; built and maintained batch data pipelines for customer churn analysis and predictive retention strategies — applying efficient algorithms, data structures, and feature engineering to deliver high-impact business solutions.
+Developed and deployed targeted ML models using Python, PyTorch, and Scikit-learn; monitored model performance in production with a strong analytical mindset, measuring business impact through data-driven decision making and proactive retention strategies.
+Collaborated with cross-functional stakeholders to gather and define feature requirements; broke down complex ML work items into smaller tasks, provided accurate estimates, and wrote clean, reusable, well-tested code for production environments.
+
+Machine Learning Associate — Amazon | November 2022 – October 2023
+
+Designed and implemented large-scale ML models for ranking, recommendation, search, and NLP applications; built and maintained batch and real-time streaming data pipelines using AWS SageMaker, PyTorch, and Scikit-learn — deploying machine learning models to production and monitoring performance continuously.
+Fine-tuned pre-trained Transformer and deep learning models for production use; developed and maintained scalable, high-performance ML solutions applying efficient algorithms, data structures, and software engineering best practices throughout.
+Collaborated with cross-functional engineering, product, and platform teams to build new AI-powered features; applied generative AI, NLP, and recommendation system techniques to improve customer experience and operational efficiency across cloud infrastructure.
+Wrote clean, reusable, and well-tested production code; participated in code reviews and mentoring sessions, improving engineering standards and processes within Agile cross-functional teams.
+
+
+PROJECTS
+Paper2Code Prediction | Python, PyTorch, TensorFlow, NLP, Transformers, Airflow, Docker, AWS, FastAPI, REST APIs
+
+Designed and implemented an end-to-end ML system transforming research papers into executable code; built and maintained batch data pipelines for parsing, extracting, and generating training scripts from academic papers — applying NLP, Transformers, and generative AI techniques for automated reproducibility in AI/ML workflows.
+Fine-tuned pre-trained LLM and Transformer models for production use; deployed machine learning models to cloud infrastructure (AWS) and monitored performance continuously — ensuring system reliability, scalability, and high availability through Docker and CI/CD pipelines.
+Designed and integrated error handling, debugging, and logging modules for reliable training runs; wrote clean, reusable, and well-tested code following software engineering best practices — participating in iterative code reviews to improve engineering standards and processes.
+Optimized ML workflows to support custom datasets, model configurations, and experiment tracking; applied efficient algorithms, data structures, and design patterns to deliver a scalable full-stack AI-powered architecture demonstrating practical NLP automation and ML model deployment.
+
+CERTIFICATIONS
+
+Data Science Mentorship Program — CampusX (March 2024): Hands-on experience in data analysis, machine learning, deep learning, generative AI, and ML pipeline implementation.

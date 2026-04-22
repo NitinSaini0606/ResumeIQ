@@ -1,0 +1,67 @@
+Ananya Sharma
+ananyasharma@email.com | github.com/ananyasharma
+New Delhi, India
+
+EDUCATION
+IIT Madras
+B.Tech Computer Science (AI Specialization)
+CGPA: 8.6 | 2020 – 2024
+Coursework: Machine Learning, Deep Learning,
+NLP, Statistics, Linear Algebra, DSA
+
+TECHNICAL SKILLS
+Languages: Python, Java, SQL, C
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs,
+       conversational AI, agentic systems
+Data Engineering: Apache Spark, Airflow, Hadoop,
+                  MapReduce, batch pipelines,
+                  streaming pipelines
+Databases: SQL, NoSQL, MongoDB, PostgreSQL,
+           vector databases
+Cloud: AWS, GCP, Docker, CI/CD
+Tools: Git, Jupyter, Pandas, NumPy
+
+PROJECTS
+RecSys — Recommendation and Ranking System
+Python, PyTorch, Transformers, Apache Spark, AWS
+- Designed and implemented ML models for ranking
+  recommendation and search applications using
+  PyTorch and Transformers.
+- Built and maintained batch and real-time data
+  pipelines using Apache Spark and Airflow.
+- Deployed machine learning models to production
+  on AWS with Docker and CI/CD pipelines
+  monitoring performance throughout.
+- Owned feature development and system health
+  ensuring reliability and scalability.
+
+GenSearch — RAG Knowledge Retrieval System
+Python, LLMs, RAG, vector databases, GCP
+- Built RAG and retrieval augmented generation
+  pipeline with vector databases and embeddings.
+- Fine-tuned pre-trained LLM models using PyTorch
+  for domain specific production use.
+- Implemented conversational AI interface with
+  knowledge graphs and vector search.
+- Deployed to GCP monitoring model performance
+  in production environment.
+
+NLPClassifier — Text Classification Pipeline
+Python, BERT, Transformers, Scikit-learn, Hadoop
+- Built NLP pipeline for text classification
+  using BERT and Transformers.
+- Implemented batch and streaming data pipelines
+  using Apache Spark and Hadoop.
+- Applied strong analytical mindset to measure
+  ML model performance in production.
+
+ACHIEVEMENTS
+- Solved 900+ DSA problems on LeetCode
+- Kaggle competitions top 10%
+- 8.6 CGPA IIT Madras Computer Science

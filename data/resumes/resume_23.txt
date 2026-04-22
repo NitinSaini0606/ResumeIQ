@@ -1,0 +1,56 @@
+Aditya Sharma
+adityasharma@email.com | github.com/adityasharma | LinkedIn
+
+EDUCATION
+IIIT Hyderabad
+B.Tech Computer Science | CGPA: 8.2 | 2020 – 2024
+Coursework: Machine Learning, Statistics, Linear Algebra,
+Data Structures and Algorithms, Database Management Systems
+
+TECHNICAL SKILLS
+Languages: Python, Java, SQL, C
+ML Frameworks: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, recommendation systems,
+       ranking models, embeddings, feature engineering,
+       Generative AI, LLM fine-tuning, RAG,
+       retrieval augmented generation, vector databases,
+       knowledge graphs
+Data Engineering: Apache Spark, Airflow, Hadoop, MapReduce,
+                  batch pipelines, streaming pipelines
+Databases: SQL, NoSQL, MongoDB, PostgreSQL, vector databases
+Cloud: AWS, GCP, Docker, CI/CD
+Tools: Git, GitHub, Jupyter, Pandas, NumPy
+
+PROJECTS
+SearchRank — Product Search Ranking System
+Python, PyTorch, Transformers, Apache Spark, AWS
+- Built product search ranking model using PyTorch and Transformers
+- Implemented batch and streaming data pipelines using Apache Spark
+  and Hadoop for large scale data processing
+- Deployed to AWS with Docker and CI/CD pipelines
+- Monitored model performance in production environment
+
+RecSys — Movie Recommendation Engine
+Python, Scikit-learn, XGBoost, FastAPI, MongoDB
+- Built collaborative filtering recommendation system
+- Implemented ranking models for personalized recommendations
+- Designed REST API using FastAPI with MongoDB backend
+
+NLPSearch — Text Search and Retrieval System
+Python, BERT, Transformers, embeddings, vector databases
+- Built NLP based text search system using BERT and embeddings
+- Implemented RAG and retrieval augmented generation pipeline
+- Used vector databases and knowledge graphs for storage
+- Processed batch and streaming data pipelines
+
+GenAI Assistant — LLM Fine-tuning Project
+Python, PyTorch, Generative AI, LLM fine-tuning, RAG
+- Fine-tuned pre-trained LLM using PyTorch for domain specific QA
+- Implemented RAG pipeline with vector databases and embeddings
+- Built conversational AI interface with retrieval augmented generation
+- Deployed model to GCP with Docker and CI/CD pipelines
+
+ACHIEVEMENTS
+- Solved 800+ DSA problems on LeetCode
+- Kaggle competitions top 15%
+- 8.2 CGPA in B.Tech Computer Science

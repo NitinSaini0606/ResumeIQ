@@ -1,0 +1,150 @@
+Yubraj Nag
++91 704429788 | nagyubr@gmail.com
+LinkedIn | Github | LeetCode
+
+EXPERIENCE
+Software Engineer — LTIMindtree
+Dec 2023 – Present | India
+
+Spearheaded high level design of fault-tolerant payment
+API implementing idempotent calls to process over 210K
+daily transactions at 99.98% uptime across consumer and
+merchant settlements. Designed and delivered scalable
+distributed systems for cloud services and enterprise
+applications with minimal oversight ensuring reliability
+and maintainability throughout.
+
+Built secure partial-level refund processing system using
+Kafka workers to eliminate third-party dependencies
+improving throughput by 30% and enabling real-time
+merchant settlements. Wrote debugged refactored and
+reused code to improve reliability ROI and software
+quality across all production systems.
+
+Worked on zero-downtime migration of 8M+ customer records
+using dual-write pattern and phased rollout strategy to
+transition from DynamoDB to PostgreSQL ensuring complete
+data integrity. Identified dependencies coordinated with
+cross-functional teams and contributed to design documents
+with minimal oversight throughout migration.
+
+Designed centralized observability framework using
+CloudWatch to enable faster RCAs across 6 teams and 58
+microservices reducing mean-time-to-resolution by 60%.
+Monitored system health provided telemetry and resolved
+service issues proactively with minimal oversight.
+Implemented monitoring tools for system health tracking
+performance monitoring and proactive issue resolution.
+
+Engineered decoupled Order and Refund models using CQRS
+and event-driven architecture to enable parallel
+processing reducing query latency by 40%. Optimized
+core systems for performance efficiency and
+maintainability throughout development lifecycle.
+
+Optimized event-driven Lambda functions using concurrency
+tuning and memory optimization to reduce AWS costs by 72%
+while meeting SLAs. Stayed current with software
+engineering best practices tools and technologies for
+scalability observability and maintainability.
+
+Built asynchronous address storage system with Redis
+caching achieving less than 500ms P90 latency reducing
+checkout time by 42.8% and improving conversion rates.
+Broke down complex projects into smaller work items
+provided estimates and tracked execution throughout.
+Collaborated with cross-functional teams for technical
+documentation and project planning throughout.
+
+Tech Stack: Java, JavaScript, Python, C, C++,
+Spring Boot, Redis, AWS Lambda, DynamoDB,
+PostgreSQL, Kafka, gRPC, Docker, Kubernetes,
+Jenkins, CI/CD, Monitoring Tools
+
+PROJECTS
+ViDUp
+Java, Spring Boot, RabbitMQ, FFmpeg,
+PostgreSQL, Docker, Kubernetes, AWS
+GitHub Repository
+- Designed and built distributed queue-driven video
+  transcoding system applying concurrency control
+  asynchronous processing and data-intensive system
+  design to generate adaptive HLS streams at scale.
+- Wrote clean reusable well-tested code for production
+  environment following scalability observability and
+  maintainability best practices throughout.
+- Implemented web security standards and authentication
+  for secure streaming layer acting as reverse proxy
+  improving data security and access control.
+- Monitored system health and resolved service issues
+  proactively throughout development lifecycle.
+- Broke down complex work items into smaller tasks
+  providing accurate estimates and tracking execution.
+- Collaborated with stakeholders to gather and define
+  feature requirements for system design.
+
+Short-It
+Python, FastAPI, Redis, Vue.js, PostgreSQL,
+TypeScript, Node.js, React, REST APIs
+Live Demo
+- Designed and implemented full-stack solution including
+  web frontend and backend services using React Node.js
+  and FastAPI with PostgreSQL and Redis databases.
+- Developed highly available backend service handling
+  300K+ requests with consistent low-latency responses
+  leveraging efficient data structures and caching.
+- Wrote clean reusable well-tested code for production
+  environment following software engineering best
+  practices for scalability observability and security.
+- Implemented web security authentication and
+  performance optimization throughout application.
+- Implemented asynchronous background processing and
+  analytics pipelines to maintain non-blocking request
+  paths and improve overall system responsiveness.
+- Monitored system performance availability and
+  reliability proactively identifying and resolving
+  service issues throughout development.
+- Stayed up-to-date with modern development tools
+  frameworks and best practices for scalability
+  observability and security.
+
+TECHNICAL SKILLS
+Languages: Java, JavaScript, TypeScript,
+           Python, C, C++, SQL
+Frameworks: Spring Boot, Spring Framework,
+            Node.js, Flask, React, Next.js,
+            Tailwind CSS, Bootstrap,
+            gRPC, REST APIs, JUnit, Mocha/Jest
+Developer Tools: Git, Docker, Kubernetes,
+                 Redis, Apache Kafka, AWS, GCP,
+                 Jenkins, CI/CD, Monitoring Tools
+Databases: PostgreSQL, MySQL, DynamoDB,
+           SQL, NoSQL, DBMS, Cloud Storage
+Core Competencies: REST APIs, Microservices,
+                   Event-Driven Architecture,
+                   Unit Testing, Distributed Systems,
+                   Data Structures and Algorithms,
+                   Agile Methodologies, OOP,
+                   Design Patterns, Code Refactoring,
+                   Testing, Debugging, System Design,
+                   Scalability, Observability,
+                   Performance Monitoring,
+                   Web Security, Authentication,
+                   Technical Documentation,
+                   Project Planning, Maintainability,
+                   NLP, Transformers, AI powered automation,
+                   ML pipelines
+
+EDUCATION
+Maulana Abul Kalam Azad University of Technology MAKAUT
+B.Tech Applied Electronics and Instrumentation Engineering
+GPA: 9.23 | 2019 – 2023 | Kolkata India
+
+ACHIEVEMENTS AND CERTIFICATES
+- LeetCode Rating 1500+ with 250+ problems solved
+- Top 30th percentile coder on LeetCode
+- Super Crew recognition for exemplifying ownership
+  proactive problem-solving and strong cross-team
+  collaboration
+- Captain winning team Intra-College Hackathon TechIt22
+- AWS Cloud Practitioner Certification

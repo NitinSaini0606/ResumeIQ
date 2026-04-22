@@ -1,0 +1,89 @@
+Nikhil Desai
+nikhildesai@email.com | github.com/nikhildesai
+Ahmedabad, India
+
+EDUCATION
+DAIICT Gandhinagar
+B.Tech ICT | CGPA: 8.8 | 2019 – 2023
+Coursework: Machine Learning, Distributed Systems,
+Operating Systems, Algorithms, Database Systems,
+Computer Networks, Software Engineering
+
+EXPERIENCE
+Data Engineer and ML Engineer — AnalyticsCo
+Jul 2023 – Present | Ahmedabad
+- Designed and delivered scalable distributed
+  systems for cloud data and ML services with
+  minimal oversight ensuring reliability
+  observability and maintainability throughout.
+- Built and maintained batch and real-time data
+  pipelines using Apache Spark Airflow Hadoop
+  and MapReduce for large scale ML training.
+- Designed and implemented ML models for
+  ranking recommendation search and NLP
+  deploying to production and monitoring performance.
+- Wrote debugged refactored and reused code to
+  improve reliability ROI and software quality.
+- Monitored system health provided telemetry
+  and resolved service issues proactively.
+- Optimized core systems for performance
+  efficiency and maintainability.
+- Stayed current with software engineering
+  best practices tools and technologies.
+- Mentored team members reviewed code and
+  improved engineering standards and processes.
+
+TECHNICAL SKILLS
+Languages: Python, Java, C, C++, Scala, SQL
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs,
+       conversational AI, agentic systems
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, EMR, Luigi, Dagster,
+                  batch and streaming pipelines
+Databases: SQL, NoSQL, MongoDB, Cloud Storage,
+           DBMS, vector databases, knowledge graphs
+DevOps: Docker, Kubernetes, Jenkins, CI/CD,
+        AWS, GCP, Monitoring Tools
+Core CS: DSA, OOP, Algorithms, Design Patterns,
+         Code Refactoring, Testing, Debugging,
+         Distributed Systems, System Design,
+         Scalability, Observability, Maintainability,
+         Technical Documentation, Project Planning
+
+PROJECTS
+DataMLPipeline — Production ML Data System
+Python, PyTorch, XGBoost, Apache Spark,
+Airflow, Hadoop, Kubernetes, Docker, AWS
+- Designed and delivered scalable distributed
+  data system for ML training pipelines.
+- Built and maintained batch and real-time
+  data pipelines using Spark Airflow and Hadoop.
+- Designed and implemented ML models for ranking
+  recommendation and NLP at production scale.
+- Monitored system health provided telemetry
+  resolved service issues proactively minimal oversight.
+- Wrote debugged refactored reused code ensuring
+  scalability observability and maintainability.
+
+LLMSearch — Production RAG Search System
+Python, LLMs, RAG, vector databases,
+embeddings, knowledge graphs, GCP
+- Built RAG retrieval augmented generation
+  system for large scale intelligent search.
+- Fine-tuned LLM Transformer models for
+  conversational AI and agentic systems.
+- Deployed and monitored ML models in production
+  measuring performance with analytical mindset.
+- Mentored team reviewed code improved standards.
+
+ACHIEVEMENTS
+- 2 years ML and data engineering experience
+- Solved 850+ DSA problems on LeetCode
+- 8.8 CGPA DAIICT Gandhinagar
+- Published data engineering paper

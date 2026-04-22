@@ -1,0 +1,53 @@
+LIPIKA GOYAL
++91 98723 02422 | lipikagoyal2468@gmail.com | LinkedIn | GitHub
+
+EDUCATION
+National Institute of Technology, Kurukshetra — Kurukshetra, Haryana
+Bachelor of Technology in Computer Engineering; GPA: 8.7/10 | 2022 – 2026 (Expected)
+
+EXPERIENCE
+GOOGLE — Software Engineering Intern | May 2025 – Aug 2025
+
+Developed and maintained distributed backend queue systems using Java, Kotlin, gRPC, and HTTP APIs with Google Spanner; took full ownership of complex features across the stack to automate Google Workspace security ticketing and optimize DevOps and ITSM workflows, enhancing system performance and reliability at scale.
+Wrote well-designed, testable, and maintainable production code adhering to engineering best practices; reduced manual triage workload and cut average ticket closure time from several hours to under 1 minute, enabling significantly improved SLA compliance and operational transparency for internal engineering teams.
+Delivered 3 backend and cloud infrastructure projects with 3,000+ lines of production code; published detailed technical design documents for scalable microservice architectures, applying object-oriented programming (OOP) principles, efficient algorithms, and strong software engineering fundamentals throughout.
+
+GOOGLE — STEP Intern | June 2024 – Aug 2024
+
+Developed and maintained a Java-based XLSX-to-HTML microservice for Gemini and Google Workspace; engineered RESTful endpoints and parallel data processing pipelines, applying efficient algorithms, data structures, and design patterns to support scalable document conversion and high-throughput backend operations.
+Delivered polished, high-quality improvements: boosted conversion accuracy from 94% to 99.5%, achieved a 91% reduction in error rate, improved service latency by 33%, and reduced infrastructure costs by 20%, maximizing API efficiency and overall system performance and availability.
+Led seamless legacy migration for critical document workflows, collaborating closely with cross-functional Engineering, Product, and Platform teams across multiple geographies to ensure business continuity, rapid integration, and a high-quality user experience across multiple production environments.
+
+
+PROJECTS
+CodeGen (GitHub) — AI-Powered Full-Stack Web Application
+
+Developed and maintained a full-stack no-code web builder using React, Next.js, TypeScript, Tailwind CSS, Gemini API, Convex, and browser-native WebContainers IDE; applied object-oriented programming principles and modern design patterns to enable rapid application generation, live editing, and zero local setup.
+Took full ownership of complex features across the stack — including real-time code editing, user authentication and authorization, integrated cloud storage, and scalable database management — delivering a seamless, accessible, and extensible low-code development ecosystem with a polished, intuitive interface.
+Ensured high-quality user experience and interface design throughout; significantly reduced time-to-launch and empowered non-technical users and development teams to build, deploy, and iterate web applications efficiently within a unified platform.
+
+Phishing Email Detection (Report) — Deep Learning / NLP
+
+Collaboratively developed an email phishing detection system using advanced deep learning; evaluated CNN, BiLSTM, DistilBERT, and MiniBERT architectures on the Kaggle Phishing Email Dataset (82,486 emails), applying efficient algorithms and data structures to build a robust end-to-end classification pipeline.
+Preprocessed, tokenized, and fine-tuned models to classify phishing vs. legitimate messages based on semantic and contextual NLP features; wrote testable, well-designed model pipelines and participated in iterative code reviews to ensure maintainability, accessibility, and accuracy.
+Fine-tuned DistilBERT achieved 99.26% accuracy, outperforming CNN and BiLSTM; results reflect a strong problem-solving mindset and a proactive approach to identifying high-impact opportunities in applied information security.
+
+
+TECHNICAL SKILLS
+
+Frontend Frameworks & Languages: React, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS, Bootstrap,Node.js, Spring Boot ShadCN, Sandpack
+Backend, APIs & Tools: Java, Python, C, C++, gRPC, HTTP APIs (RESTful), Google Spanner, SQL, ProtoBuf, Git, Arduino, AppDeveloper Blocks,Kubernetes
+Software Engineering Fundamentals: Object-Oriented Programming, Data Structures & Algorithms (DSA), Design Patterns, Database Management Systems (DBMS), Operating Systems, Computer Networks
+Testing, Code Quality & Version Control: Unit Testing, Code Reviews, Pair Programming, Git, Microservices Architecture
+AI & Specialized Skills: Machine Learning, Deep Learning, Artificial Intelligence (AI), NLP, Prompt Engineering, Image Processing, Data Mining, Information Security, Ethical Hacking
+
+
+AWARDS & ACHIEVEMENTS
+
+Deshaw Ascend 2024: Finalist — top 80 of 5,000+ applicants (top 1.6%).
+Salesforce Women in Tech 2024: Selected in top 100 of thousands of applicants.
+Smart India Hackathon: National selection; delivered an impactful analysis solution in the EduCare domain.
+Amazon KDP: Authored and published Ethical Hacking on Amazon KDP.
+State Ranker, International Mathematics Olympiad: Secured state rank among top Mathematics talent in India.
+Zonal Topper — JEE Mains & CBSE 98%: Ranked 1st across 10 districts.
+

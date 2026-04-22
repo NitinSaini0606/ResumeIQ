@@ -1,0 +1,40 @@
+HIMANSHU SONI
+Mathura | himanshusonimtr@gmail.com | 8958811535 | linkedin.com/in/himanshu-soni | github.com/himanshu427-droid
+
+EDUCATION
+National Institute of Technology, Kurukshetra
+Bachelor of Technology in Artificial Intelligence and Machine Learning; CGPA: 9.23/10 | Aug 2024 – May 2028
+Relevant Coursework: Data Structures & Algorithms, Statistics and Optimization, DBMS, Machine Learning
+
+PROJECTS
+Traffic Signal Recognition System | GitHub
+
+Developed a CNN-based deep learning model to classify traffic signs using the GTSRB dataset.
+Implemented data preprocessing, augmentation pipelines, and performance evaluation metrics.
+Tech: Python, TensorFlow, CNN, Jupyter Notebook
+
+MediChain — Electronic Health Record System | GitHub
+
+Designed and developed a decentralized Electronic Health Record (EHR) system on a permissioned blockchain network with role-based authentication for patients and healthcare providers.
+Built a scalable full-stack architecture applying object-oriented programming (OOP) principles, design patterns, and software engineering best practices throughout.
+Tech: React, TypeScript, Node.js, Express.js, PostgreSQL, Hyperledger Fabric, Docker
+
+Smart Tourist Safety and Monitoring System | GitHub
+
+Designed a full-stack tourist safety and digital identity management system using blockchain, machine learning, and modern web technologies; worked in a cross-functional team of 4, owning backend API development.
+Tech: React, TypeScript, Node.js, MongoDB, Hyperledger Fabric
+
+
+TECHNICAL SKILLS
+
+Programming Languages: C, C++, Python, JavaScript
+Core CS: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks
+AI/ML: Machine Learning, Deep Learning, Convolutional Neural Networks (CNN), Natural Language Processing (NLP), PyTorch, TensorFlow, Scikit-learn
+Web & Tools: React, Express.js, REST APIs, MongoDB (NoSQL), PostgreSQL (SQL), Git, Docker, Linux
+
+
+CERTIFICATIONS & ACHIEVEMENTS
+
+Solved 250+ DSA problems on LeetCode (arrays, trees, graphs, dynamic programming), maintaining consistent contest rating.
+Machine Learning Specialization — Andrew Ng, Coursera.
+Convolutional Neural Networks — deeplearning.ai.

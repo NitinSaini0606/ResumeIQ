@@ -1,0 +1,78 @@
+Tanvi Joshi
+tanvijoshi@email.com | github.com/tanvijoshi
+Pune, India
+
+EDUCATION
+College of Engineering Pune
+B.Tech Computer Engineering | CGPA: 8.7 | 2020 – 2024
+Coursework: Machine Learning, NLP,
+Computer Vision, Statistics, DSA,
+Database Systems, Algorithms
+
+EXPERIENCE
+AI Engineer Intern — NVIDIA India
+Jun 2023 – Sep 2023 | Pune
+- Designed and implemented ML models for
+  computer vision NLP and recommendation
+  systems deploying to production.
+- Built and maintained batch data pipelines
+  using Apache Spark and Hadoop for large
+  scale ML model training.
+- Fine-tuned pre-trained Vision Transformer
+  and BERT models using PyTorch for production.
+- Deployed machine learning models monitoring
+  performance in production environment.
+- Owned feature development ensuring
+  reliability and scalability throughout.
+- Applied strong analytical mindset to measure
+  model performance and reduce error rates.
+
+TECHNICAL SKILLS
+Languages: Python, Java, C, C++, SQL, Scala
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, Vision
+       Transformers, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs,
+       conversational AI, agentic systems,
+       batch and streaming pipelines
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, EMR, batch pipelines,
+                  streaming pipelines
+Databases: SQL, NoSQL, MongoDB,
+           vector databases, knowledge graphs
+Cloud: AWS, GCP, Docker, CI/CD
+Tools: Git, Jupyter, Pandas, NumPy, OpenCV
+
+PROJECTS
+VisionML — Computer Vision Pipeline
+Python, PyTorch, TensorFlow, OpenCV,
+Apache Spark, AWS, Docker
+- Designed and implemented computer vision
+  ML models using Vision Transformers and CNNs
+  for production deployment.
+- Built batch and real-time data pipelines
+  using Apache Spark and Hadoop.
+- Deployed machine learning models to AWS
+  with Docker monitoring performance.
+- Mentored team members reviewed code and
+  improved engineering standards.
+
+LLMBot — Production LLM Chatbot
+Python, LLMs, RAG, vector databases,
+LangChain, embeddings, GCP
+- Built RAG retrieval augmented generation
+  system using LLM fine-tuning and Transformers.
+- Implemented vector databases and embeddings
+  for conversational AI and agentic systems.
+- Applied analytical mindset to measure
+  model performance in production.
+
+ACHIEVEMENTS
+- Amazon ML Challenge Top 3% globally
+- Kaggle competitions top 5%
+- 8.7 CGPA COEP Computer Engineering
+- Stanford ML Certificate Andrew Ng

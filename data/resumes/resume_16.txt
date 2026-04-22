@@ -1,0 +1,66 @@
+SRIPRIYA AGARWAL
+
+LinkedIn: linkedin.com/in/| GitHub: 
+LeetCode: leetcode.com/u/
+
+EDUCATION
+Indira Gandhi Delhi Technical University — Delhi, India
+Bachelor of Technology — ECE-AI; GPA: | November 2022 – June 2026
+ST. Teresa School — Uttar Pradesh, India
+Class 12th: 94% | Class 10th: 92% | July 2020 – July 2022
+
+TECHNICAL SKILLS
+
+Programming Languages: Python, C++, C, JavaScript, SQL, Java
+ML Frameworks: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, Pandas, NumPy, Matplotlib
+AI/ML Techniques: Machine Learning, Deep Learning, NLP, Transformers, SpaCy, Generative AI, LLM fine-tuning, RAG (Retrieval-Augmented Generation), recommendation systems, ranking models, embeddings, vector search, Bi-LSTM, GCN, EEMD
+Data Engineering: ETL pipelines, batch pipelines, real-time streaming pipelines, Apache Spark, Hadoop, Airflow, data preprocessing, feature engineering, synthetic data generation
+Databases & Storage: MongoDB (NoSQL), MySQL (SQL), vector databases, cloud storage, Database Management Systems (DBMS)
+Backend & APIs: Flask, Node.js, REST APIs, Dialogflow, gRPC APIs, JWT Authentication, microservices
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, CI/CD pipelines, Git, GitHub
+Frontend: ReactJS, Next.js, Tailwind CSS
+Software Engineering: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Code Refactoring, Testing, Debugging, Agile Scrum
+Tools: Google Maps API, Jupyter Notebook, VS Code
+
+
+EXPERIENCE
+Expedia Groups — Data Engineer Intern | June 2025 – July 2025
+
+Designed and implemented scalable ETL data pipelines for supply pipeline testing; built and maintained batch and real-time data processing systems — applying efficient algorithms, data structures, and software engineering best practices to engineer a synthetic data utility that reduced manual testing time from 4 hours to 10 minutes per cycle.
+Wrote, debugged, refactored, and reused well-designed, testable, and maintainable production code; implemented a robust testing paradigm enabling early-stage isolated testing for 2+ supply data engineering teams — reducing UAT defects by 68% and accelerating QA cycles by 35%.
+Monitored system health and resolved service issues proactively; eliminated 75%+ reliance on production data across 2+ supply data engineering teams by building a reusable synthetic data generator — applying code refactoring, debugging, and observability best practices throughout.
+Collaborated closely with cross-functional data engineering teams to identify dependencies, coordinate feature delivery, and contribute to technical design documents with minimal oversight; broke down complex data pipeline projects into smaller work items and tracked execution using Agile methodologies.
+
+Research Intern | June 2024 – August 2024
+
+Designed and implemented a novel hybrid Bi-LSTM and Graph Convolutional Network (GCN) deep learning model for sleep state classification; applied NLP, Transformers, and advanced ML techniques to classify 6 sleep stages from EEG data — achieving 80% accuracy on large-scale structured and unstructured datasets.
+Built and maintained batch data pipelines for feature extraction and preprocessing using EEMD across 150+ hours of sleep data; applied efficient algorithms, data structures, and feature engineering to ensure reliable, scalable, and high-performance ML model training.
+Fine-tuned pre-trained deep learning models for production use; deployed machine learning models and monitored performance continuously — co-authoring a published paper at the Scopus-indexed ICDAM Conference with a competitive 20% acceptance rate from 2,000+ submissions.
+
+
+PROJECTS
+NADA Sentinel — Anti-Doping Investigation Platform | Python, NLP, Transformers, SpaCy, MongoDB, Docker, Flask, REST APIs, Machine Learning | December 2024
+
+Designed and implemented ML/AI models for NLP-based evidence analysis and ranking applications; deployed NLP Transformer models to production to automate anti-doping investigations for the Sports Ministry of India — processing 3 distinct forms of evidence (forensic, audio, images) and reducing manual review time significantly.
+Built and maintained real-time data pipelines for batch and streaming evidence processing; applied RAG (Retrieval-Augmented Generation), vector search, and embeddings to deliver intelligent recommendation systems — ensuring high system reliability, scalability, and availability in production.
+Wrote clean, reusable, and well-tested production code; monitored system performance and availability, proactively identifying and resolving service issues — applying object-oriented programming (OOP), design patterns, and software engineering best practices throughout.
+
+Ardh Naari Shakti — Community Support Platform | Python, Node.js, ReactJS, MongoDB, Dialogflow, Google Maps API, Machine Learning, Flask, Docker | February 2024
+
+Designed and implemented a full-stack AI-powered web application using ReactJS, Node.js, Flask, and MongoDB; integrated Dialogflow conversational AI chatbot successfully resolving 150+ common user queries automatically — applying object-oriented programming (OOP) principles, design patterns, and REST APIs throughout.
+Built and maintained backend data pipelines for a resource database of 50+ verified contacts; wrote clean, reusable, and well-tested production code — monitoring system performance, availability, and reliability, proactively identifying and resolving service issues across the platform.
+Deployed the full-stack application to production using Docker and CI/CD pipelines; applied efficient algorithms, data structures, and software engineering best practices to ensure scalability, observability, and maintainability of the distributed backend system.
+
+
+HONORS & AWARDS
+
+Expedia Group Data Engineer Intern Offer (Summer 2025): Secured full-time intern offer.
+Smart India Hackathon (SIH) 2024: Grand Finalist — top 5% of 50,000+ students.
+AMEX Campus Challenge: Semi-Finalist — top 10% of competing teams.
+AnitaB.org Grace Hopper Celebration (GHC) Scholarship 2024: Awarded prestigious scholarship.
+Adobe SheCodes Mentorship Program: Selected among top 200 mentees.
+
+
+POSITION OF RESPONSIBILITY
+Co-Founder — Techneeds IGDTUW | August 2023 – Present | Delhi, India
+Mentored 1,500+ juniors in technical skills including machine learning, data engineering, software engineering best practices, and full-stack development across cross-functional teams.

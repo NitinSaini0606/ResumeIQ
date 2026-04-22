@@ -1,0 +1,44 @@
+MARCUS HALL
+Oracle Certified Full Stack Developer
+| Email | github.io/| San Francisco, CA
+
+SUMMARY
+Results-driven Senior Software Engineer with 10+ years of experience designing, developing, and maintaining large-scale distributed systems and high-performance backend services across cloud services and enterprise applications. Proven track record of optimizing core system performance, ensuring reliability, and delivering robust software solutions — including leading a $500K research project deemed a "gold standard" by the client and increasing client revenue 2-fold through AI/ML-based algorithm fine-tuning. Deep expertise in object-oriented programming (OOP), design patterns, data structures, algorithms, code refactoring, testing, and debugging across cross-functional Agile teams.
+
+TECHNICAL SKILLS
+
+Programming Languages: Java, Python, JavaScript, TypeScript, C, C++, C#
+Backend & Distributed Systems: Distributed Systems, Microservices, Cloud Services, REST APIs, Node.js, Spring Boot, ASP.NET, HTTP/2, Web Scraping, Performance Optimization
+Databases & Storage: MySQL (SQL), MongoDB (NoSQL), Redis (NoSQL), SQL Server, Cloud Storage, Database Management Systems (DBMS)
+DevOps & CI/CD: Docker, AWS, Azure DevOps, CI/CD Pipelines, Monitoring Tools, Spark, Git
+Software Engineering: Object-Oriented Programming (OOP), Design Patterns, Data Structures & Algorithms (DSA), Code Refactoring, Testing, Debugging, Agile, Scrum
+Frontend: React, Vue, Angular, Redux, Backbone, HTML, CSS, Bootstrap, TypeScript
+AI & ML: Python, NumPy, SciPy, Scikit-learn, Keras, TensorFlow, Eli5, Machine Learning, Deep Learning, NLP, Kubernetes
+Testing & Code Quality: JUnit, NUnit, PyUnit, TestCafe, Mocha, Jest, Code Reviews, Pair Programming, Unit Testing
+
+
+EXPERIENCE
+Senior Full Stack Developer — Boyle | 2023 – 2025 | San Francisco, CA
+
+Designed and delivered scalable distributed systems using Java, JavaScript, and SQL for 10+ enterprise applications; took full ownership of complex backend features across the stack with minimal oversight — applying object-oriented programming (OOP) principles, design patterns, data structures, and algorithms throughout.
+Optimized core system performance by developing indexed database architecture using SQL procedures and triggers; wrote, debugged, refactored, and reused well-designed, testable, and maintainable production code achieving significant improvements in reliability, efficiency, and ROI.
+Monitored system health and resolved service issues proactively; contributed to technical design documents for scalable microservice architectures and collaborated closely with cross-functional teams to identify dependencies and coordinate feature delivery.
+Hired, trained, and led an Agile Scrum team of 7 full-stack engineers; broke down complex projects into smaller work items, provided accurate estimates, and tracked execution to ensure on-time delivery across multiple enterprise environments.
+
+Full Stack Developer — Lauzon | 2019 – 2023 | San Francisco, CA
+
+Designed and delivered scalable cloud storage solutions by creating and maintaining scheduled jobs in SQL Server for space maintenance and daily backups across distributed systems serving 10 clients; monitored system health and resolved service issues proactively to ensure high availability and reliability.
+Optimized core backend systems for performance, efficiency, and maintainability; implemented business logic for 20+ production features using Java, Python, and JavaScript — achieving 30% revenue growth within 2 months through code refactoring, debugging, and software engineering best practices.
+Designed and developed UI systems for 15+ clients using CSS, HTML, ASP.NET, Vue, and React; wrote well-designed, testable, accessible, and maintainable code achieving Lighthouse scores above 85 across all production environments.
+Collaborated closely with cross-functional engineering and product teams; contributed to technical documentation, project planning, and cross-team coordination with minimal oversight to ensure robust software delivery.
+
+Solution Architect — Keeling Group | 2015 – 2019 | Palo Alto, CA
+
+Designed and delivered large-scale distributed systems and cloud service architectures for enterprise applications; shortened project timelines by 14 months for the company's largest client by managing dependencies with 3rd party vendors, saving $800K+ through effective project planning and technical coordination.
+Led development of a $500K research project deemed a "gold standard" by the client; fine-tuned and developed AI/ML-based algorithms using Scikit-learn and Python — increasing client revenue 2-fold through performance optimization, code refactoring, and mastery of software engineering best practices for scalability and maintainability.
+Built a high-performance web scraping distributed system processing 100K+ school supply products using Node.js and MongoDB; applied efficient algorithms, data structures, and design patterns to complete the project in 1 month with 100% functional reliability.
+Monitored system performance and availability across all production environments; provided telemetry, identified dependencies, and resolved service issues proactively to ensure observability and reliability at scale.
+
+
+EDUCATION
+Stanford University — M.S. in Computer Science; GPA: 3.9 | 2015 | Palo Alto, CA

@@ -1,0 +1,132 @@
+Ware Nishant
++91-9561760806 | nishantware3522@gmail.com
+LinkedIn | GitHub | LeetCode
+
+EXPERIENCE
+Software Development Engineer Intern — Backend Systems
+Codtech IT Solutions | Jan 2025 – Mar 2025 | Remote
+- Designed and delivered scalable backend systems
+  for cloud services and enterprise applications
+  ensuring reliability and maintainability throughout
+  with minimal oversight.
+- Developed and validated REST APIs across 50+
+  functional and edge-case workflows improving
+  backend reliability and system stability.
+- Wrote debugged refactored and reused code to
+  improve reliability ROI and software quality
+  across all production systems.
+- Designed scalable cloud-ready microservices using
+  REST APIs for high-concurrency applications
+  ensuring scalability observability and
+  maintainability.
+- Automated unit and integration testing improving
+  backend reliability and deployment stability —
+  applied testing debugging and code refactoring
+  throughout.
+- Implemented fault-tolerant backend services
+  improving distributed system resilience.
+- Optimized REST API performance reducing backend
+  latency for web applications — monitored system
+  health and resolved service issues proactively.
+- Identified dependencies coordinated with
+  cross-functional teams and contributed to design
+  documents with minimal oversight throughout.
+- Stayed current with software engineering best
+  practices tools and technologies for scalability
+  observability and maintainability.
+
+PROJECTS
+AI Driven Resume Builder App | GitHub
+Node.js, TypeScript, REST APIs, OpenAI API,
+MongoDB, Docker, GCP, CI/CD | Nov 2024 – Jan 2025
+- Designed and delivered scalable full-stack
+  backend system using Node.js TypeScript and
+  REST APIs with Docker deployment on GCP.
+- Built Angular web interfaces integrated with
+  REST APIs improving client-side performance by 40%.
+- Deployed Docker-based web services on cloud
+  infrastructure for scalable deployments monitoring
+  system health and availability proactively.
+- Optimized REST API performance improving response
+  time by 65% through query optimization and
+  code refactoring.
+- Built REST APIs for 50+ workflows improving
+  backend reliability and scalable web applications.
+- Wrote debugged refactored and reused code to
+  improve reliability and software quality throughout.
+- Broke down complex work items into smaller tasks
+  providing accurate estimates and tracking execution.
+
+AI Nutri Scanner App | GitHub
+Node.js, Express.js, REST APIs, MongoDB,
+Docker, JWT | May 2024 – Jul 2024
+- Designed and delivered scalable backend system
+  using Node.js Express.js and MongoDB ensuring
+  reliability and maintainability.
+- Developed REST APIs enabling real-time data
+  processing for scalable backend services handling
+  50+ workflows.
+- Optimized MongoDB queries reducing latency by
+  30-35% through code refactoring and debugging.
+- Implemented JWT authentication and role-based
+  access control for secure APIs applying web
+  security best practices.
+- Monitored system health and resolved service
+  issues proactively throughout development.
+
+Fuel Delivery Android Application | GitHub
+Java, Android SDK, REST APIs, SQLite
+Aug 2024 – Oct 2024
+- Developed Android application using Java and
+  REST APIs for location-based service requests
+  with scalable backend architecture.
+- Implemented location-based request handling
+  with network recovery for reliable mobile services.
+- Implemented SQLite offline storage improving
+  reliability by 40% through code refactoring
+  and optimization.
+- Designed caching for offline-first mobile
+  workflows ensuring system reliability and
+  maintainability.
+
+TECHNICAL SKILLS
+Languages: Java, Python, JavaScript, TypeScript,
+           C, C++, SQL
+Backend: Node.js, Express.js, REST APIs,
+         Microservices, API Design,
+         Scalable Backend Architecture
+Databases: SQL, NoSQL, MongoDB, SQLite,
+           Cloud Storage, DBMS
+Cloud/DevOps: Docker, Kubernetes, Jenkins,
+              CI/CD, GCP, Linux,
+              Monitoring Tools
+Tools: Git, JUnit, VS Code
+Core CS: Data Structures and Algorithms,
+         Distributed Systems, OS,
+         Computer Networks, OOP,
+         Design Patterns, Code Refactoring,
+         Testing, Debugging, Algorithms
+Practices: Agile, Cross-functional teamwork,
+           Technical documentation,
+           Project planning, Scalability,
+           Observability, Maintainability,
+           Performance Monitoring
+
+ACHIEVEMENTS
+- Contributed to 4+ open-source Android projects
+  with successfully merged pull requests on GitHub
+- Completed Data Structures and Algorithms
+  certification in Java strengthening problem-solving
+- Solved 700 problems on LeetCode achieving
+  3 proficiency badges in DSA
+- Conducted Android development workshops
+  mentoring 200+ students on app design and
+  deployment
+
+EDUCATION
+Bachelor of Engineering Computer Engineering
+Dr. D.Y. Patil College of Engineering Pune
+Expected 2026 | CGPA: 8.55
+Relevant Coursework: Operating Systems,
+Computer Networks, Distributed Systems,
+Database Systems, Machine Learning

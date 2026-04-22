@@ -1,0 +1,105 @@
+S Sohail
+7093601086 | sohailshaik709360@gmail.com
+linkedin.com/in/mrsohailshaik03 | github.com/mrsohailshaik03
+
+EDUCATION
+St. Johns College of Engineering and Technology
+Bachelor of Technology in Computer Science | CGPA: 7.49
+Yemmiganur, Andhra Pradesh | 2022 – 2026
+
+Akshara Sree Jr College
+Higher Secondary Class XII | 85% | 2020 – 2022
+Adoni, Andhra Pradesh
+
+INTERNSHIP
+Artificial Intelligence Intern
+SkillDzire Technologies | May 2025 – June 2025
+- Gained hands-on experience in Python programming and
+  foundational AI concepts through practical projects
+  and guided mentorship.
+- Developed and deployed machine learning model with 94%
+  accuracy to predict heart disease presence using
+  clinical datasets.
+- Performed comprehensive data preprocessing EDA and data
+  visualization to derive actionable insights and ensure
+  model robustness.
+- Enhanced understanding of machine learning workflows
+  including feature engineering model training and
+  evaluation metrics.
+- Wrote clean reusable and well-tested code throughout
+  development following software engineering best practices.
+- Collaborated with cross-functional team members to deliver
+  features on schedule with full ownership of assigned tasks.
+
+PROJECTS
+WANDERLUST — Hotel Rental Site
+Node.js, Express.js, MongoDB, EJS, Bootstrap
+- Designed and implemented full-stack hotel rental platform
+  to simplify vacation booking process featuring 6+ core
+  functionalities like user authentication and CRUD operations.
+- Wrote clean reusable well-tested code for production
+  environment following scalability and observability
+  best practices throughout.
+- Architected RESTful API with over 15 endpoints ensuring
+  seamless communication between frontend and server.
+- Structured and managed 5+ collections in MongoDB to
+  maintain data integrity for listings users and reviews.
+- Monitored system performance and availability proactively
+  resolving service issues during development.
+- Broke down complex work items into smaller tasks providing
+  accurate estimates and tracking execution.
+
+SMARTFARM AI Assistant
+React.js, Node.js, Express.js, Gemini API, Tailwind CSS
+- Designed and implemented full-stack AI farming assistant
+  using React.js Node.js and Google Gemini API to provide
+  data-driven insights to farmers.
+- Wrote well-designed testable accessible and maintainable
+  code across frontend and backend with full ownership
+  of complex features across the stack.
+- Implemented 6 core features including crop recommendation
+  disease detection and real-time market price tracker.
+- Built responsive polished intuitive user interface with
+  Tailwind CSS and visualized agricultural data using
+  Recharts delivering excellent user experience.
+- Integrated 24/7 AI chatbot to provide instant answers
+  to farming-related queries.
+- Participated in code reviews and pair programming applying
+  OOP design principles and algorithms throughout development.
+- Write debug refactor and reuse code to improve reliability
+  and software quality across the entire application.
+- Deployed and monitored application performance ensuring
+  high availability and reliable system functionality.
+
+TECHNICAL SKILLS
+Languages: Java, JavaScript, Python
+Frontend: React.js, Tailwind CSS, Bootstrap, HTML, CSS
+Backend: Node.js, Express.js, REST APIs, EJS
+Databases: MongoDB, MySQL, SQL, NoSQL
+Tools: Git, GitHub, Docker, CI/CD
+Core CS: DSA, OOP, Algorithms, Design Patterns,
+         Debugging, Testing, Code Reviews
+Practices: Agile, unit testing, pair programming,
+           accessible UI, maintainable code,
+           write debug refactor and reuse code,
+           web security, authentication
+
+ACHIEVEMENTS
+Tech Vista Project Expo
+St. Johns College of Engineering and Technology
+- Participated in Tech Vista Project Expo themed
+  Social and Society Relevant Projects organized
+  by Department of CSE.
+- Competed against teams from 2nd 3rd and 4th year
+  students showcasing innovative solutions.
+
+COURSES AND CERTIFICATIONS
+Full-Stack Web Development — Apna College 2024
+- Mastered MERN stack RESTful APIs database design
+  SQL and MongoDB and version control with Git.
+
+DSA with Java — Apna College 2025
+- Implemented 50+ core algorithms and data structures
+  focusing on Big O complexity and optimization.
+- Actively sharpen problem-solving skills by
+  participating in weekly LeetCode contests.

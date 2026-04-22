@@ -1,0 +1,173 @@
+python
+java
+javascript
+typescript
+react
+angular
+vue
+next js
+nuxt js
+node js
+express
+fastapi
+flask
+django
+spring boot
+asp net
+laravel
+ruby on rails
+html
+css
+sass
+tailwind css
+bootstrap
+redux
+graphql
+rest apis
+rest api
+soap
+websocket
+machine learning
+deep learning
+data analysis
+natural language processing
+nlp
+computer vision
+reinforcement learning
+data science
+artificial intelligence
+ai
+neural networks
+large language models
+llm
+llms
+generative ai
+gen ai
+prompt engineering
+tensorflow
+pytorch
+scikit learn
+keras
+opencv
+hugging face
+transformers
+bert
+xgboost
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+sql
+nosql
+mysql
+postgresql
+mongodb
+redis
+elasticsearch
+firebase
+sqlite
+oracle
+cassandra
+dynamodb
+neo4j
+mariadb
+git
+docker
+kubernetes
+jenkins
+ci/cd
+github actions
+gitlab ci
+terraform
+ansible
+aws
+azure
+gcp
+google cloud
+linux
+bash
+shell scripting
+nginx
+apache
+microservices
+devops
+mlops
+data engineering
+etl
+apache spark
+hadoop
+kafka
+airflow
+dbt
+snowflake
+databricks
+power bi
+tableau
+excel
+c
+c++
+c#
+go
+golang
+rust
+swift
+kotlin
+dart
+flutter
+react native
+android
+ios
+unity
+unreal engine
+opengl
+cuda
+assembly
+r
+matlab
+scala
+perl
+php
+ruby
+solidity
+blockchain
+web3
+cybersecurity
+penetration testing
+networking
+tcp/ip
+dns
+cloud computing
+serverless
+lambda
+agile
+scrum
+jira
+figma
+selenium
+pytest
+junit
+postman
+swagger
+dsa
+data structures and algorithms
+oop
+object oriented programming
+design patterns
+distributed systems
+cloud services
+rest apis
+jwt authentication
+operating systems
+dbms
+database management systems
+database management systems (dbms)
+computer networks
+computer networking
+vector databases
+knowledge graphs
+rag
+rag (retrieval augmented generation)
+compiler design
+cryptography

@@ -1,0 +1,110 @@
+Tanmay Malkar
+malkartanmay630@gmail.com | +91-902143551
+github.com/tanmaymalkar6300 | leetcode.com/tanmay_coder
+
+PROFESSIONAL SUMMARY
+Final-year Computer Engineering student with strong
+foundations in Data Structures Algorithms and
+Object-Oriented Programming. Proficient in Core Java
+and experienced in backend development using Node.js
+and Express building RESTful APIs and scalable
+server-side applications in the MERN stack. Experienced
+in designing real-time client-server systems implementing
+authentication and integrating databases. Passionate about
+solving complex engineering problems and developing
+reliable backend systems. Committed to writing
+well-designed testable accessible and maintainable code
+delivering polished intuitive applications.
+
+TECHNICAL SKILLS
+Languages: Java, JavaScript, TypeScript
+Core CS: Data Structures and Algorithms,
+         Object-Oriented Programming, DBMS,
+         Design Patterns, Debugging, OOP
+Frontend: React.js, Tailwind CSS, HTML, CSS,
+          Next.js, Bootstrap
+Backend: REST APIs, Node.js, Express.js,
+         WebSockets, JWT Authentication
+Databases: MongoDB, MySQL
+Tools: Git, GitHub, Postman, Vercel, CI/CD
+Practices: Code reviews, unit testing,
+           pair programming, debugging,
+           accessible UI, Agile
+
+EXPERIENCE
+Frontend Developer Intern — CodeAlpha
+Dec 2024 – Jan 2025
+- Developed and maintained responsive UI components
+  using HTML CSS and JavaScript taking full ownership
+  of complex features across the frontend.
+- Wrote well-designed testable accessible and
+  maintainable code improving cross-device compatibility
+  and reducing UI rendering issues by 25%.
+- Integrated REST APIs to fetch and render dynamic
+  data in web applications delivering polished
+  intuitive user experience.
+- Participated in code reviews and pair programming
+  in Agile development environment to debug application
+  issues and improve performance.
+- Wrote debugged refactored and reused code to improve
+  reliability and software quality throughout.
+- Monitored application performance and availability
+  proactively identifying and resolving issues.
+
+PROJECTS
+Streamify — Real-Time Chat and Video Communication Platform
+React.js, Node.js, Express.js, MongoDB, WebSockets
+GitHub Repository
+- Designed scalable backend APIs using Node.js and
+  Express for real-time messaging and video communication
+  taking full ownership of features across the stack.
+- Implemented WebSockets for low-latency client-server
+  communication supporting concurrent users with
+  scalability and observability throughout.
+- Developed JWT-based authentication and secure session
+  management for protected endpoints applying OOP
+  design patterns and algorithms throughout.
+- Structured backend architecture using modular design
+  to improve maintainability and scalability.
+- Wrote clean reusable well-tested code for production
+  environment following software engineering best practices.
+- Participated in code reviews and pair programming
+  to ensure code quality and reliability.
+
+AI-Powered Loan Recommendation System (RAG-Based)
+React.js, Gemini AI, Vector Embeddings, Vercel
+Live Demo | GitHub Repository
+- Developed AI-powered system providing loan
+  recommendations using Retrieval-Augmented Generation
+  and vector embeddings for intelligent search.
+- Designed REST APIs to process user financial inputs
+  and generate structured outputs including eligibility
+  prediction EMI calculation and risk scoring.
+- Implemented efficient data processing workflows
+  and optimized API interactions with full ownership
+  of features across frontend and backend.
+
+Trending Movies Explorer — API-Based Web Application
+React.js, Tailwind CSS, TMDB API, Appwrite
+Live Demo | GitHub Repository
+- Built web application integrating third-party REST
+  APIs to retrieve and display movie data in real time
+  with polished intuitive user interface.
+- Implemented authentication database operations and
+  file storage using Appwrite backend services.
+- Applied unit testing and code reviews to optimize
+  API request handling and component rendering to
+  improve application performance.
+
+ACHIEVEMENTS
+- Solved 300+ DSA problems on LeetCode
+- Practiced time and space complexity optimization
+  techniques to design efficient algorithms
+- Built and deployed multiple full-stack applications
+  demonstrating backend API design and scalable
+  architecture
+
+EDUCATION
+Dr D Y Patil Institute of Technology Pimpri Pune
+Bachelor of Engineering Computer Engineering
+CGPA: 7.79 | Dec 2022 – June 2026

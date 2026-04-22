@@ -1,0 +1,70 @@
+Rohan Verma
+rohanverma@email.com | github.com/rohanverma
+Bangalore, India
+
+EDUCATION
+NIT Calicut
+B.Tech Computer Science | CGPA: 8.4 | 2020 – 2024
+Coursework: Machine Learning, Statistics,
+Data Structures, Algorithms, Database Systems
+
+TECHNICAL SKILLS
+Languages: Python, Java, Scala, SQL, C
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT,
+       Generative AI, LLM fine-tuning,
+       recommendation systems, ranking models,
+       embeddings, vector databases,
+       RAG, retrieval augmented generation,
+       knowledge graphs, agentic systems
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, EMR, Dagster,
+                  batch pipelines, streaming pipelines
+Databases: SQL, NoSQL, MongoDB, vector databases,
+           knowledge graphs, DBMS
+Cloud: AWS, GCP, Docker, CI/CD
+Tools: Git, Jupyter, Pandas, NumPy, Matplotlib
+
+PROJECTS
+ProductRank — ML Ranking and Recommendation
+Python, PyTorch, XGBoost, Apache Spark, AWS
+- Designed and implemented ML models for ranking
+  recommendation and search applications.
+- Built batch and real-time data pipelines using
+  Apache Spark Airflow and Hadoop.
+- Fine-tuned pre-trained BERT models for domain
+  specific product ranking applications.
+- Deployed machine learning models to AWS with
+  Docker monitoring performance in production.
+- Owned feature development ensuring reliability
+  and scalability throughout.
+- Mentored team members reviewed code and improved
+  engineering standards and processes.
+
+RAGBot — Conversational AI System
+Python, LLMs, RAG, vector databases,
+knowledge graphs, GCP
+- Built RAG retrieval augmented generation
+  system with vector databases and embeddings
+  for intelligent document retrieval.
+- Fine-tuned LLM models and implemented
+  conversational AI with agentic systems.
+- Applied strong analytical mindset to measure
+  model performance in production environment.
+- Deployed to GCP with Docker and CI/CD pipelines.
+
+DataPipeline — Real-time ML Pipeline
+Python, Apache Spark, Airflow, Hadoop,
+MapReduce, streaming pipelines
+- Built and maintained batch and real-time
+  data pipelines for large scale ML training.
+- Implemented EMR and MapReduce for distributed
+  data processing at scale.
+- Monitored pipeline performance and resolved
+  service issues proactively.
+
+ACHIEVEMENTS
+- Amazon ML Challenge Top 5% globally
+- Solved 800+ DSA problems LeetCode
+- 8.4 CGPA NIT Calicut Computer Science

@@ -1,0 +1,78 @@
+Vivek Srinivasan
+viveksrinivasan@email.com | github.com/viveksrini
+Chennai, India
+
+EDUCATION
+Anna University
+B.Tech Information Technology | CGPA: 8.5 | 2019 – 2023
+Coursework: Machine Learning, Deep Learning,
+Data Engineering, NLP, Statistics, DSA
+
+EXPERIENCE
+Data Scientist — Analytics India
+Jul 2023 – Present | Chennai
+- Designed and implemented ML models for
+  ranking recommendation search and NLP
+  deploying to production monitoring performance.
+- Built and maintained batch and real-time
+  data pipelines using Apache Spark Airflow
+  Hadoop and MapReduce at production scale.
+- Fine-tuned pre-trained LLM and Transformer
+  models using PyTorch for domain specific use.
+- Owned feature development and system health
+  ensuring reliability scalability throughout.
+- Mentored team members reviewed code and
+  improved engineering standards and processes.
+- Applied strong analytical mindset to measure
+  ML model performance in production.
+- Broke down complex projects into smaller
+  tasks provided estimates tracked execution.
+
+TECHNICAL SKILLS
+Languages: Python, Java, C, Scala, SQL, Go
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs,
+       conversational AI, agentic systems
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, EMR, Luigi, Dagster,
+                  batch and streaming pipelines
+Databases: SQL, NoSQL, MongoDB, PostgreSQL,
+           vector databases, knowledge graphs,
+           Cloud Storage, DBMS
+Cloud: AWS, GCP, Docker, Kubernetes, CI/CD,
+       Jenkins, Monitoring Tools
+Tools: Git, Jupyter, Pandas, NumPy, Matplotlib
+
+PROJECTS
+MLProd — Production ML Serving System
+Python, PyTorch, XGBoost, Apache Spark,
+Kubernetes, Docker, AWS, Airflow
+- Designed and implemented ML models for
+  ranking and recommendation at production scale.
+- Built batch and streaming data pipelines
+  using Spark Airflow Hadoop and MapReduce.
+- Deployed machine learning models to AWS
+  with Kubernetes and Docker monitoring performance.
+- Mentored team reviewed code improved standards.
+
+ConvAI — Conversational RAG System
+Python, LLMs, RAG, vector databases,
+knowledge graphs, GCP, embeddings
+- Built RAG retrieval augmented generation
+  pipeline for conversational AI and agentic
+  systems with vector databases and embeddings.
+- Fine-tuned LLM Transformer models for
+  domain specific production applications.
+- Monitored model performance proactively
+  measuring with strong analytical mindset.
+
+ACHIEVEMENTS
+- 2 years data science experience
+- Kaggle Expert rank
+- Solved 800+ DSA problems LeetCode
+- 8.5 CGPA Anna University

@@ -1,0 +1,58 @@
+TAYLOR FOSTER
+Software Engineer
+212-312-7001 | Email | github.io/name-surname | Austin, TX
+
+SUMMARY
+Senior Software Engineer with 10+ years of experience designing, developing, and maintaining large-scale distributed systems and high-performance backend services for cloud services and enterprise applications. Expert at optimizing core system performance, ensuring reliability, and delivering robust software solutions — applying object-oriented programming (OOP), design patterns, data structures, algorithms, code refactoring, testing, and debugging across cross-functional Agile teams. Proven track record of spearheading $12M+ software projects, improving query efficiency by 30%, and achieving 65–68% performance gains through scalable architecture and software engineering best practices for scalability, observability, and maintainability.
+
+TECHNICAL SKILLS
+
+Programming Languages: Java, Python, C, C++, C#, JavaScript, Perl, SQL
+Backend & Distributed Systems: Distributed Systems, Microservices, Cloud Services, REST APIs, Performance Optimization, ASP.NET, Backend Frameworks
+Databases & Storage: MySQL (SQL), NoSQL, Cloud Storage, Database Management Systems (DBMS), In-memory Cache, Configuration Management
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, CI/CD Pipelines, Monitoring Tools, Git, Unix, Linux, Solaris, Windows
+Software Engineering: Object-Oriented Programming (OOP), Design Patterns, DSA, Code Refactoring, Testing, Debugging, Agile Scrum
+Testing & Code Quality: Unit Testing, Code Reviews, Test Plans, Test Scripts, Automated Test Frameworks, Pair Programming
+AI & ML: Machine Learning, NLP, Python, Data Pipelines, Chatbot Development, Automation Algorithms
+Collaboration: Cross-functional teamwork, technical documentation, project planning, dependency identification
+
+
+EXPERIENCE
+Lead Software Engineer — Blackbaud | 2021 – Present | Austin, TX
+
+Designed and delivered scalable distributed systems for enterprise cloud applications; wrote, debugged, refactored, and reused well-designed, testable, and maintainable production code — applying object-oriented programming (OOP) principles, design patterns, data structures, and algorithms to successfully migrate entire project from Python 2 to Python 3.8.0 with zero production downtime.
+Optimized core system performance, efficiency, and maintainability by scripting unique test plans, test scripts, and automated testing processes; removed redundancy by 40% and improved system reliability through rigorous debugging, code refactoring, and software engineering best practices.
+Designed and delivered a desktop application to automate distributed database testing processes; monitored system health and resolved service issues proactively, improving efficiency by 65% and ensuring high availability and observability across all production environments.
+Automated data processing pipelines to generate usage graphs and telemetry reports; identified dependencies, coordinated with cross-functional teams, and contributed to technical design documents with minimal oversight — saving $500,000/year and significantly improving system accuracy and ROI.
+
+Senior Software Engineer — Wayfair | 2017 – 2021 | Austin, TX
+
+Designed and delivered scalable cloud service architecture by migrating automation solution to commercial software; applied object-oriented programming (OOP), design patterns, code refactoring, and efficient algorithms to design reusable software components used across 3 different enterprise projects — reducing development effort by 50%.
+Optimized core backend system performance by re-engineering critical modules within a sprint to rely on a centralized distributed library; wrote well-designed, debuggable, and maintainable code achieving 68% performance improvement through systematic code refactoring and software engineering best practices.
+Monitored system health, provided telemetry, and resolved service issues proactively; broke down complex projects into smaller work items, provided accurate estimates, and tracked execution — consistently rated top 5% for annual performance across cross-functional Agile engineering teams.
+Collaborated closely with cross-functional engineering, product, and QA teams; contributed to technical design documents, project planning, and cross-team coordination with minimal oversight to ensure on-time delivery of scalable, reliable, and maintainable software solutions.
+
+Software Developer — Target | 2015 – 2017 | Austin, TX
+
+Designed and delivered configuration management tools to track server settings for distributed system performance testing; monitored system health and resolved service issues proactively — saving 25% of initial machine setup time and improving overall system reliability and observability.
+Optimized core backend systems by developing in-memory cache monitor reports updating data every second; wrote, debugged, and refactored well-designed, maintainable production code improving reporting system accuracy by 4% and reducing turnaround time by 20%.
+Performed root cause analysis for 10+ production issues; identified dependencies, coordinated with cross-functional teams, and rolled out debugged fixes to production within 24 hours — demonstrating strong problem-solving mindset and proactive approach to maintaining system health.
+Delivered scalable backend services for enterprise applications applying data structures, algorithms, and design patterns; contributed to technical documentation and project planning with minimal oversight to ensure reliable execution.
+
+Junior Software Engineer — Redfin | 2013 – 2015 | Austin, TX
+
+Designed and implemented efficient algorithms to reduce data processing time by 75% for 70,000–100,000 instruments from 16 seconds to under 4 seconds; applied data structures, code refactoring, and software engineering best practices to deliver high-performance backend services at scale.
+Spearheaded tech stack revamp applying distributed systems architecture principles, design patterns, and OOP — resulting in 40% decrease in server costs and significantly improved scalability, observability, and maintainability.
+Wrote optimized, reusable, and well-designed scripts for data-heavy and processing-heavy task automation; monitored system performance and availability, proactively identifying and resolving service issues to ensure reliability across production environments.
+Improved user interfaces and customer-facing systems; collaborated with cross-functional teams to deliver high-quality software solutions, generating $18K in new license sales through responsive feature delivery and polished user experience improvements.
+
+KEY ACHIEVEMENTS
+
+Spearheaded a $12M software project from design to distribution as lead engineer in a 12-person cross-functional team; applied distributed systems architecture, OOP, design patterns, and project planning for end-to-end delivery.
+Improved MySQL database query efficiency by 30% through systematic code refactoring, indexing optimization, and data structures improvements — maximizing system performance, reliability, and ROI.
+Coordinated a year-long six-part platform release across Marketing, BA, QA, and Sales departments; demonstrated strong cross-functional teamwork, technical documentation, and project planning skills with minimal oversight.
+Developed an AI-powered NLP chatbot applying machine learning algorithms and data pipelines; reduced client customer service costs by 240% through intelligent automation and generative AI techniques.
+
+EDUCATION
+The University of Arizona — Executive MBA, Engineering Management | 2010 – 2011 | Tucson, AZ
+North Carolina Wesleyan College — B.S. in Computer Science | 2006 – 2009 | Rocky Mount, NC

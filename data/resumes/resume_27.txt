@@ -1,0 +1,110 @@
+Siddharth Saurav
+(+91)7903344250 | siddharthsaurav15@gmail.com
+GitHub | LeetCode | LinkedIn
+
+EXPERIENCE
+Software Development Engineer
+Perfios Software Solutions Pvt. Ltd. | July 2023 – Present
+New Delhi
+- Designed and delivered scalable systems for cloud services
+  and enterprise applications with minimal oversight ensuring
+  reliability and maintainability throughout.
+- Engineered Web SDK using MediaPipe facilitating real-time
+  liveness detection by processing video frames with worker
+  thread for parallel computation.
+- Boosted API performance by 70% slashing latency from 2100ms
+  to 600ms through advanced SQL query optimization and memory
+  management techniques within Spring Boot environment.
+- Wrote debugged refactored and reused code to improve
+  reliability ROI and software quality across production systems.
+- Monitored system health provided telemetry and resolved
+  service issues proactively with minimal oversight.
+- Engineered batch upload feature utilizing SQL bulk insert
+  techniques reducing MSME onboarding time by 91%.
+- Identified dependencies coordinated with cross-functional
+  teams and contributed to design documents with minimal oversight.
+- Stayed current with software engineering best practices
+  tools and technologies for scalability observability
+  and maintainability.
+- Worked in Agile development environment with cross-team
+  coordination and technical documentation.
+
+Full Stack Developer Intern
+Mentorify (formerly Career Clarify) | Feb 2023 – Apr 2023
+Gorakhpur, Uttar Pradesh
+- Developed multi-tier RBAC based web portal using Java and
+  REST APIs for clients and students enabling statistical
+  performance tracking and quiz functionality.
+- Designed and delivered scalable backend systems applying
+  OOP design patterns algorithms and code refactoring
+  throughout development.
+- Spearheaded engineering of secure low-latency JWT-based
+  authentication and authorization framework bolstering
+  backend API security and user trust.
+- Broke down complex work items into smaller tasks providing
+  accurate estimates and tracking execution.
+- Performed testing and debugging to improve reliability
+  and software quality across all modules.
+
+EDUCATION
+Indian Institute of Technology — IIT BHU
+Bachelor of Technology | CGPA: 7.69 | Aug 2019 – June 2023
+Varanasi, UP
+
+TECHNICAL SKILLS
+Languages: Java, JavaScript, TypeScript, C, C++, Python, SQL
+Frameworks: Spring Boot, Spring, Maven, Node.js,
+            Angular, React, Bootstrap
+Databases: MySQL, MongoDB, Redis, SQL, NoSQL, DBMS,
+           Cloud Storage, AWS
+DevOps: Docker, Kubernetes, Jenkins, CI/CD, Git,
+        Monitoring Tools
+Tools: VS Code, Postman
+Core CS: Data Structures, OOP, Algorithms, DBMS,
+         Multithreading, Design Patterns,
+         Code Refactoring, Testing, Debugging
+Practices: Agile, cross-functional teamwork,
+           technical documentation, project planning,
+           scalability, observability, maintainability,
+           performance monitoring, system dependencies
+
+PROJECTS
+Multithreaded Proxy Server with LRU Cache
+Java, C++, Socket Programming, Multithreading | Jun 2024 – Jul 2024
+- Designed and delivered scalable distributed system handling
+  1000+ concurrent users with custom LRU caching reducing
+  API response times by 99%.
+- Implemented thread-safe data structures and synchronization
+  mechanisms ensuring safe concurrent access to cache.
+- Utilized thread pools and synchronized methods to prevent
+  data races and optimize performance at scale.
+- Monitored system health and resolved service issues
+  proactively throughout development.
+- Wrote debugged refactored and reused code to optimize
+  reliability and software quality throughout.
+
+Redis Based Scalable Chat Application
+React.js, Node.js, Redis, MongoDB | Apr 2022 – Jul 2022
+- Designed and delivered large-scale distributed chat system
+  using MERN stack integrated with Redis for Pub/Sub mechanisms
+  supporting high-volume concurrent users.
+- Implemented real-time interaction features using Socket.IO
+  for efficient event-driven communication between clients
+  and servers.
+- Optimized core system performance efficiency and
+  maintainability throughout development.
+- Monitored system health provided telemetry and resolved
+  service issues proactively during development.
+
+LEADERSHIP
+- Gave lectures on CSO101 Introduction to Programming to
+  freshman students at IIT BHU.
+- Successfully conducted 5+ workshops on Web Development
+  as part of COPS team at IIT BHU.
+- Mentored team members reviewed code and improved
+  engineering standards and processes.
+
+ACHIEVEMENTS
+- LeetCode 1882 Knight rating
+- CodeChef 1989 4-star rating
+- Global rank 59 out of 5000+ CodeChef Starters 32

@@ -1,0 +1,41 @@
+SIDDHARTH SAURAV
+Github | Leetcode | LinkedIn
+TECHNICAL SKILLS
+Frontend Frameworks & Languages: React.js, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, Angular
+Backend & APIs: Java, Spring Boot, Node.js, REST APIs, gRPC APIs, RESTful API design, JWT Authentication, Flask, Microservices
+Databases & Storage: MySQL (SQL), MongoDB (NoSQL), Redis (NoSQL), cloud storage, Database Management Systems (DBMS)
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, CI/CD pipelines, AWS, Git, VS Code, Postman
+Software Engineering: Object-Oriented Programming (OOP), DSA, Design Patterns, Code Refactoring, Testing, Debugging, Multithreading, Agile Scrum
+Testing & Code Quality: Unit Testing, Code Reviews, Pair Programming, Modular Architecture
+Languages: Java, JavaScript, TypeScript, C++, C, SQL, Python
+
+EXPERIENCE
+
+Software Development Engineer — Perfios Software Solutions Pvt. Ltd. | July 2023 – Present | New Delhi
+Designed and delivered scalable distributed systems and high-performance backend services using Java, Spring Boot, and REST APIs; took full ownership of complex features across the stack — applying object-oriented programming (OOP) principles, design patterns, data structures, and algorithms to engineer a Web SDK using MediaPipe for real-time liveness detection processing video frames with worker threads for parallel computation.
+Optimized core system performance by applying advanced SQL query optimization and memory management techniques within a Spring Boot microservices environment; wrote, debugged, refactored, and reused well-designed, testable, and maintainable production code — boosting API performance by 70% and slashing latency from 2100ms to 600ms.
+Engineered a sophisticated batch upload feature utilizing SQL bulk insert techniques for distributed cloud services; monitored system health and resolved service issues proactively — reducing MSME onboarding time by 91% through efficient algorithms, code refactoring, and software engineering best practices.
+Collaborated closely with cross-functional Engineering, Product, and Design teams to identify dependencies, coordinate feature delivery, and contribute to technical design documents with minimal oversight; broke down complex projects into smaller work items, provided estimates, and tracked execution using Agile Scrum methodology.
+Full Stack Developer Intern — Mentorify | Feb 2023 – Apr 2023 | Gorakhpur, UP
+Developed and maintained a full-stack multi-tier RBAC web portal using React.js, Next.js, TypeScript, and Spring Boot; took full ownership of complex features across the stack including statistical performance tracking and quiz functionality — applying object-oriented programming (OOP) principles and design patterns throughout.
+Engineered a highly secure, low-latency JWT-based authentication and authorization framework from the ground up; wrote well-designed, testable, accessible, and maintainable production code bolstering backend API security and user trust across distributed microservices architecture.
+Implemented responsive, mobile-first web design principles using React.js, Tailwind CSS, and Bootstrap; ensured high-quality user experience and interface design across all devices — participated in code reviews and pair programming sessions to maintain clean, reusable component architecture with Git version control.
+EDUCATION
+Indian Institute of Technology — IIT (BHU) | Varanasi, UP
+Bachelor of Technology; CGPA: 7.69 | August 2019 – June 2023
+
+Relevant Coursework: DSA, Object-Oriented Programming (OOP), Algorithms, DBMS, Multithreading, Computer NetworksPROJECTSMultithreaded Proxy Server with LRU Cache | Java, C++, Socket Programming, Multithreading, Docker, Kubernetes | June 2024 – July 2024
+Designed and delivered a high-performance distributed proxy server system handling 1000+ concurrent users; applied object-oriented programming (OOP), efficient algorithms, data structures, and design patterns to implement custom LRU caching — reducing API response times by up to 99% for cached requests.
+Wrote well-designed, thread-safe production code using advanced synchronization mechanisms, thread pools, and synchronized methods; monitored system performance and availability, proactively identifying and resolving service issues — ensuring high reliability, scalability, and maintainability across distributed infrastructure.
+Applied code refactoring, debugging, and software engineering best practices throughout; deployed using Docker and Kubernetes with CI/CD pipelines — demonstrating mastery of distributed systems architecture and observability.
+Redis Based Scalable Chat Application | React.js, Next.js, TypeScript, Socket.IO, Node.js, Redis, MongoDB, Docker, JWT | Apr 2022 – July 2022
+Developed and maintained a full-stack scalable chat application using React.js, Next.js, TypeScript, Node.js, and MongoDB; integrated Redis Pub/Sub mechanisms for high-volume one-on-one and group chats — taking full ownership of complex features across the stack applying OOP principles and design patterns throughout.
+Implemented real-time interaction features including typing indicators and notification alerts using Socket.IO; wrote well-designed, testable, accessible, and maintainable frontend and backend code — ensuring high-quality user experience and interface design with a polished, intuitive application.
+Deployed using Docker and Kubernetes with CI/CD pipelines; monitored system performance and availability, proactively resolving service issues — applying efficient algorithms, data structures, and microservices architecture for scalable, reliable, and maintainable cloud infrastructure.
+LEADERSHIP & EXTRACURRICULAR
+Delivered lectures on CSO101 (Introduction to Programming) as remedial classes to freshman students at IIT BHU.
+Successfully conducted 5+ workshops on Web Development as part of COPS team at IIT BHU; mentored junior developers through pair programming and code reviews.
+HONOURS & ACHIEVEMENTS
+LeetCode: Rating 1882 (Knight).
+CodeChef: Rating 1989 (4 Star).
+CodeChef Starters 32: Secured Global Rank 59 out of 5,000+ participants.

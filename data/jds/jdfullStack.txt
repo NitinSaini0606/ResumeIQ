@@ -1,0 +1,44 @@
+
+You will deliver innovative, AI-powered web applications and full-stack solutions that impact millions of users. This role involves building highly available, scalable systems, integrating front-end and back-end components, and leveraging AI/ML for intelligent experiences. We are looking for candidates who are creative, self-driven, collaborative, and comfortable working in a dynamic environment.
+
+Responsibilities:
+
+Collaborate with stakeholders to gather and define feature requirements.
+
+Design and implement full-stack solutions, including web front-end and back-end services.
+
+Break down complex work items into smaller tasks and provide accurate time estimates.
+
+Write clean, reusable, and well-tested code for production environments.
+
+Monitor system performance, availability, and reliability; proactively identify issues and resolve simple service problems.
+
+Stay up-to-date with modern development tools, frameworks, and best practices for scalability, observability, and security.
+
+Skills & Technologies:
+
+Programming Languages: C, C++, Java, JavaScript, TypeScript, Python, C#
+
+Front-End: ReactJS, Next.js, Tailwind CSS, Bootstrap
+
+Back-End: Node.js, Spring Boot, Flask, REST/gRPC APIs, SQL & NoSQL databases
+
+Cloud & DevOps: AWS, GCP, Docker, Kubernetes, CI/CD, Git
+
+AI/ML (optional but preferred): NLP, Transformers, AI-powered automation, ML pipelines
+
+Strong understanding of data structures, algorithms, design patterns, and Object-Oriented Programming (OOP)
+
+Knowledge of web security, authentication, and performance optimization
+
+Preferred Qualifications:
+
+Experience building highly available and scalable systems.
+
+Familiarity with web security standards and best practices.
+
+Experience integrating AI/ML solutions into applications.
+
+Ability to work in collaborative, cross-functional teams.
+
+Strong problem-solving skills and attention to detail.

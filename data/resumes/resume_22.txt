@@ -1,0 +1,54 @@
+Ripudaman Singh
+royal23@gmail.com| LinkedIn | GitHub
+
+PROFESSIONAL SUMMARY
+Java Backend Developer with strong expertise in Core Java, Spring Boot, 
+REST APIs, JDBC, Hibernate, and MySQL. Hands-on experience in building 
+scalable backend applications using Spring Data JPA, Spring Security, 
+DAO architecture, and MVC pattern. Strong problem-solving skills with 
+the ability to design efficient backend systems and write clean, modular, 
+and maintainable code.
+
+TECHNICAL SKILLS
+Languages: Java, SQL
+Backend: Spring Boot, REST APIs, JDBC
+Frameworks: Spring MVC, Hibernate, Spring Security
+Database: MySQL
+ORM: Spring Data JPA
+Tools: Git, GitHub, IntelliJ IDEA, Postman
+Concepts: OOP, DSA, DBMS
+
+PROJECTS
+Online Banking Management System — Spring Boot, Hibernate, MySQL
+- Built secure backend services for banking operations.
+- Developed REST APIs for fund transfer, account management, 
+  and transaction history.
+- Implemented Spring Security with role-based authentication.
+- Integrated Hibernate and Spring Data JPA with MySQL database.
+- Applied transaction management, exception handling, and MVC architecture.
+
+Smart Job Portal System — Spring Boot, REST APIs, MySQL
+- Built backend application for job posting and recruitment management.
+- Implemented JWT authentication and secure access control.
+- Developed APIs for job seekers, recruiters, and admin modules.
+- Integrated Spring Data JPA with MySQL database.
+- Added search and pagination features.
+- Performed API testing using Postman.
+
+Payroll Management System — Java, Swing, JDBC, MySQL
+- Developed desktop payroll system using Core Java and JDBC.
+- Implemented DAO pattern for modular architecture.
+- Integrated MySQL using PreparedStatement.
+- Designed UI using Java Swing components.
+- Enabled employee record management with CRUD features.
+- Applied validation and optimized SQL queries.
+
+EDUCATION
+Bachelor of Technology (B.Tech) — Computer Science Engineering
+Shri Ramswaroop Memorial University, Lucknow | 2022 – 2026 (Expected)
+Higher Secondary (12th) — Maharashtra State Board | 85% | 2021
+Secondary (10th) — Maharashtra State Board | 74% | 2019
+
+LEADERSHIP & ACTIVITIES
+- NCC Air Wing Cadet — Developed discipline and leadership skills.
+- Volleyball Coordinator — Managed university-level events.

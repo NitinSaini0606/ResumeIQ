@@ -1,0 +1,74 @@
+Ishaan Bose
+ishaanbose@email.com | github.com/ishaanbose
+Kolkata, India
+
+EDUCATION
+IIT Kharagpur
+B.Tech Computer Science | CGPA: 9.0 | 2020 – 2024
+Coursework: Machine Learning, Deep Learning,
+NLP, Statistics, Linear Algebra, DSA,
+Distributed Systems, Database Systems
+
+TECHNICAL SKILLS
+Languages: Python, Java, Scala, SQL, C
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs,
+       conversational AI, agentic systems
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, EMR, Dagster, Luigi,
+                  batch pipelines, streaming pipelines
+Databases: SQL, NoSQL, MongoDB, PostgreSQL,
+           vector databases, knowledge graphs
+Cloud: AWS, GCP, Docker, CI/CD
+Tools: Git, Jupyter, Pandas, NumPy, Matplotlib
+
+EXPERIENCE
+ML Research Intern — DeepMind India
+May 2023 – Aug 2023 | Bangalore
+- Designed and implemented ML models for
+  ranking recommendation and NLP applications
+  deploying to production and monitoring performance.
+- Built and maintained batch and real-time data
+  pipelines using Apache Spark and Airflow.
+- Fine-tuned pre-trained BERT and Transformer
+  models using PyTorch for production use.
+- Owned feature development and system health
+  ensuring reliability and scalability.
+- Mentored team members reviewed code and
+  improved engineering standards and processes.
+- Applied strong analytical mindset to measure
+  ML model performance in production environment.
+
+PROJECTS
+SemanticSearch — Vector Search Engine
+Python, PyTorch, BERT, vector databases,
+embeddings, RAG, ChromaDB, AWS
+- Built RAG retrieval augmented generation
+  system with vector databases and embeddings
+  for intelligent semantic search.
+- Fine-tuned LLM models for conversational AI
+  and agentic systems in production.
+- Deployed machine learning models to AWS
+  monitoring performance throughout.
+
+RecEngine — ML Recommendation System
+Python, TensorFlow, XGBoost, Apache Spark,
+Airflow, Hadoop, GCP
+- Designed and implemented recommendation
+  systems and ranking models for personalized
+  suggestions.
+- Built batch and real-time data pipelines
+  using Apache Spark Airflow and Hadoop.
+- Deployed and monitored ML models in
+  production applying analytical mindset.
+
+ACHIEVEMENTS
+- IIT Kharagpur Gold Medal in CS
+- Kaggle Master — top 1% globally
+- Published paper at NeurIPS workshop
+- Solved 1100+ DSA LeetCode problems

@@ -1,0 +1,47 @@
+ARJUN SHARMA
+arjun.sharma@email.com | LinkedIn | GitHub
+
+EDUCATION
+B.Tech in Computer Science
+Delhi Technological University
+2021 – 2025
+
+EXPERIENCE
+Software Development Intern – TechNova Solutions
+May 2024 – Aug 2024
+
+• Built responsive web applications using React, HTML, CSS, and JavaScript.
+• Developed REST APIs using Node.js and Express.
+• Integrated MongoDB database for user authentication and data storage.
+• Collaborated with design and product teams to improve UI components.
+• Used Git for version control and participated in code reviews.
+
+PROJECTS
+
+Task Manager Web App
+• Built a full-stack task management system using React, Node.js, Express, and MongoDB.
+• Implemented JWT authentication and REST APIs.
+
+Weather Dashboard
+• Developed a responsive weather dashboard using JavaScript and OpenWeather API.
+• Implemented dynamic UI updates and error handling.
+
+TECHNICAL SKILLS
+
+Languages:
+JavaScript, Python, C++
+
+Frontend:
+React, HTML, CSS, Bootstrap
+
+Backend:
+Node.js, Express
+
+Database:
+MongoDB, MySQL
+
+Tools:
+Git, GitHub, Postman
+
+Concepts:
+Data Structures, Object-Oriented Programming, REST APIs

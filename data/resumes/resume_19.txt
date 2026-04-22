@@ -1,0 +1,40 @@
+MEGHA DIXIT
+linkedin: megha-dixit | github: meghadixit
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Engineer with 5+ years of experience designing, developing, and maintaining large-scale distributed systems and high-performance backend services for enterprise applications. Expert at optimizing core system performance, ensuring reliability, and delivering robust software solutions — applying object-oriented programming (OOP), design patterns, data structures, algorithms, code refactoring, testing, and debugging across cross-functional Agile teams. Proven track record of achieving 100% backend automation, improving CI/CD pipeline efficiency by 20%, and reducing issue resolution time by 25% through scalable architecture and software engineering best practices for scalability, observability, and maintainability.
+
+TECHNICAL SKILLS
+
+Programming Languages: Java, Python, JavaScript, C, SQL
+Backend & Distributed Systems: Distributed Systems, Microservices, REST APIs, RESTful API design, REST Assured, Backend Automation Frameworks, Cloud Services, Performance Optimization
+Databases & Storage: MySQL (SQL), NoSQL, Cloud Storage, Database Management Systems (DBMS)
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, CI/CD Pipelines, Monitoring Tools, Git, GitLab, Grafana, Kafka
+Software Engineering: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Code Refactoring, Testing, Debugging, Agile Scrum, Functional Programming
+Testing & Code Quality: Unit Testing, Integration Testing, Regression Testing, System Integration Testing, API Testing, Functional Testing, Selenium WebDriver, TestNG, Maven, Cucumber BDD, REST Assured, Postman, JIRA, Confluence
+Tools: Eclipse, IntelliJ, Visual Studio
+
+
+EXPERIENCE
+Publicis Sapients — Senior Quality Engineer | Aug 2024 – Present | Noida, UP
+Goldman Sachs — Private Wealth Management (PWM) Asset Transfer
+
+Designed and delivered scalable distributed backend automation framework for web-based enterprise applications using Java and Selenium WebDriver; wrote, debugged, refactored, and reused well-designed, testable, and maintainable production code following the Cucumber BDD approach — decreasing manual testing time by 30% and improving software engineering best practices across cross-functional teams.
+Designed and implemented a backend automation framework from scratch achieving 100% automation using Cucumber BDD, REST Assured, and Java; applied object-oriented programming (OOP) principles, design patterns, data structures, and algorithms to optimize core system performance, efficiency, and maintainability.
+Orchestrated and streamlined CI/CD pipelines using Jenkins and Docker; monitored system health and resolved service issues proactively — enhancing deployment efficiency, increasing release frequency by 20%, and ensuring high reliability and observability across production environments.
+Integrated log monitoring with Grafana for telemetry and system health tracking; identified dependencies, coordinated with cross-functional engineering teams, and contributed to technical design documents with minimal oversight — applying Agile Scrum methodology and software engineering best practices for scalability and maintainability.
+
+InfoEdge — Senior SDET | July 2022 – Aug 2024 | Noida, UP
+AmbitionBox
+
+Developed and maintained a comprehensive distributed test automation suite using Selenium and Java; wrote, debugged, refactored, and reused well-designed, testable, and maintainable production code — reducing manual testing time by 40% and increasing regression testing efficiency by 30% across enterprise cloud applications.
+Designed and delivered scalable API testing systems using REST Assured; optimized core backend performance and reliability — achieving 25% improvement in API performance and ensuring high system availability and maintainability across production environments.
+Implemented CI/CD pipelines with Jenkins; monitored system health, provided telemetry, and resolved service issues proactively — improving software deployment frequency by 25% and reducing error rates by 15% through systematic code refactoring, testing, and debugging.
+Collaborated closely with cross-functional Engineering and Product teams in Agile Scrum environments; broke down complex projects into smaller work items, provided accurate estimates, and tracked execution with minimal oversight to ensure on-time delivery of robust software solutions.
+
+Qualitest — SDET | July 2020 – July 2022 | Noida, UP
+Tapestry Inc.
+
+Designed and implemented scalable automation scripts and distributed testing framework architectures using Selenium WebDriver and Java; applied object-oriented programming (OOP), design patterns, data structures, and algorithms to write well-designed, testable, and maintainable production code across enterprise backend systems.
+Monitored automation test results for system health issues and resolved service failures proactively; maintained timely builds and fixed scripts for environmental issues — ensuring high reliability, performance, and availability across distributed backend infrastructure.
+Worked as Individual Contributor taking full ownership of complex automation tasks; collaborated with cross-functional teams, contributed to technical documentation, and applied software engineering best practices for scalability, observability, and maintainability throughout the development lifecycle.

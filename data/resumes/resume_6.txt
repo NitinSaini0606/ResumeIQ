@@ -1,0 +1,54 @@
+PRINCE KANSAL
+| github.com/Prince6207
+
+EDUCATION
+National Institute of Technology, Kurukshetra
+Bachelor of Technology in Artificial Intelligence and Machine Learning; CGPA: 9.67/10 | 2024 – 2028
+Shiksha Bharti Vidya Niketan School, Kalayat
+Class XII (CBSE); 97.4% | Class X (CBSE); 98.4%
+
+TECHNICAL SKILLS
+
+Frontend Frameworks & Languages: React.js, JavaScript , TypeScript, HTML, CSS, Tailwind CSS
+Backend & APIs: REST APIs, RESTful API design, MERN Stack
+Databases & Storage: MongoDB, MySQL
+Developer Tools: Git, GitHub, VS Code
+Software Engineering Fundamentals: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Database Management Systems (DBMS), Operating Systems, Computer Networks
+Testing & Code Quality: Unit Testing, Code Reviews, Pair Programming, Modular Architecture
+AI & ML: Machine Learning, Scikit-Learn, TensorFlow, Python
+
+
+EXPERIENCE
+Web Developer — TECHSPARDHA, NIT Kurukshetra Tech Fest | TECHNOBYTE Society
+
+Developed and maintained the official NIT Kurukshetra Tech Fest website collaborating closely with a cross-functional team; took full ownership of complex frontend features across the stack applying object-oriented programming (OOP) principles, design patterns, and modern component architecture throughout.
+Built responsive, polished, and intuitive UI components using React.js, Next.js, TypeScript, and Tailwind CSS; ensured high-quality user experience and interface design, delivering accessible and maintainable frontend code across all device sizes.
+Wrote well-designed, testable, and maintainable code following software engineering best practices; participated in code reviews and pair programming sessions, managing version control and structured branching workflows using Git and GitHub.
+Monitored system performance and availability, proactively identifying and resolving interface issues; applied efficient algorithms, data structures, and design patterns to optimize frontend rendering and ensure seamless user experience.
+
+
+PROJECTS
+Techspardha Website — React.js, TypeScript, Tailwind CSS, Git
+
+Developed and maintained a fully responsive, production-grade tech fest platform using React.js, Next.js, and TypeScript; applied object-oriented programming (OOP) principles and design patterns to build a modular, scalable, and extensible component architecture.
+Took full ownership of complex UI features including dynamic event pages, registration flows, and responsive navigation; wrote well-designed, accessible, and maintainable frontend code ensuring a polished, intuitive user experience throughout.
+Participated in iterative code reviews and pair programming with the TECHNOBYTE team; monitored system performance and availability, applying efficient algorithms and data structures to optimize page load and rendering performance.
+
+AI/ML Exploration Projects — Python, Scikit-Learn, TensorFlow, Machine Learning
+
+Implemented machine learning models using Python, Scikit-Learn, and TensorFlow; applied efficient algorithms, data structures, and software engineering best practices to build testable, well-designed, and maintainable ML pipelines.
+Completed DeepLearning.AI Machine Learning certification; demonstrated strong problem-solving mindset and proactive approach to identifying high-impact opportunities in applied artificial intelligence and machine learning.
+
+
+ACHIEVEMENTS & CERTIFICATIONS
+
+Machine Learning Certification — DeepLearning.AI: Successfully completed online ML certification course.
+CGPA 9.67/10 at NIT Kurukshetra — consistently high academic performance.
+Class XII: 97.4% | Class X: 98.4% — Zonal top performer.
+
+
+POSITIONS OF RESPONSIBILITY
+Active Member — TECHNOBYTE, NIT Kurukshetra
+Contributing member of the technical and managerial society for the Computer Science department; collaborated across cross-functional teams to deliver high-quality web applications and enhance user experience.
+Social Service Volunteer — SHIKSHA, NIT Kurukshetra
+Providing free education and future guidance to underprivileged children through the college social service club.

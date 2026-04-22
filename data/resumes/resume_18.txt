@@ -1,0 +1,58 @@
+SOUBIK GHOSH
+LinkedIn | Github | Leetcode | Portfolio
+
+TECHNICAL SKILLS
+
+Frontend Frameworks & Languages: React.js, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, Redux, Redux-Thunk, GraphQL
+Backend & APIs: Node.js, Express.js, REST APIs, gRPC APIs, RESTful API design, JWT Authentication, Flask, Microservices, WebSocket, Mongoose
+Databases & Storage: MySQL (SQL), MariaDB (SQL), MongoDB (NoSQL), cloud storage, Database Management Systems (DBMS)
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, CI/CD pipelines, Git, JIRA, Babel, Webpack, Postman
+Languages: JavaScript, TypeScript, C++, C, Python, Java, Kotlin, SQL
+Software Engineering: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Code Refactoring, Testing, Debugging, Agile Scrum, Software Development Life Cycle (SDLC), System Design
+Testing & Code Quality: Unit Testing, Code Reviews, Pair Programming, Modular Architecture
+
+
+EXPERIENCE
+INTUIT — Software Engineer 2 | May 2023 – Present | Bangalore, India
+
+Developed and maintained QuickBooks Time to incorporate time-related features including time-tracking and time scheduling; took full ownership of complex features across the stack for the flagship product used by 10,000+ customers — applying object-oriented programming (OOP) principles, design patterns, data structures, and algorithms throughout.
+Wrote well-designed, testable, accessible, and maintainable production code following software engineering best practices; monitored system performance and availability, proactively identifying and resolving service issues to ensure high reliability and seamless user experience.
+Collaborated closely with cross-functional Product, Design, and Engineering teams to gather and define feature requirements; broke down complex work items into smaller tasks, provided accurate time estimates, and delivered polished, intuitive application features with attention to UX/UI details.
+Participated in code reviews, pair programming, and mentoring sessions; applied efficient algorithms, data structures, and design patterns to optimize frontend performance and maintain clean, reusable, well-tested code across Agile sprint cycles.
+
+Nokia Solutions and Network — Solution Engineer | July 2021 – May 2023 | Bangalore, India
+
+GUI Development: Developed and maintained a comprehensive frontend GUI from scratch using React.js, Redux, TypeScript, and Nokia Common Framework Libraries; took full ownership of complex features including routing, dashboard, user management, authentication, WebSocket, and download manager — delivering a 30% revenue increase across a diverse clientele of telecom customers.
+Wrote well-designed, testable, accessible, and maintainable frontend code; ensured high-quality user experience and interface design for 20+ telecom customers executing different types of test scenarios involving telecommunication nodes — applying object-oriented programming (OOP) principles and design patterns throughout.
+Internal Product Development: Developed and maintained a full-stack internal web application using React.js, Redux, Next.js, and TypeScript; took full ownership of complex features across the stack — delivering a platform for 1000+ Nokia CNS employees to ask questions, resolve internal technical queries, and improve internal efficiency by 40%.
+New Service Creation & System Integration: Designed and delivered end-to-end architecture for a distributed service integrating a call scenario generator with a client-side automation framework; wrote, debugged, refactored, and reused well-designed production code using Python, MySQL, Linux, and REST APIs — enabling execution of 80% basic call scenarios using soft clients with 30+ keywords.
+Collaborated closely with cross-functional engineering and product teams across multiple geographies; contributed to technical design documents, identified dependencies, and coordinated feature delivery with minimal oversight — applying Agile Scrum methodology and software engineering best practices for scalability, observability, and maintainability.
+
+
+EDUCATION
+National Institute of Technology Agartala | 2017 – 2021
+Bachelor of Technology in Electronics and Communication Engineering; CGPA: 9.61 (Institute Topper)
+Relevant Coursework: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, Database Management Systems (DBMS), System Design, Computer Networks
+
+PROJECTS
+Chit Chat — Real-time Messaging Application | React.js, Next.js, TypeScript, Node.js, MongoDB, Express.js, Socket.IO, Docker, JWT
+
+Developed and maintained a full-stack real-time messaging application using React.js, Next.js, TypeScript, Node.js, and MongoDB; took full ownership of complex features across the stack — including individual and group chat (100 users), admin functions, user authentication via JWT, and real-time typing indicators using Socket.IO.
+Wrote well-designed, testable, accessible, and maintainable production code; applied object-oriented programming (OOP) principles, design patterns, and efficient algorithms — monitoring system performance and availability, proactively resolving service issues to ensure high reliability and seamless user experience.
+Deployed using Docker and CI/CD pipelines; participated in iterative code reviews to maintain clean, reusable component architecture with Git version control — applying software engineering best practices for scalability, observability, and maintainability.
+
+Shoppe — Online E-Commerce Website | React.js, Next.js, TypeScript, Redux, JavaScript, Tailwind CSS, Node.js, REST APIs
+
+Developed and maintained a full-stack e-commerce platform using React.js, Next.js, TypeScript, and Redux; implemented global state management, cart management, and Dark/Light mode — applying object-oriented programming (OOP) principles, design patterns, and efficient algorithms throughout.
+Wrote well-designed, testable, accessible, and maintainable frontend code; ensured high-quality user experience and interface design delivering a polished, intuitive application with attention to UX/UI details across all device sizes.
+
+Weather App | JavaScript, TypeScript, HTML, CSS, REST APIs
+
+Developed and maintained a responsive weather application using JavaScript, TypeScript, HTML, and CSS; integrated REST APIs to fetch real-time user location data and display weather results with 85% accuracy across 200,000+ cities worldwide.
+Wrote well-designed, testable, and maintainable modular code; applied efficient algorithms and data structures to ensure smooth cross-device performance and a seamless, polished user experience.
+
+
+ACHIEVEMENTS
+
+Gold Medalist (Institute Topper — B.Tech) of NIT Agartala.
+Among top 50 meritorious students in India invited by the Ministry of Education for Republic Day Parade 2021; felicitated with a certificate in a separate certification ceremony.

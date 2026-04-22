@@ -1,0 +1,114 @@
+Rahul Anand
+rahulanand@email.com | github.com/rahulanand | LinkedIn
+Bangalore, India
+
+EDUCATION
+IIT Bombay
+B.Tech Computer Science | CGPA: 8.8 | 2020 – 2024
+Coursework: Machine Learning, Deep Learning, NLP,
+Operating Systems, Distributed Systems,
+Data Structures and Algorithms,
+Database Management Systems, Software Engineering
+
+TECHNICAL SKILLS
+Languages: Java, Python, C, C++, JavaScript, SQL
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs
+Data Engineering: Apache Spark, Airflow, Hadoop,
+                  MapReduce, batch pipelines,
+                  streaming pipelines
+Frameworks: Spring Boot, Node.js, Express,
+            REST APIs, Flask
+Databases: SQL, NoSQL, MySQL, MongoDB,
+           PostgreSQL, DBMS, Cloud Storage,
+           vector databases
+DevOps: Docker, Kubernetes, Jenkins,
+        CI/CD, Git, Monitoring Tools
+Cloud: AWS, GCP
+Core CS: Data Structures, OOP, Algorithms,
+         Design Patterns, Code Refactoring,
+         Testing, Debugging, System Design,
+         Scalability, Multithreading
+Practices: Agile, cross-functional teamwork,
+           technical documentation,
+           project planning, observability,
+           performance monitoring,
+           maintainability
+
+PROJECTS
+RankML — ML Ranking and Recommendation System
+Python, PyTorch, Transformers, Apache Spark, AWS
+- Designed and implemented ML models for ranking
+  recommendation and search applications using
+  PyTorch and Transformers.
+- Built and maintained batch and real-time data
+  pipelines using Apache Spark Airflow and Hadoop
+  for large scale data processing.
+- Fine-tuned pre-trained BERT and LLM models
+  using PyTorch for domain specific production use.
+- Deployed machine learning models to AWS with
+  Docker and CI/CD pipelines monitoring
+  performance in production environment.
+- Owned feature development and system health
+  ensuring reliability and scalability throughout.
+- Mentored team members reviewed code and improved
+  engineering standards and processes.
+
+DistributeX — Large Scale Distributed Backend System
+Java, C++, Spring Boot, Docker, Kubernetes, AWS
+- Designed and delivered scalable distributed
+  systems for cloud services and enterprise
+  applications with minimal oversight.
+- Wrote debugged refactored and reused code to
+  improve reliability ROI and software quality
+  across entire production system.
+- Monitored system health provided telemetry
+  and resolved service issues proactively.
+- Identified dependencies coordinated with
+  cross-functional teams and contributed to
+  design documents with minimal oversight.
+- Deployed to AWS with Docker and Kubernetes
+  ensuring scalability observability and
+  maintainability throughout.
+- Optimized core system performance efficiency
+  and maintainability achieving 65% latency
+  reduction through query optimization.
+- Stayed current with software engineering
+  best practices tools and technologies.
+
+GenSearch — RAG Knowledge Retrieval System
+Python, LLMs, RAG, vector databases, GCP
+- Built RAG and retrieval augmented generation
+  pipeline with vector databases and embeddings
+  for intelligent knowledge retrieval system.
+- Implemented conversational AI interface with
+  LLM fine-tuning and knowledge graphs.
+- Deployed to GCP with Docker and CI/CD pipelines
+  monitoring model performance in production.
+- Applied strong analytical mindset to measure
+  ML model performance ensuring reliability
+  and scalability throughout.
+
+FullStack Dashboard — Analytics Web Application
+React, Node.js, Express, MongoDB, Docker, AWS
+- Designed and implemented full-stack analytics
+  dashboard using React frontend and Node.js
+  backend with MongoDB and REST APIs.
+- Wrote clean reusable well-tested code for
+  production environment following scalability
+  and observability best practices.
+- Deployed to AWS with Docker and CI/CD pipelines
+  ensuring high availability throughout.
+- Monitored system performance and availability
+  proactively resolving service issues.
+
+ACHIEVEMENTS
+- Solved 1000+ DSA problems on LeetCode
+- Kaggle competitions top 10%
+- 8.8 CGPA IIT Bombay Computer Science
+- Smart India Hackathon finalist

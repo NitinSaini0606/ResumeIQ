@@ -1,0 +1,36 @@
+Arjun Mehta
+arjunmehta@email.com | github.com/arjunmehta
+Mumbai, India
+
+EDUCATION
+VIT Vellore
+B.Tech Computer Science | CGPA: 7.8 | 2020 – 2024
+
+EXPERIENCE
+Full Stack Intern — StartupXYZ
+Jun 2023 – Dec 2023 | Remote (6 months)
+- Built backend REST APIs using Node.js
+  and Express serving 500+ users.
+- Worked on some React components for
+  dashboard pages.
+- Used MongoDB for database operations.
+- Deployed application on AWS EC2.
+
+SKILLS
+Languages: JavaScript, Python, HTML, CSS
+Backend: Node.js, Express.js, REST APIs,
+         MongoDB, SQL
+Tools: Git, Postman, VS Code, Docker
+Core CS: Data Structures, OOP
+
+PROJECTS
+Food Delivery App
+Node.js, Express, MongoDB, React
+- Built backend APIs for food ordering system.
+- Created basic React frontend with routing.
+- Implemented JWT authentication.
+
+Chat Application
+Python, Flask, Socket.IO
+- Built real-time chat using WebSockets.
+- Used Redis for session management.

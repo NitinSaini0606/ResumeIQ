@@ -1,0 +1,85 @@
+Sheikh Waseem
+Raipur, Chhattisgarh
+sheikhwaseem@gmail.com | +91-91714171
+LinkedIn | GitHub | Portfolio
+
+EDUCATION
+Shri Shankaracharya Institute of Professional Management and Technology
+B.Tech Computer Science and Engineering | CGPA: 7.5 | 2021 – 2025
+Raipur, Chhattisgarh
+
+Glorious Higher Secondary School
+12th CGPA: 9.3 | 2020 – 2021 | Raipur, Chhattisgarh
+
+EXPERIENCE
+Dutta Integrated Services — Software Developer Intern
+Aug 2025 – Present | Raipur, Chhattisgarh
+- Designed and implemented full-stack web solution for experimental
+  equipment organization using MERN stack ensuring secure role-based
+  data access and automated business workflows.
+- Wrote clean, reusable and well-tested code for production
+  environment following scalability and observability best practices.
+- Built month-wise order tracking and analytics system using MERN
+  stack identifying inactive customers through behavioral patterns.
+- Monitored system performance availability and reliability
+  proactively identifying issues and resolving service problems.
+- Collaborated with cross-functional teams aligning technical
+  implementation with business requirements.
+- Implemented web security standards including authentication
+  and role-based access control for secure data management.
+- Stayed up-to-date with modern development tools frameworks
+  and software engineering best practices.
+
+PROJECTS
+AlgoForge AI — AI-Powered DSA Revision and Optimization Platform
+MERN Stack, Google Gemini | Live | GitHub
+- Designed and implemented full-stack AI-powered DSA revision
+  platform using MERN Stack and Google Gemini API.
+- Wrote clean reusable well-tested code throughout frontend
+  and backend development.
+- Implemented AI-driven code review, automated error detection,
+  time and space complexity analysis and solution optimization.
+- Broke down complex work items into smaller tasks providing
+  accurate estimates and tracking execution throughout.
+- Delivered polished intuitive user experience with full
+  ownership of features across the entire stack.
+- Monitored system performance and availability proactively
+  resolving service issues during development.
+
+Skillscan AI — Intelligent Resume Analyzer
+React.js, Express.js, Node.js, MongoDB, Google Gemini | Live | GitHub
+- Designed and implemented full-stack AI-powered resume analysis
+  platform delivering clear insights on skill gaps and role alignment.
+- Designed secure Google OAuth and email-based authentication
+  with per-user request limits implementing web security
+  and authentication best practices.
+- Built scalable Node.js REST APIs ensuring controlled usage
+  data protection and reliable system performance.
+- Applied OOP design principles and algorithms throughout
+  backend development for maintainable code architecture.
+
+LinkZipp — URL Shortener Web Application
+React.js, Express.js, Node.js, MongoDB | Live | GitHub
+- Designed and implemented MERN-based URL shortener with
+  clean reusable well-tested code for production environment.
+- Handled backend logic to save fetch and redirect URLs
+  using Node.js Express and MongoDB ensuring smooth
+  reliable functionality.
+- Implemented scalability and observability best practices
+  throughout development.
+
+TECHNICAL SKILLS
+Languages: C, C++, Python, JavaScript, SQL
+Frontend: React.js, HTML5, CSS3, TailwindCSS, JavaScript
+Backend: Node.js, Express.js, REST APIs
+Databases: MongoDB, MySQL
+Tools: Git, GitHub, VS Code, Docker
+Core CS: DSA, OOP, DBMS, System Design, Algorithms
+Practices: Code reviews, debugging, unit testing,
+           CI/CD, web security, authentication,
+           Agile, design patterns
+
+CERTIFICATIONS AND ACHIEVEMENTS
+- Qualified Smart India Hackathon 2024 college level
+- AIR 343 GeeksforGeeks Weekly Coding Contest
+- Web Development Certification — Udemy

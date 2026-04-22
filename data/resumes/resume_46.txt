@@ -1,0 +1,90 @@
+Karan Mehta
+karanmehta@email.com | github.com/karanmehta
+Bangalore, India
+
+EDUCATION
+IIIT Bangalore
+M.Tech Computer Science | CGPA: 8.7 | 2021 – 2023
+B.Tech Computer Science | CGPA: 8.5 | 2017 – 2021
+Coursework: Machine Learning, Distributed Systems,
+Operating Systems, DSA, Database Systems,
+Software Engineering, Computer Networks
+
+EXPERIENCE
+Senior ML Engineer — TechCorp Bangalore
+Sep 2023 – Present | Bangalore
+- Designed and delivered scalable distributed
+  systems for cloud ML services processing
+  millions of requests with minimal oversight.
+- Designed and implemented ML models for
+  ranking recommendation search and NLP.
+- Built and maintained batch and real-time
+  data pipelines using Apache Spark Airflow
+  Hadoop and MapReduce at production scale.
+- Wrote debugged refactored and reused code
+  improving reliability ROI and software quality.
+- Monitored system health provided telemetry
+  and resolved service issues proactively.
+- Mentored team members reviewed code and
+  improved engineering standards and processes.
+- Identified dependencies coordinated with
+  cross-functional teams contributed to design
+  documents with minimal oversight.
+- Stayed current with best practices for
+  scalability observability and maintainability.
+
+TECHNICAL SKILLS
+Languages: Python, Java, C, C++, Scala, Go, SQL
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, retrieval augmented
+       generation, recommendation systems,
+       ranking models, embeddings,
+       vector databases, knowledge graphs,
+       conversational AI, agentic systems
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, EMR, Luigi, Dagster,
+                  batch and streaming pipelines
+Databases: SQL, NoSQL, MongoDB, PostgreSQL,
+           Cloud Storage, DBMS,
+           vector databases, knowledge graphs
+DevOps: Docker, Kubernetes, Jenkins, CI/CD,
+        AWS, GCP, Monitoring Tools
+Core CS: DSA, OOP, Algorithms, Design Patterns,
+         Code Refactoring, Testing, Debugging,
+         Distributed Systems, System Design,
+         Scalability, Observability, Maintainability,
+         Technical Documentation, Project Planning
+
+PROJECTS
+ScaleML — Production ML Infrastructure
+Python, PyTorch, Spark, Hadoop, Kubernetes,
+Docker, AWS, Airflow, Monitoring Tools
+- Designed and delivered scalable distributed
+  ML infrastructure serving millions of users.
+- Designed and implemented ML models for
+  ranking recommendation and NLP at scale.
+- Built and maintained batch and real-time
+  data pipelines using Spark Airflow and Hadoop.
+- Monitored system health provided telemetry
+  resolved service issues proactively minimal oversight.
+- Wrote debugged refactored and reused code
+  improving reliability scalability observability.
+- Mentored team reviewed code improved standards.
+
+LLMPlatform — Enterprise LLM System
+Python, LLMs, RAG, vector databases,
+LangChain, knowledge graphs, GCP
+- Built RAG retrieval augmented generation
+  platform for enterprise knowledge retrieval.
+- Fine-tuned LLM models for conversational AI
+  agentic systems in production at scale.
+- Deployed and monitored ML models in production
+  ensuring reliability and scalability throughout.
+
+ACHIEVEMENTS
+- 3 years ML engineering experience
+- Solved 1200+ DSA problems LeetCode
+- 8.7 CGPA IIIT Bangalore Computer Science
+- Published 2 ML papers at top conferences

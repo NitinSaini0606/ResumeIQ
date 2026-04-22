@@ -1,0 +1,79 @@
+RITU GUPTA
+| Github | Leetcode | LinkedIn | Portfolio
+
+EDUCATION
+
+Bachelor of Technology in Information Technology; CGPA: 9.19/10 | 2022 – 2026 (Expected)
+Rajkiya Pratibha Vikas Vidyalaya, Delhi — CBSE 12th;  | 2021 – 2022
+
+TECHNICAL SKILLS
+
+Languages: Java, Python, JavaScript, HTML, CSS , C, C++,
+Data Structures & Algorithms (DSA): Implemented in Java; strong understanding of algorithms, data structures, object-oriented programming (OOP), and design patterns
+Frontend Frameworks: React.js, Next.js, Tailwind CSS, Bootstrap
+Backend Frameworks & APIs: Node.js, Express.js, Flask, REST APIs, gRPC, RESTful API design,design patterns,Docker,Cloud Storage
+Databases & Storage: MySQL (SQL), MongoDB (NoSQL), DynamoDB (NoSQL), cloud storage
+Cloud & DevOps: AWS (SQS, CloudFormation, Route 53, CloudWatch), AWS CDK, Docker, Kubernetes, CI/CD pipelines, distributed systems, microservices, Linux Shell
+Testing & Code Quality: JUnit, TestNG, integration testing, regression testing, unit testing, code reviews, Git, GitHub
+CS Fundamentals: Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks
+
+
+EXPERIENCE
+AMAZON — Software Development Engineer Intern | July 2025 – Dec 2025
+
+Designed and delivered a distributed systems migration from DUB to ZAZ AWS region by replicating full cloud infrastructure using AWS CDK; took full ownership of complex backend features across the stack including SQS provisioning, DNS routing, and CloudFormation configuration.
+Developed and maintained integration tests and regression suites using JUnit and TestNG to validate end-to-end workflows and ensure high reliability, system performance, and availability before production release.
+Implemented a full Continuous Deployment (CD) pipeline enabling automated builds, unit testing, and deployment; wrote well-designed, testable, and maintainable code adhering to software engineering best practices throughout.
+Tech Stack: Java, JUnit, TestNG, Git, Linux Shell, AWS CDK, AWS (SQS, CloudFormation, Route 53, DNS Routing), distributed systems, microservices, integration testing, regression testing.
+
+MyCTO Innovations Pvt. Ltd. — Web Developer Intern | June 2024 – July 2024
+
+Developed and maintained backend RESTful APIs to automate content updates, reducing manual effort by 50%; applied object-oriented programming principles, efficient algorithms, and design patterns for scalable, high-quality backend operations.
+Built an interactive analytics dashboard and responsive UI components using React.js and Tailwind CSS; ensured high-quality user experience and interface design, boosting client acquisition by 40%.
+Tech Stack: React.js, Tailwind CSS, MongoDB, Next.js, Node.js, Express.js, Git, Chart.js.
+
+
+PROJECTS
+XportConnect — React.js, Node.js, Express.js, MongoDB, JWT, REST APIs, Tailwind CSS
+
+Built a full-stack international export management platform using MVC architecture with JWT-based multi-role authentication; applied object-oriented programming (OOP) principles and design patterns across 3 user flows.
+Developed 15+ secure RESTful APIs for order management, shipment tracking, and product handling; wrote well-designed, testable, and maintainable code with Git version control throughout.
+Integrated real-time shipping updates and an AI-powered chatbot for automated support, ensuring high system availability and seamless user experience.
+
+BudgetBot — React.js, Node.js, Express.js, MongoDB, REST APIs, Tailwind CSS, Twilio API
+
+Built an AI-powered expense tracker with WhatsApp and web-based dual logging; designed a dual parsing system using Groq API with Naive Bayes fallback, achieving 99.9% uptime and strong system reliability.
+Applied efficient algorithms, data structures, and design patterns to ensure scalable backend operations and high-quality, maintainable code.
+
+Stratify — React.js, Tailwind CSS, Flask, Python, NLTK, Mistral AI API, Git
+
+Led frontend development in a cross-functional team of 4 for a project management platform; integrated a resume parser using NLTK achieving 95% accuracy in automated skill extraction, reducing planning time by 40%.
+Applied natural language processing (NLP), machine learning algorithms, and data structures to build an intelligent, scalable task allocation and skill-based teaming system.
+
+
+ACHIEVEMENTS
+
+LeetCode Weekly Contest 453: Global Rank 1239 out of 26,000+ participants.
+Smart India Hackathon 2024: Finalist — Top 0.2% of 300,000+ participants.
+BuildWithIndia Hackathon 2025: 2nd Position out of 25,000+ participants.
+BNY Code Divas Challenge 2025: Top 1.3%.
+Designathon (Techspardha, NIT Kurukshetra): Runner-Up.
+Hack4Delhi (HN & IEEE NSUT): Mentor at national-level hackathon.
+
+
+POSITIONS OF RESPONSIBILITY
+
+Webmaster, IEEE BVCOE (July 2024 – May 2025): Led a team of 100+ members, organized 10+ events, and revamped the official IEEE BVCOE website.
+Head of Department — Technical & Discord, WIEHACK 5.0: Managed Discord and backend website operations for 1,800+ participants across 31+ countries.
+Beta MLSA, Microsoft Learn Student Ambassadors (Aug 2023 – Sept 2025): Delivered 4 workshops and co-hosted 3 global challenges engaging 400+ participants.
+
+
+Key changes made for matcher coverage:
+
+"Data Structures & Algorithms (DSA)" and "object-oriented programming (OOP)" now explicitly spelled out in skills AND repeated in experience bullets
+"NoSQL" explicitly labeled next to MongoDB and DynamoDB
+"SQL" explicitly labeled next to MySQL
+"distributed systems" and "microservices" added to tech stack and bullets
+"unit testing", "integration testing", "regression testing" all spelled out separately
+"REST APIs" and "RESTful API design" both included
+"NLP", "machine learning", "algorithms", "design patterns" woven into project bullets

@@ -1,0 +1,45 @@
+PRIYA NAIR
+linkedin.com/in/priyanair
+
+EDUCATION
+National Institute of Technology, Trichy
+B.Tech in Electronics and Communication Engineering; CGPA: 9.1/10 | 2020 – 2024
+Relevant Coursework: Machine Learning, Deep Learning, NLP, Signal Processing, Data Structures & Algorithms (DSA), DBMS, Statistics
+
+TECHNICAL SKILLS
+
+Programming Languages: Python, C, C++, SQL, R
+ML Frameworks: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Pandas, NumPy, Seaborn, Matplotlib
+AI/ML Techniques: NLP, Transformers, Generative AI, LLM fine-tuning, RAG (Retrieval-Augmented Generation), recommendation systems, ranking models, embeddings, vector search, deep learning, computer vision
+Data Engineering: Apache Spark, Hadoop, Airflow, batch pipelines, real-time streaming pipelines, ETL pipelines, data preprocessing, feature engineering
+Databases & Storage: MySQL (SQL), PostgreSQL (SQL), MongoDB (NoSQL), vector databases, cloud storage
+Cloud & DevOps: AWS, GCP, Docker, CI/CD pipelines, Git, GitHub
+Software Engineering: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Testing, Debugging, Agile
+
+
+EXPERIENCE
+Data Scientist Intern — Flipkart | Jun 2023 – Aug 2023
+
+Designed and implemented ML/AI models for product ranking and recommendation systems using PyTorch and XGBoost; built and maintained real-time data pipelines using Apache Spark — taking full ownership of feature development and system health, ensuring reliability and scalability across production environments.
+Fine-tuned pre-trained Transformer and BERT models for NLP-based product search and classification; deployed machine learning models to AWS and monitored performance with a strong analytical mindset — improving recommendation relevance by 34% through efficient algorithms and feature engineering.
+Built batch and streaming ETL pipelines using Airflow and Hadoop; wrote clean, reusable, and well-tested production code — participated in code reviews and pair programming sessions, improving engineering standards across cross-functional Agile teams.
+
+
+PROJECTS
+SentimentScope — NLP Analysis Platform | Python, PyTorch, Transformers, BERT, FastAPI, MongoDB, Docker, AWS
+
+Designed and implemented NLP models for sentiment analysis and ranking applications using PyTorch and Transformers; fine-tuned pre-trained BERT and LLM models for production use — built and maintained batch data pipelines using Airflow and Apache Spark, achieving 93% classification accuracy.
+Deployed machine learning models to AWS with Docker and CI/CD pipelines; monitored system performance and availability, proactively resolving service issues — applied efficient algorithms, data structures, and software engineering best practices throughout.
+
+RecoSys — Generative AI Recommendation System | Python, LLMs, RAG, Vector Databases, Scikit-learn, XGBoost, GCP
+
+Designed and implemented a generative AI recommendation system using LLM fine-tuning, RAG architecture, embeddings, and vector search; built real-time streaming pipelines for batch and real-time processing — delivering intelligent, personalized recommendations with measurable business impact.
+Applied NLP, Transformers, knowledge graphs, and conversational AI techniques; wrote clean, well-tested, and maintainable code — deployed to GCP with CI/CD pipelines, monitoring system health and resolving service issues proactively.
+
+
+ACHIEVEMENTS
+
+Solved 350+ DSA problems on LeetCode and CodeForces.
+Selected for Google Women Techmakers Scholar Program 2023.
+Top 3 — Smart India Hackathon 2023 (ML track).
+Machine Learning Specialization — Coursera (Andrew Ng).

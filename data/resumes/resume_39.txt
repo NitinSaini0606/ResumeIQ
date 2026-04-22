@@ -1,0 +1,124 @@
+Krish Saini
++91 6378616196 | LinkedIn | GitHub
+
+SUMMARY
+B.Tech CSE student at BIT Mesra (CGPA 8.95)
+with strong software engineering and algorithmic
+skills. Competitive programmer with Codeforces
+Specialist rank and 500+ day LeetCode streak
+experienced in solving problems under contest
+constraints. Skilled in C/C++ JavaScript and
+full-stack development using Node.js Express.js
+React.js TypeScript and MongoDB.
+
+EDUCATION
+BIT Mesra
+B.Tech Computer Science and Engineering
+CGPA: 8.95 | 2023 – 2027
+
+Class 12th RBSE — 80% | 2023
+Class 10th RBSE — 97% | 2021
+
+CODING PLATFORMS
+Codeforces Specialist max rating 1458
+LeetCode Guardian max rating 2152 top 1.28%
+GeeksforGeeks top 40 on campus 500+ day streak
+CodeChef 3 star max rating 1746
+
+EXPERIENCE
+Backend Development Intern — Earny.in
+May 2025 – Jul 2025
+- Designed and implemented full-stack solutions
+  including backend REST APIs and React.js
+  frontend integration taking full ownership
+  of complex features across the stack.
+- Built and optimized RESTful APIs using Node.js
+  Express.js and MongoDB improving request
+  handling speed by 35% and supporting 500+
+  active users.
+- Wrote clean reusable well-tested code for
+  production environment following scalability
+  observability and security best practices
+  throughout.
+- Implemented secure JWT-based authentication
+  and role-based access control ensuring
+  reliable data protection and web security
+  across all services.
+- Integrated backend services with React.js
+  clients reducing data consistency issues
+  and improving response efficiency.
+- Deployed and maintained services on Render
+  through automated CI/CD pipelines achieving
+  99.9% uptime and reducing deployment
+  overhead by 80%.
+- Monitored system performance availability
+  and reliability proactively identifying
+  and resolving service issues throughout.
+- Collaborated with cross-functional teams
+  to deliver features staying up-to-date with
+  modern development tools and best practices.
+- Broke down complex work items into smaller
+  tasks providing accurate estimates and
+  tracking execution throughout.
+
+PROJECTS
+Dijkstra Visualizer | Jul 2024
+React.js, TypeScript, Vercel | GitHub | Live
+- Designed and implemented full-stack React
+  application for interactive visualization
+  of Dijkstra's shortest-path algorithm with
+  weighted graphs taking full ownership of
+  features across frontend and backend.
+- Built with TypeScript and modern frontend
+  tools applying OOP design patterns and
+  algorithms throughout development.
+- Animated edge relaxations and path updates
+  step by step making algorithm intuitive
+  for 150+ users delivering polished intuitive
+  user experience.
+- Feedback showed 40% increase in clarity of
+  shortest-path concepts demonstrating
+  real user impact.
+- Deployed on Vercel with render optimizations
+  achieving less than 1.5s response time
+  cross-device responsiveness and fully
+  secure site — monitored performance
+  proactively throughout.
+- Wrote well-designed testable accessible
+  and maintainable code throughout frontend
+  development.
+- Participated in code reviews and pair
+  programming to ensure code quality and
+  reliability.
+
+TECHNICAL SKILLS
+Languages: C, C++, JavaScript, TypeScript,
+           HTML, CSS, Python, SQL
+Frontend: React.js, Next.js, Tailwind CSS,
+          Bootstrap
+Backend: Node.js, Express.js, REST APIs,
+         JWT Authentication, RBAC
+Databases: MongoDB, MySQL, SQL, NoSQL, DBMS
+DevOps: Docker, CI/CD, Git, GitHub,
+        Kubernetes, AWS, GCP
+Core CS: Data Structures and Algorithms,
+         OOP, Operating Systems, DBMS,
+         Design Patterns, Code Refactoring,
+         Testing, Debugging, Unit Testing,
+         Code Reviews, Web Security,
+         Authentication, System Design
+Practices: Agile, Scalability,
+           Observability, Performance
+           Optimization, Technical
+           Documentation
+
+ACHIEVEMENTS
+- ICPC Asia West Regionalist 2025
+- 2nd place CodeZilla Hackathon
+  Pantheon TechFest 25 BIT Mesra
+- 160-Day Coding Streak Certificate
+  GeeksforGeeks
+- 50-Day Hard Challenge LinkedIn
+  DSA and web development
+- Multi-month streaks monthly badges
+  LeetCode and GFG

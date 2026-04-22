@@ -1,0 +1,90 @@
+Aryan Mishra
+aryanmishra@email.com | github.com/aryanmishra
+Pune, India
+
+EDUCATION
+IIT Kanpur
+B.Tech Computer Science | CGPA: 8.9 | 2019 – 2023
+Coursework: Machine Learning, Distributed Systems,
+Operating Systems, DSA, Database Systems,
+Computer Networks, Software Engineering
+
+EXPERIENCE
+ML Engineer — DataSystems Pvt Ltd
+Jul 2023 – Present | Pune
+- Designed and delivered scalable distributed
+  systems for cloud services processing ML
+  workloads with minimal oversight ensuring
+  reliability and maintainability throughout.
+- Built and maintained batch and real-time data
+  pipelines using Apache Spark Airflow and Hadoop
+  for large scale ML model training.
+- Wrote debugged refactored and reused code to
+  improve reliability ROI and software quality
+  across all production systems.
+- Monitored system health provided telemetry
+  and resolved service issues proactively.
+- Deployed machine learning models to production
+  on AWS monitoring performance throughout.
+- Identified dependencies coordinated with
+  cross-functional teams and contributed to
+  design documents with minimal oversight.
+- Stayed current with software engineering
+  best practices for scalability observability
+  and maintainability.
+
+TECHNICAL SKILLS
+Languages: Python, Java, C, C++, Scala, SQL
+ML Frameworks: PyTorch, TensorFlow, Keras,
+               Scikit-learn, XGBoost
+AI/ML: NLP, Transformers, BERT, LLM fine-tuning,
+       Generative AI, RAG, recommendation systems,
+       ranking models, embeddings, vector databases,
+       knowledge graphs, retrieval augmented
+       generation, conversational AI
+Data Engineering: Apache Spark, Hadoop, Airflow,
+                  MapReduce, EMR, batch pipelines,
+                  streaming pipelines, Dagster
+Databases: SQL, NoSQL, MongoDB, PostgreSQL,
+           Cloud Storage, DBMS, vector databases
+DevOps: Docker, Kubernetes, Jenkins, CI/CD,
+        AWS, GCP, Monitoring Tools
+Core CS: DSA, OOP, Design Patterns, Algorithms,
+         Code Refactoring, Testing, Debugging,
+         Distributed Systems, System Design,
+         Scalability, Observability
+
+PROJECTS
+MLDistrib — Distributed ML Training System
+Python, PyTorch, Apache Spark, Hadoop,
+Docker, Kubernetes, AWS
+- Designed and delivered scalable distributed
+  system for large scale ML model training
+  handling batch and real-time data pipelines.
+- Designed and implemented ML models for
+  ranking recommendation and search applications.
+- Fine-tuned pre-trained BERT and LLM models
+  using PyTorch for domain specific production use.
+- Deployed machine learning models to AWS with
+  Docker and Kubernetes monitoring performance.
+- Wrote debugged refactored and reused code
+  ensuring scalability observability maintainability.
+- Monitored system health provided telemetry
+  and resolved service issues proactively.
+
+RAGEngine — Production RAG System
+Python, LLMs, RAG, vector databases,
+knowledge graphs, GCP, Airflow
+- Built RAG retrieval augmented generation
+  pipeline with vector databases and embeddings.
+- Fine-tuned LLM models for conversational AI
+  and agentic systems in production environment.
+- Built and maintained batch and streaming
+  data pipelines using Airflow and Spark.
+- Monitored model performance in production
+  applying strong analytical mindset throughout.
+
+ACHIEVEMENTS
+- Published ML paper at ICML workshop
+- Solved 1000+ DSA problems LeetCode
+- 8.9 CGPA IIT Kanpur Computer Science

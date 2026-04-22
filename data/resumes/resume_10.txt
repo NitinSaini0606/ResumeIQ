@@ -1,0 +1,55 @@
+CARLA JENSEN
+Machine Learning Engineer
+| Email | github.io/| Ferney, SD
+
+SUMMARY
+Senior Machine Learning Engineer and Team Leader with 12+ years of experience designing, implementing, and deploying machine learning models and AI-powered features across manufacturing and healthcare domains. Expert at building and maintaining data pipelines for batch and real-time processing, fine-tuning pre-trained models including BERT, Transformers, and LLMs for production use, and applying NLP, generative AI, and recommendation systems to deliver measurable business impact. Strong analytical mindset with proven ability to measure ML model performance in production, mentor team members, review code, and improve engineering standards and processes across cross-functional teams.
+
+TECHNICAL SKILLS
+
+Programming Languages: Python, C++, React.js, JavaScrept, C, SQL, Data Structures & Algorithms (DSA)
+ML Frameworks: PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, SciPy
+AI/ML Techniques: NLP, Transformers, Generative AI, LLM fine-tuning, recommendation systems, ranking models, Flask, deep learning, supervised learning, unsupervised learning, embeddings, vector search, Transformers
+Data Engineering: ETL pipelines, batch pipelines, real-time streaming pipelines, Apache Spark, Hadoop, Airflow, data mining, data preprocessing, design patterns
+Databases & Storage: SQL, NoSQL, vector databases, knowledge graphs, cloud storage
+Cloud & Deployment: AWS, GCP, Azure, Docker, CI/CD pipelines, end-to-end model deployment
+Software Engineering: Algorithms, data structures, object-oriented programming (OOP), code reviews, testing, debugging, software engineering best practices
+Leadership: Team mentoring, cross-functional collaboration, technical documentation, project planning
+
+EXPERIENCE
+Machine Learning Engineer & Team Leader — SMART Technologies | 2021 – Present | Ferney, SD
+
+Designed and implemented ML/AI models for ranking, recommendation, and NLP applications; built and maintained 15+ ETL pipelines and 20+ ML pipelines using PyTorch, Scikit-learn, and NumPy for batch and real-time data processing — taking full ownership of feature development and system health to ensure reliability and scalability at production scale.
+Fine-tuned pre-trained Transformer and deep learning models for production use; deployed machine learning models to cloud infrastructure (Azure Data Factory and ML Pipeline) and monitored performance continuously, achieving 65% improvement in model accuracy across cross-functional engineering teams.
+Mentored and oversaw 3 ML and AI professionals in continuous integration, testing, deployment, and release methodologies; conducted regular code reviews, improved engineering standards and processes, and collaborated closely with product managers, designers, and engineers to deliver new AI-powered features.
+Managed the complete ML lifecycle from end-to-end deployment to continuous system updates with authentication and optimization; applied strong analytical mindset to measure ML model performance in production, identify high-impact improvement opportunities, and maintain alignment with 16 nation-wide research institutions.
+
+Machine Learning Engineer — AI and Robotics Ventures | 2018 – 2021 | Pittsburgh, PA
+
+Designed and implemented end-to-end ML pipelines from scratch using Python and advanced learning algorithms; deployed machine learning models to cloud infrastructure (GCP, AWS) for batch and real-time processing — ensuring high reliability, scalability, and system health across 5 production applications.
+Built and maintained data pipelines for real-time streaming and batch processing; collaborated with 3 data engineers to improve pipeline efficiency, reduce data segmentation delays by 13%, and uplift predictive model precision by 10% through fine-tuning and performance optimization.
+Applied NLP techniques, recommendation systems, and ranking models to deliver AI-powered features with measurable business impact; ran A/B tests and parallel model experiments to evaluate generative AI and deep learning solutions against production benchmarks.
+
+ML Researcher: NLP and Speech Recognition — Carnegie Mellon University | 2016 – 2018 | Pittsburgh, PA
+
+Designed and implemented NLP and speech recognition models applying Transformers, embeddings, and vector search techniques; improved data mining and automation by 45% using scalable classifiers integrating supervised and unsupervised learning algorithms for structured and unstructured data.
+Deployed ML models across cloud infrastructure meeting 100% of all production deadlines; collaborated with 10+ data engineers to improve predictive model performance, focusing on retrieval systems, search algorithms, and RAG (retrieval-augmented generation) solutions for conversational AI applications.
+Applied strong analytical mindset to measure model performance in production; contributed to technical documentation and engineering standards, mentoring team members and improving processes across cross-functional research teams.
+
+
+PROJECTS
+"Where Should I Eat-Out" Chatbot | Python, NLP, Generative AI, APIs, Conversational AI | 2022
+
+Designed and implemented a conversational AI chatbot applying NLP, generative AI, and recommendation system techniques; developed a custom API model enabling the system to analyze user intent and deliver personalized restaurant recommendations — answering 100K+ user queries with high reliability and scalability.
+Applied embeddings, vector search, and ranking models to improve recommendation relevance; monitored system performance and availability in production, proactively identifying and resolving service issues to ensure seamless user experience.
+
+Preprocessing CLI for Healthcare Data | Python, ETL Pipelines, OOP, Pandas, Hadoop | 2020 – 2021
+
+Built and maintained a CLI-based ETL data preprocessing pipeline using Python, Pandas, and object-oriented programming (OOP); converted 10K+ healthcare datasets to be 65% more algorithm-readable through efficient data structures, algorithms, and batch processing techniques.
+Applied software engineering best practices including code reviews, testing, debugging, and documentation; collaborated with data engineers to ensure pipeline reliability, scalability, and maintainability across production environments.
+
+
+EDUCATION
+Ph.D. in Machine Learning — Carnegie Mellon University | 2016 – 2018 | Pittsburgh, PA
+M.S. in Applied Data Science — University of San Diego | 2014 – 2016 | San Diego, CA
+B.S. in Applied Computer Science — University of Nebraska Kearney | 2010 – 2014 | Kearney, NE

@@ -1,0 +1,113 @@
+Souvik Daw
+Github | LinkedIn
+souvikdaw@gmail.com | +91 89109 0
+
+WORK EXPERIENCE
+Software Engineer — TCS | Aug 2021 – Present
+
+Engineered scalable backend services for a core enterprise
+system processing 50,000+ transactions daily maintaining
+99.9% availability. Designed and delivered scalable systems
+for cloud services and enterprise applications with minimal
+oversight ensuring reliability and maintainability.
+
+Developed high-performance RESTful APIs using Spring Boot
+optimizing complex SQL queries and implementing Redis
+caching to reduce average API latency by 40%. Wrote
+debugged refactored and reused code to improve reliability
+ROI and software quality across production systems.
+
+Spearheaded migration of legacy Java monolith to
+event-driven microservices architecture. Decoupled 15+
+critical services using Kafka for asynchronous messaging
+reducing deployment cycles. Designed and delivered
+distributed systems ensuring scalability observability
+and maintainability throughout.
+
+Led production engineering initiatives implementing
+automated monitoring with ELK Stack reducing MTTR for
+critical incidents by 40%. Monitored system health
+provided telemetry and resolved service issues proactively
+with minimal oversight. Identified dependencies coordinated
+with cross-functional teams and contributed to design
+documents.
+
+Broke down complex projects into smaller work items
+provided estimates and tracked execution throughout
+development lifecycle. Stayed current with software
+engineering best practices tools and technologies for
+scalability observability and maintainability.
+
+PROJECTS
+Retail Demand Forecasting System | GitHub
+Python, XGBoost, LSTM, AWS SageMaker, TensorFlow,
+Apache Spark, Airflow, Docker, CI/CD
+- Built production-grade sales forecasting system using
+  XGBoost and LSTM with separate offline training and
+  online inference pipelines.
+- Designed and implemented ML models for ranking and
+  recommendation applications with batch and real-time
+  data pipelines using Apache Spark and Airflow.
+- Implemented feature engineering lags rolling stats and
+  time windows and trained models on AWS SageMaker
+  storing artifacts in S3.
+- Deployed machine learning models to production via
+  FastAPI service invoking SageMaker endpoints using
+  boto3 monitoring performance throughout.
+- Built and maintained batch and real-time processing
+  pipelines ensuring reliability and scalability.
+
+Self-Healing and Self-Improving SRE Agent | GitHub
+Python, LangGraph, Llama, RAG, vector databases,
+LangChain, LangSmith, Docker, AWS
+- Built autonomous SRE agent using LangGraph and
+  Llama 3.1 with RAG to detect analyze and remediate
+  infrastructure incidents in real time.
+- Implemented retrieval augmented generation pipeline
+  with vector databases and embeddings for vector
+  based memory of past incidents.
+- Fine-tuned LLM models and implemented conversational
+  AI interface with safety-first agent design.
+- Implemented Critic hallucination checker and
+  Human-in-the-Loop approvals for high-risk actions.
+- Deployed to AWS with Docker and CI/CD pipelines
+  monitoring model performance in production.
+
+EDUCATION
+Sastra University
+Master of Computer Applications | GPA: 8.59 | 2021 – 2023
+
+The Heritage Academy
+Bachelor of Computer Applications | GPA: 8.86 | 2018 – 2021
+
+SKILLS
+Web Development: Spring Boot, PostgreSQL,
+                 Microservices, React, REST APIs
+AI/ML: Python, Supervised Learning, Unsupervised
+       Learning, TensorFlow, Langchain, LangGraph,
+       LangSmith, XGBoost, NLP, Transformers,
+       recommendation systems, ranking models,
+       embeddings, vector databases, knowledge graphs,
+       Generative AI, LLM fine-tuning, RAG,
+       retrieval augmented generation, Apache Spark,
+       Airflow, Hadoop, batch pipelines,
+       streaming pipelines, Scikit-learn
+DevOps: AWS, EC2, Docker, Kubernetes,
+        GitHub Actions, CI/CD, SageMaker,
+        Jenkins, Monitoring Tools
+Others: System Design, Git, Kafka, Linux,
+        Redis, Caching, DB Design, Messaging,
+        Multithreading, Concurrency, Java, SQL,
+        NoSQL, Cloud Storage, DBMS,
+        Design Patterns, Code Refactoring,
+        Testing, Debugging, Algorithms,
+        Data Structures, OOP, Agile,
+        observability, maintainability,
+        performance monitoring, scalability,
+        technical documentation, project planning
+
+ACHIEVEMENTS
+- 3 A Band performance ratings at TCS
+- 6 On-the-Spot awards at TCS
+- 3 Team Applause recognitions for excellence
+  in delivery and teamwork

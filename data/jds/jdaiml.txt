@@ -1,0 +1,45 @@
+You will design, implement, and deploy machine learning models and AI-powered features that improve product experience and deliver business impact. This role involves working across data pipelines, recommendation systems, NLP, and generative AI solutions. We are looking for engineers excited to apply ML/AI to real-world products and collaborate with cross-functional teams.
+
+Responsibilities:
+
+Design and implement ML/AI models for ranking, recommendation, search, and NLP applications.
+
+Build and maintain data pipelines for batch and real-time processing.
+
+Fine-tune pre-trained models such as BERT, LLMs, or Transformers for production use.
+
+Collaborate with product managers, designers, and engineers to deliver new features.
+
+Own feature development and system health, ensuring reliability and scalability.
+
+Deploy machine learning models to production and monitor performance.
+
+Mentor team members, review code, and improve engineering standards and processes.
+
+Skills & Technologies:
+
+Programming Languages: Python, Java, Scala, Go, Ruby, C, PHP
+
+ML Frameworks: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost
+
+AI/ML Techniques: NLP, Transformers, Generative AI, LLM fine-tuning, recommendation systems, ranking models
+
+Data Engineering: Apache Spark, Hadoop, EMR, MapReduce, Airflow, Dagster, Luigi, batch & streaming pipelines
+
+Databases: SQL, NoSQL, vector databases, knowledge graphs
+
+Cloud & Deployment: AWS, GCP, Docker, CI/CD pipelines
+
+Strong understanding of algorithms, data structures, and software engineering best practices
+
+Preferred Qualifications / Bonus Points:
+
+Experience with conversational AI or agentic systems.
+
+Expertise in retrieval systems, search algorithms, or RAG (retrieval-augmented generation) solutions.
+
+Familiarity with structured and unstructured data, embeddings, and vector search.
+
+Broad experience in NLP, ML, and generative AI applications.
+
+Strong analytical mindset and ability to measure ML model performance in production.

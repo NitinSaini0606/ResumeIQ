@@ -1,0 +1,53 @@
+
+JAMIE LEONARD
+Senior Full Stack Developer
+| Email | linkedin.com | Pittsburgh, PA
+
+SUMMARY
+Senior Full Stack Developer with 7 years of experience developing and maintaining high-quality web applications using React, JavaScript, TypeScript, and Next.js for large-scale financial platforms including Cash App, Venmo, and PayPal. Expert at taking full ownership of complex features across the stack, applying object-oriented programming (OOP) principles, efficient algorithms, data structures, and design patterns to deliver well-designed, testable, accessible, and maintainable code. Strong problem-solving mindset with a proactive approach to identifying high-impact opportunities, setting technical direction, and ensuring polished, intuitive user experience and interface design across cross-functional teams and multiple geographies.
+
+TECHNICAL SKILLS
+
+Frontend Frameworks & Languages: React, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, SCSS, LESS, Bootstrap, Redux, Angular, React Native
+Backend & APIs: Node.js, Flask, Django, .NET, REST APIs, RESTful API design, Mongoose, Python, Java, Docker, Kubernetes, Keras, RAG, CI/CD
+Databases & Storage: SQL, MongoDB, NoSQL, cloud storage
+Developer Tools: Git, GitHub, GitLab, Bitbucket, AWS, DNS Management, Wireframes, VS Code
+Software Engineering Fundamentals: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, Database Management Systems (DBMS), Operating Systems, Computer Networks
+Testing & Code Quality: Unit Testing, Code Reviews, Pair Programming, Cross-browser Compatibility Testing, Automated Test Frameworks
+Soft Skills: Cross-functional collaboration, mentoring, technical direction, UX/UI attention to detail, problem-solving mindset, proactive approach to improvements
+
+
+EXPERIENCE
+Senior Full Stack Developer — Cash App | 2024 – Present | Pittsburgh, PA
+
+Developed and maintained high-quality web applications using React, Next.js, TypeScript, and JavaScript; took full ownership of complex frontend features across the stack — applying object-oriented programming (OOP) principles, efficient algorithms, data structures, and design patterns to deliver well-designed, testable, accessible, and maintainable production code.
+Identified high-impact opportunities and set technical direction for frontend architecture improvements; optimized usability and interface design, increasing app downloads by 30% and improving customer retention by 16% through polished, intuitive user experience enhancements.
+Wrote well-designed, reusable, and maintainable code integrated with Node.js and HTML/CSS into the CMS; monitored system performance and availability, responding to issues proactively — resulting in $40M combined revenue and 98%+ client retention over a 5-year period.
+Participated in code reviews, pair programming, and mentoring sessions across a cross-functional team of 10 developers; collaborated closely with Product, Design, and Engineering teams across multiple geographies to deliver high-quality web applications on time and to the highest standard.
+Restructured automated customer tracking system by applying efficient algorithms and design patterns; wrote, debugged, and refactored maintainable code saving $1M in labor and contractor fees while improving overall system performance and availability.
+
+Senior Full Stack Developer — Venmo | 2022 – 2024 | Pittsburgh, PA
+
+Developed and maintained responsive web applications using React, TypeScript, JavaScript, and Angular; took full ownership of complex features across the stack including native mobile integration — applying object-oriented programming (OOP) principles and design patterns to increase platform user reach by 35%.
+Wrote well-designed, testable, accessible, and maintainable code; overhauled the automated unit testing framework for web services, achieving 90% reduction in debugging and issue resolution time through rigorous code reviews and pair programming practices.
+Reduced daily data processing time by 77% by implementing efficient algorithms and optimized stored procedures; monitored system performance and availability, proactively identifying and resolving service issues across the nationwide web portal.
+Mentored 6 junior full stack developers on React, TypeScript, and Angular frontend frameworks; participated in pair programming and code reviews to improve engineering standards, set technical direction, and foster professional growth across cross-functional teams.
+
+Full Stack Developer — PayPal | 2018 – 2021 | Pittsburgh, PA
+
+Developed and maintained frontend code for customer-facing web applications using React, JavaScript, TypeScript, and CSS; took full ownership of complex UI features across the stack — delivering polished, intuitive interfaces with a strong attention to UX/UI details and seamless user experience, improving customer satisfaction by 40%.
+Collaborated closely with a cross-functional team of 15 developers to build and launch a Java-based platform earning $2.7M in revenue; participated in code reviews, pair programming, and mentoring — applying object-oriented programming (OOP) principles, algorithms, data structures, and design patterns throughout.
+Wrote well-designed, testable, and maintainable code for 10+ web and mobile applications using Python, JavaScript, and CSS; monitored system performance and availability across 4 browsers and 3 standalone applications, responding to issues proactively to ensure high reliability.
+Identified high-impact opportunities and contributed to overall architecture direction; launched a company-wide digitized filing system applying efficient algorithms and design patterns, improving operational efficiency by 20% across all departments.
+
+
+KEY ACHIEVEMENTS
+
+User Growth: Increased Cash App downloads by 30% through frontend redesign using React, TypeScript, and Next.js; improved retention by 16% through polished, intuitive UX/UI improvements.
+Cost Savings: Restructured customer tracking automation using efficient algorithms and well-designed, maintainable code — cutting $1M in labor and contractor expenses.
+Efficiency: Reduced Venmo's daily data processing time by 77% through optimized stored procedures and proactive system performance monitoring.
+Team Development: Mentored 10+ junior developers through pair programming, code reviews, and technical direction setting; strengthened onboarding and raised code quality across cross-functional engineering teams.
+
+
+EDUCATION
+University of Pittsburgh — B.S. in Computer Engineering | 2018 | Pittsburgh, PA

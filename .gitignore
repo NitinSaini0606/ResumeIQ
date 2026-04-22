@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist
+build
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env files (VERY IMPORTANT)
+.env
+.env*
+# Vector DB (important)
+data/vector_store/
+
+# OS
+.DS_Store
+Thumbs.db
+
+output/

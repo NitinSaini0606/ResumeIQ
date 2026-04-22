@@ -1,0 +1,142 @@
+Rajvardhan Patil
+9307831415, Mumbai
+patilraj2472003@gmail.com
+LinkedIn | GitHub | LeetCode
+
+SKILLS
+Frontend: Next.js, React.js, HTML, CSS,
+          Tailwind CSS, Bootstrap,
+          Redux Toolkit, Context API
+Backend: Node.js, Express.js, REST APIs,
+         Microservices, Flask, gRPC APIs,
+         JWT Authentication, RBAC,
+         Sequelize ORM
+Languages: JavaScript, TypeScript, Java,
+           Python, C, C++
+Cloud/DevOps: AWS, GCP, Docker, Kubernetes,
+              CI/CD, Git, GitHub
+Database: MySQL, MongoDB, SQL, NoSQL,
+          Redis, DBMS
+Core CS: Data Structures and Algorithms,
+         OOP, System Design, Design Patterns,
+         Code Refactoring, Testing, Debugging,
+         Unit Testing, Code Reviews,
+         Web Security, Authentication,
+         Performance Optimization
+Practices: Agile, Cross-functional teamwork,
+           Technical documentation,
+           Scalability, Observability
+
+EXPERIENCE
+Software Developer Intern — ACC Mumbai
+Oct 2025 – Feb 2026
+- Designed and implemented full-stack AI-powered
+  web solutions using Node.js TypeScript and
+  OpenSearch taking full ownership of complex
+  features across frontend and backend.
+- Developed dynamic AI-Agent Logs API using
+  Node.js TypeScript and OpenSearch processing
+  5K+ log entries per day with runtime index
+  selection filtering and pagination for efficient
+  log retrieval.
+- Wrote clean reusable well-tested code for
+  production environment following scalability
+  observability and security best practices
+  throughout.
+- Configured and managed Kong API Gateway to
+  onboard 25+ RESTful APIs implementing rate
+  limiting using Redis authentication plugins
+  and routing policies on AWS EC2.
+- Designed and implemented automated log cleanup
+  system using CronJobs removing stale logs weekly
+  and reducing storage usage by 35%.
+- Implemented Role-Based Access Control on EC2
+  servers securing access across 4+ Kong Gateway
+  Workspaces enforcing least-privilege access
+  policies and web security standards.
+- Collaborated with cross-functional teams to
+  debug backend issues document API flows and
+  support production deployments.
+- Monitored system performance availability and
+  reliability proactively identifying issues and
+  resolving service problems throughout.
+- Broke down complex work items into smaller tasks
+  providing accurate estimates and tracking
+  execution.
+- Stayed up-to-date with modern development tools
+  frameworks and best practices for scalability
+  observability and security.
+
+EDUCATION
+MCA — Bharati Vidyapeeth Institute of
+Information Technology
+CGPA: 8.4 | Jun 2026
+
+B.Sc Computer Science — Shivaji University
+CGPA: 9.0 | Mar 2024
+
+XII — S.M.Lohiya College | 72.5% | Feb 2021
+X — D.C.Narke Vidyaniketan | 78.4% | Mar 2019
+
+PROJECTS
+FindMyMess — Homemade Food Ordering Platform
+MongoDB, Express.js, React.js, Node.js,
+Flask, Redux Toolkit, Context API,
+Docker, AWS | GitHub
+- Designed and implemented full-stack MERN
+  platform connecting 100+ users with local
+  mess services delivering polished intuitive
+  user experience.
+- Implemented global state management using
+  Context API and Redux Toolkit to optimize
+  data flow and improve frontend load efficiency
+  by 25%.
+- Designed AI-based recommendation system as
+  Flask microservice using microservices
+  architecture generating personalized dish
+  suggestions from historical orders — integrating
+  AI/ML solutions into production application.
+- Integrated Stripe and Razorpay payment gateways
+  with JWT authentication and Bcrypt encryption
+  implementing web security and authentication
+  best practices.
+- Containerized application using Docker and
+  deployed on AWS with IP whitelisting for
+  secure database and API access supporting
+  200+ API requests per day.
+- Wrote clean reusable well-tested code following
+  software engineering best practices for
+  scalability observability and security.
+- Applied OOP design patterns and algorithms
+  throughout frontend and backend development.
+- Monitored system performance and availability
+  proactively resolving service issues.
+
+TopNewsNow — Full Stack News Aggregation Website
+React.js, Node.js, Express.js, MongoDB,
+JWT, GNews API, Docker, AWS | GitHub
+- Designed and implemented full-stack MERN-based
+  Hindi news platform displaying real-time news
+  articles across multiple categories.
+- Built REST APIs integrating GNews API to fetch
+  and process 50+ news updates per hour with
+  scalability and observability throughout.
+- Implemented JWT-secured authentication and
+  web security standards containerized using
+  Docker and deployed on AWS cloud infrastructure.
+- Wrote clean reusable well-tested code for
+  production environment following performance
+  optimization and security best practices.
+- Broke down complex work items into smaller tasks
+  providing accurate estimates throughout.
+
+ACHIEVEMENTS AND CERTIFICATIONS
+- Solved 200+ DSA problems on LeetCode and GFG
+- Finalist Odoo Hackathon among 19,000+ teams
+- NPTEL Java Programming scored 88% Top 5%
+  nationwide
+- MERN Stack Development certified Apna College
+- Shivaji University Scholarship for academic
+  excellence
+- Organized Bug Bounty Hub event at Bharati
+  Vidyapeeth with 200+ participants

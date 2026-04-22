@@ -1,0 +1,42 @@
+
+Overview:
+You will design, develop, and maintain large-scale, distributed systems that serve millions of users. This role involves building high-performance backend services, optimizing core system performance, ensuring reliability, and collaborating with cross-functional teams to deliver robust software solutions.
+
+Responsibilities:
+
+Design and deliver scalable systems for cloud services and enterprise applications.
+
+Optimize core systems for performance, efficiency, and maintainability.
+
+Write, debug, refactor, and reuse code to improve reliability, ROI, and software quality.
+
+Identify dependencies, coordinate with other teams, and contribute to design documents with minimal oversight.
+
+Monitor system health, provide telemetry, and resolve service issues proactively.
+
+Break down complex projects into smaller work items, provide estimates, and track execution.
+
+Stay current with software engineering best practices, tools, and technologies.
+
+Skills & Technologies:
+
+Programming Languages: C, C++, C#, Java, Python, JavaScript
+
+
+Databases & Storage: SQL, NoSQL, Cloud Storage,DBMS
+
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, Monitoring Tools,Object-Oriented Programming 
+
+Software Engineering: Design Patterns, Data Structures, Algorithms, Code Refactoring, Testing, Debugging
+
+Collaboration: Cross-functional teamwork, technical documentation, project planning
+
+Preferred Qualifications / Bonus Points:
+
+Experience of minimum 3 years with large-scale cloud systems, distributed architectures, and reliability engineering
+
+Strong understanding of system dependencies, design planning, and performance monitoring
+
+Experience working in agile development environments with cross-team coordination
+
+Mastery of software engineering best practices for scalability, observability, and maintainability
