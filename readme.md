@@ -74,6 +74,21 @@ A creative LLM-powered feature that humorously critiques resumes.
 | Tools | Git, GitHub, Postman, VS Code |
 
 ---
+---
+
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-05-01 201455.png")
+
+### Resume Matcher
+![Resume Matcher](screenshots/resume-matcher.png)
+
+### Company Intel Chatbot
+![Company Intel Chatbot](screenshots/company-intel-chatbot.png)
+
+### Resume Roast
+![Resume Roast](screenshots/resume-roast.png)
 
 ## 🏗️ System Architecture
 
