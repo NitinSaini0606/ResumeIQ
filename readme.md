@@ -79,7 +79,7 @@ A creative LLM-powered feature that humorously critiques resumes.
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2026-05-01 201455.png")
+![Landing Page](Screenshot 2026-05-01 201455.png)
 
 ### Resume Matcher
 ![Resume Matcher](screenshots/resume-matcher.png)
