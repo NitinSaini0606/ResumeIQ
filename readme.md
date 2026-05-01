@@ -79,16 +79,16 @@ A creative LLM-powered feature that humorously critiques resumes.
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](Screenshot 2026-05-01 201455.png)
+![Landing Page](home.png)
 
 ### Resume Matcher
-![Resume Matcher](Screenshot 2026-05-01 201455.png)
+![Resume Matcher](home.png)
 
 ### Company Intel Chatbot
-![Company Intel Chatbot](Screenshot 2026-05-01 201455.png)
+![Company Intel Chatbot](home.png)
 
 ### Resume Roast
-![Resume Roast](Screenshot 2026-05-01 201455.png)
+![Resume Roast](home.png)
 
 ## 🏗️ System Architecture
 
