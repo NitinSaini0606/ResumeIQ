@@ -36,7 +36,7 @@ A RAG-based chatbot that answers company-specific hiring queries.
 #### Example Queries
 - What DSA topics are asked at Stripe?
 - What is the interview process at Google?
-- How important is behavioral round at Meta?
+- How important is the behavioral round at Meta?
 
 #### How It Works
 1. Company data is stored in markdown files.
@@ -77,6 +77,7 @@ A creative LLM-powered feature that humorously critiques resumes.
 
 ## 🏗️ System Architecture
 
+```txt
 User Input
    ↓
 React Frontend
@@ -99,8 +100,13 @@ FastAPI Backend
     ├── Resume Text Input
     ├── Prompt Engineering
     └── LLM-Generated Roast Output
+```
 
+---
 
+## 📁 Project Structure
+
+```txt
 ResumeIQ/
 ├── Ui/                # React frontend
 ├── scripts/           # Resume matcher backend
@@ -108,40 +114,52 @@ ResumeIQ/
 ├── data/              # Company data, resumes, job descriptions
 ├── skills.txt         # Skills vocabulary
 └── README.md
+```
 
-[ Add Landing Page Screenshot Here ]
-
-[ Add Resume Matcher Screenshot Here ]
-
-[ Add Chatbot Screenshot Here ]
-
-[ Add Resume Roast Screenshot Here ]
+---
 
 ## ⚙️ Local Setup
 
-### Clone & Run Complete Project
+### 1. Clone Repository
 
-# Clone repository
+```bash
 git clone https://github.com/NitinSaini0606/ResumeIQ.git
 cd ResumeIQ
+```
 
-# Start Resume Matcher Backend
+### 2. Start Resume Matcher Backend
+
+```bash
 cd scripts
 pip install -r requirements.txt
 uvicorn api:app --reload --port 8000
+```
 
-# Start RAG + Resume Roast Backend (open new terminal)
+### 3. Start RAG + Resume Roast Backend
+
+Open a new terminal:
+
+```bash
 cd rag_backend
 pip install -r requirements.txt
 uvicorn api:app --reload --port 8001
+```
 
-# Start Frontend (open new terminal)
+### 4. Start Frontend
+
+Open a new terminal:
+
+```bash
 cd Ui
 npm install
 npm run dev
+```
 
 Frontend runs at:
+
+```txt
 http://localhost:5173
+```
 
 ---
 
@@ -163,11 +181,12 @@ GROQ_MODEL=llama-3.1-8b-instant
 
 ### Resume Matcher
 
-```
+```http
 POST /predict
 ```
 
 Sample request:
+
 ```json
 {
   "resume_text": "Your resume text here",
@@ -180,11 +199,12 @@ Sample request:
 
 ### Company Intel Chatbot
 
-```
+```http
 POST /chat
 ```
 
 Sample request:
+
 ```json
 {
   "query": "What DSA topics are important for Stripe?",
@@ -197,11 +217,12 @@ Sample request:
 
 ### Resume Roast
 
-```
+```http
 POST /roast
 ```
 
 Sample request:
+
 ```json
 {
   "resume_text": "Your resume text here"
@@ -214,30 +235,46 @@ Sample request:
 
 The chatbot uses company-specific markdown files stored in:
 
+```txt
 data/companies/
+```
 
 ### Supported Companies
-- Google  
-- Microsoft  
-- Meta  
-- Amazon  
-- Apple  
-- Flipkart  
-- Stripe  
-- OpenAI  
+
+- Google
+- Microsoft
+- Meta
+- Amazon
+- Apple
+- Flipkart
+- Stripe
+- OpenAI
 
 ---
 
 ## 🔄 RAG Ingestion
 
+Build or update the vector database:
 
-# Build / update vector database
+```bash
 cd rag_backend
 python ingest.py
+```
 
-# Rebuild from scratch
+Rebuild from scratch:
+
+```bash
 python ingest.py --clear
 ```
+
+---
+
+## 📌 Current Status
+
+- Resume Matcher backend runs locally.
+- RAG + Resume Roast backend runs locally.
+- Frontend runs locally with Vite.
+- Deployment optimization is in progress.
 
 
 
