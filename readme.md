@@ -4,7 +4,7 @@ ResumeIQ is a full-stack AI-powered career intelligence platform that analyzes r
 
 It combines **Machine Learning, NLP, Retrieval-Augmented Generation (RAG), and LLMs** to solve real-world hiring problems.
 
-> ⚠️ Note: This project is not deployed yet. Screenshots and local setup are provided for demonstration.
+
 
 ---
 
@@ -173,7 +173,6 @@ GROQ_ROAST_API_KEY=your_api_key_here
 GROQ_MODEL=llama-3.1-8b-instant
 ```
 
-> ⚠️ Do not push `.env` files to GitHub.
 
 ---
 
