@@ -1,4 +1,4 @@
-# 🚀 ResumeIQ — AI-Powered Resume Intelligence Platform
+# ResumeIQ — AI-Powered Resume Intelligence Platform
 
 ResumeIQ is a full-stack AI-powered career intelligence platform that analyzes resumes against job descriptions, provides actionable insights, and helps users understand their readiness for specific roles.
 
@@ -8,9 +8,9 @@ It combines **Machine Learning, NLP, Retrieval-Augmented Generation (RAG), and L
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📊 Resume Matcher
+###  Resume Matcher
 
 A system that evaluates how well a resume matches a job description.
 
@@ -29,7 +29,7 @@ A system that evaluates how well a resume matches a job description.
 
 ---
 
-### 🤖 Company Intel Chatbot
+###  Company Intel Chatbot
 
 A RAG-based chatbot that answers company-specific hiring queries.
 
@@ -48,7 +48,7 @@ A RAG-based chatbot that answers company-specific hiring queries.
 
 ---
 
-### 😈 Resume Roast
+###  Resume Roast
 
 A creative LLM-powered feature that humorously critiques resumes.
 
@@ -61,7 +61,7 @@ A creative LLM-powered feature that humorously critiques resumes.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Category | Tools / Technologies |
 |---|---|
@@ -76,7 +76,7 @@ A creative LLM-powered feature that humorously critiques resumes.
 ---
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Landing Page
 ![Landing Page](home.png)
@@ -178,7 +178,7 @@ http://localhost:5173
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the `rag_backend/` folder:
 
@@ -191,7 +191,7 @@ GROQ_MODEL=llama-3.1-8b-instant
 
 ---
 
-## 🧪 API Endpoints
+##  API Endpoints
 
 ### Resume Matcher
 
@@ -245,7 +245,7 @@ Sample request:
 
 ---
 
-## 🧩 Company Knowledge Base
+##  Company Knowledge Base
 
 The chatbot uses company-specific markdown files stored in:
 
@@ -266,7 +266,7 @@ data/companies/
 
 ---
 
-## 🔄 RAG Ingestion
+##  RAG Ingestion
 
 Build or update the vector database:
 
@@ -283,7 +283,7 @@ python ingest.py --clear
 
 ---
 
-## 📌 Current Status
+##  Current Status
 
 - Resume Matcher backend runs locally.
 - RAG + Resume Roast backend runs locally.
