@@ -78,8 +78,8 @@ A creative LLM-powered feature that humorously critiques resumes.
 
 ##  Screenshots & Video Demo of ResumeIQ
 
-## Project Demo
-👇
+## Project Demo 👇
+
 ▶ [Watch Demo](https://youtu.be/pCEk2U5JBtE)
 
 ### Landing Page
