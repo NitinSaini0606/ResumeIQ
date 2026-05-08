@@ -83,16 +83,16 @@ A creative LLM-powered feature that humorously critiques resumes.
 ▶ [Watch Demo](https://youtu.be/pCEk2U5JBtE)
 
 ### Landing Page
-![Landing Page](home.png)
+![Landing Page](assets/home.png)
 
 ### Resume Matcher
-![Resume Matcher](matcher.png)
+![Resume Matcher](assets/matcher.png)
 
 ### Company Intel Chatbot
-![Company Intel Chatbot](chat.png)
+![Company Intel Chatbot](assets/chat.png)
 
 ### Resume Roast
-![Resume Roast](roast.png)
+![Resume Roast](assets/roast.png)
 
 ## 🏗️ System Architecture
 
@@ -127,7 +127,7 @@ FastAPI Backend
 
 ```txt
 ResumeIQ/
-├── Ui/                # React frontend
+├── Ui/              # React frontend
 ├── scripts/           # Resume matcher backend
 ├── rag_backend/       # RAG chatbot + resume roast backend
 ├── data/              # Company data, resumes, job descriptions
