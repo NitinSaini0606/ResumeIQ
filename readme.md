@@ -76,6 +76,16 @@ A creative LLM-powered feature that humorously critiques resumes.
 ---
 ---
 
+Model:
+- Logistic Regression
+- NLP-based feature extraction
+- SBERT semantic similarity
+- Evaluated on 200+ resume-JD pairs
+
+Metrics:
+- Cross-validation Accuracy: ~91%
+- F1-score: 0.90
+
 ##  Screenshots & Video Demo of ResumeIQ
 
 ## Project Demo 👇
